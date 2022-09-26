@@ -46,7 +46,7 @@ des_df  = des_df.drop(des_df.index[[index]])
 #load the model without lc
 path = os.getcwd()
 dirname = os.path.dirname(path)
-file_path = dirname+"/p_chem/hyperparameters/rf_no_lc.pkl"
+file_path = dirname+"/p_chem/hyperparameters/xgb_no_lc.pkl"
 best_parameters_without_lc = pickle.load(open(file_path,'rb'))
 
 space = {'learning_rate': hp.uniform('learning_rate', 0.01, 0.2),
@@ -62,10 +62,7 @@ n_estimators_ls = [100, 200, 300, 400, 500, 1000, 1500, 2000]
 
 # The dataset without lc informations
 #load the model without lc
-path = os.getcwd()
-dirname = os.path.dirname(path)
-file_path = dirname+"/p_chem/hyperparameters/xgb_no_lc.pkl"
-best_parameters_without_lc = pickle.load(open(file_path,'rb'))
+
 
 
 #Single random run without RT
