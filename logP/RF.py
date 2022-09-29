@@ -5,7 +5,6 @@ Predicting the LogP of molecules by using RF
 
 import numpy as np
 import pandas as pd
-import math
 import time
 import os
 import warnings
