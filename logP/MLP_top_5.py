@@ -35,7 +35,7 @@ path = os.getcwd()
 data_path = path+"/data/descriptors.csv"
 
 # Read only top descriptor
-col_list = ['Exp_RT', 'PEOE_VSA7','VSA_EState6','PEOE_VSA6','TPSA']
+col_list = ['PEOE_VSA7','VSA_EState6','PEOE_VSA6','TPSA']
 des_df = pd.read_csv(data_path,index_col=0, usecols=col_list)
 
 # Remove non_retained molecules
