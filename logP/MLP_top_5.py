@@ -46,7 +46,7 @@ des_df  = des_df.drop(des_df.index[[index]])
 #load the model without lc
 path = os.getcwd()
 dirname = os.path.dirname(path)
-file_path = dirname+"/p_chem/hyperparameters/mlp_no_lc.pkl"
+file_path = dirname+"/p_chem_CEVR/hyperparameters/mlp_no_lc.pkl"
 best_parameters_without_lc = pickle.load(open(file_path,'rb'))
 
 # parameters
@@ -140,7 +140,7 @@ def run_best_model(arg_1,arg_2):
 
 
     all_set_df = pd.DataFrame(all_set,columns=['set','mse','rmse','mae','r2'])
-    all_set_df.to_excel(dirname+"/p_chem/results/top_5_mlp_single_no_rt.xlsx")
+    all_set_df.to_excel(dirname+"/p_chem_CEVR/results/top_5_mlp_single_no_rt.xlsx")
 
     print('\nSingle random run without LC information is done.')
 
