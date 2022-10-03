@@ -33,7 +33,10 @@ lc_df.drop(lc_df[lc_df['Exp_RT'] < 180].index,inplace=True)
 # Import descriptor file
 path = os.getcwd()
 data_path = path+"/data/descriptors.csv"
-des_df = pd.read_csv(data_path,index_col=0)
+
+# Read only top descriptor
+col_list = ['Exp_RT', 'PEOE_VSA7','VSA_EState6','PEOE_VSA6','TPSA']
+des_df = pd.read_csv(data_path,index_col=0, usecols=col_list)
 
 # Remove non_retained molecules
 des_df  = des_df.drop(des_df.index[[index]])
@@ -137,7 +140,7 @@ def run_best_model(arg_1,arg_2):
 
 
     all_set_df = pd.DataFrame(all_set,columns=['set','mse','rmse','mae','r2'])
-    all_set_df.to_excel(dirname+"/p_chem/results/mlp_single_no_rt.xlsx")
+    all_set_df.to_excel(dirname+"/p_chem/results/top_5_mlp_single_no_rt.xlsx")
 
     print('\nSingle random run without LC information is done.')
 
@@ -255,7 +258,7 @@ def run_best_model(arg_1,arg_2):
                 ] 
 
     final = pd.DataFrame(data_res,columns = ['', 'Training',' Validation', 'Testing'])
-    final.to_excel(dirname+"/p_chem/results/mlp_50_no_rt.xlsx")
+    final.to_excel(dirname+"/p_chem/results/top_5_mlp_50_no_rt.xlsx")
     
 run_best_model(des_df,lc_df)
 print('50 repetition run without LC information is done!!!!')
@@ -354,7 +357,7 @@ def run_best_model(arg_1,arg_2):
 
 
     all_set_df = pd.DataFrame(all_set,columns=['set','mse','rmse','mae','r2'])
-    all_set_df.to_excel(dirname+"/p_chem/results/mlp_single_rt.xlsx")
+    all_set_df.to_excel(dirname+"/p_chem/results/top_5_mlp_single_rt.xlsx")
     print('\nSingle random run with LC information is done.')
 
 run_best_model(des_df,lc_df)
@@ -469,7 +472,7 @@ def run_best_model(arg_1,arg_2):
                 ] 
 
     final = pd.DataFrame(data_res,columns = ['', 'Training',' Validation', 'Testing'])
-    final.to_excel(dirname+"/p_chem/results/mlp_50_rt.xlsx")
+    final.to_excel(dirname+"/p_chem/results/top_5_mlp_50_rt.xlsx")
 
  
 run_best_model(des_df,lc_df)
