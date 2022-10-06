@@ -1,8 +1,7 @@
 """
 Author: Zaw
-Predicting the LogP of molecules by using MLP
+Predicting the LogP of molecules by using GB
 """
-
 
 import numpy as np
 import pandas as pd
@@ -37,23 +36,21 @@ lc_df.drop(lc_df[lc_df['Exp_RT'] < 180].index,inplace=True)
 # Import descriptor file
 path = os.getcwd()
 data_path = path+"/data/descriptors.csv"
-
-# Read only top descriptor
-col_list = ['PEOE_VSA7','VSA_EState6','PEOE_VSA6','TPSA']
+col_list = ['PEOE_VSA7','VSA_EState6','PEOE_VSA6','TPSA','MolMR','BCUT2D_LOGPLOW','EState_VSA8','NumAromaticCarbocycles','SlogP_VSA2']#'SlogP_VSA2','VSA_EState8','VSA_EState10','BCUT2D_LOGPHI','SlogP_VSA10','SlogP_VSA5','Kappa3','fr_Ar_OH','EState_VSA1','fr_halogen']
+#col_list = ['LabuteASA','PEOE_VSA1','VSA_EState2','PEOE_VSA14','Kappa3','Chi1','TPSA','NumHAcceptors','RingCount','PEOE_VSA7']
 des_df = pd.read_csv(data_path,usecols=col_list)
 
 # Remove non_retained molecules
 des_df  = des_df.drop(des_df.index[[index]])
 
 
-# # The dataset without lc informations
-# #load the model without lc
-# path = os.getcwd()
-# dirname = os.path.dirname(path)
-# file_path = dirname+"/logP/hyperparameters/mlp_no_lc.pkl"
-# best_parameters_without_lc = pickle.load(open(file_path,'rb'))
+# The dataset without lc informations
+#load the model without lc
+path = os.getcwd()
+dirname = os.path.dirname(path)
+file_path = dirname+"/logP/hyperparameters/xgb_lc.pkl"
+best_parameters_with_lc = pickle.load(open(file_path,'rb'))
 
-# parameters
 space = {'learning_rate': hp.uniform('learning_rate', 0.01, 0.2),
           'gamma': hp.uniform('gamma', 0, 0.2),
           'min_child_weight': hp.choice('min_child_weight', range(1, 6)),
@@ -64,6 +61,11 @@ space = {'learning_rate': hp.uniform('learning_rate', 0.01, 0.2),
 min_child_weight_ls = range(1, 6)
 max_depth_ls = range(3, 10)
 n_estimators_ls = [100, 200, 300, 400, 500, 1000, 1500, 2000]
+
+# The dataset without lc informations
+#load the model without lc
+
+
 
 # #Single random run without RT
 # def run_best_model(arg_1,arg_2):
@@ -116,13 +118,14 @@ n_estimators_ls = [100, 200, 300, 400, 500, 1000, 1500, 2000]
 #     data_tes_x = test.drop(['LogP'],axis=1)
 #     data_tes_y = test['LogP']
 
-#     best_model = MLPRegressor(hidden_layer_sizes = hidden_layer_sizes_list[best_parameters_without_lc['hidden_layer_sizes']],
-#                                 max_iter = max_iter_list[best_parameters_without_lc['max_iter']],
-#                                 activation = activation_list[best_parameters_without_lc['activation']],
-#                                 solver = solver_list[best_parameters_without_lc['solver']],
-#                                 alpha = alpha_list[best_parameters_without_lc['alpha']],
-#                                 learning_rate = learning_rate_list[best_parameters_without_lc['learning_rate']]
-#                                 )
+#     best_model = XGBRegressor( n_estimators=n_estimators_ls[best_parameters_without_lc['n_estimators']], 
+#                                 max_depth=max_depth_ls[best_parameters_without_lc['max_depth']],
+#                                 min_child_weight=min_child_weight_ls[best_parameters_without_lc['min_child_weight']],
+#                                 learning_rate=best_parameters_without_lc['learning_rate'],
+#                                 gamma=best_parameters_without_lc['gamma'],
+#                                 subsample=best_parameters_without_lc['subsample'],
+#                                 colsample_bytree=best_parameters_without_lc['colsample_bytree'],
+#                                 n_jobs=6, random_state=1, seed=1)
 
 #     best_model.fit(data_tra_x,data_tra_y)
 
@@ -148,12 +151,12 @@ n_estimators_ls = [100, 200, 300, 400, 500, 1000, 1500, 2000]
 
 
 #     all_set_df = pd.DataFrame(all_set,columns=['set','mse','rmse','mae','r2'])
-#     all_set_df.to_excel(dirname+"/logP/results/top_5_mlp_single_no_rt.xlsx")
 
-#     print('\nSingle random run without LC information is done.')
+#     all_set_df.to_excel(dirname+"/p_chem/results/xgb_single_no_rt.xlsx")
+
+#     print('\nSingle random run without LC information is done!!!')
 
 # run_best_model(des_df,lc_df)
-
 
 # print('\n50 repetition run without LC information is started...................................')
 # #### run 50 repetitions without RT
@@ -196,6 +199,7 @@ n_estimators_ls = [100, 200, 300, 400, 500, 1000, 1500, 2000]
 #         seed = split
 
 #         # data set preparation
+
 #         train , rest = train_test_split(data,train_size = 0.8,shuffle=True,random_state = seed)
 #         validate , test = train_test_split(rest, train_size = 0.5, shuffle=True,random_state = seed)
 
@@ -211,13 +215,14 @@ n_estimators_ls = [100, 200, 300, 400, 500, 1000, 1500, 2000]
 #         data_tes_x = test.drop(['LogP'],axis=1)
 #         data_tes_y = test['LogP']
 
-#         best_model = MLPRegressor(hidden_layer_sizes = hidden_layer_sizes_list[best_parameters_without_lc['hidden_layer_sizes']],
-#                                     max_iter = max_iter_list[best_parameters_without_lc['max_iter']],
-#                                     activation = activation_list[best_parameters_without_lc['activation']],
-#                                     solver = solver_list[best_parameters_without_lc['solver']],
-#                                     alpha = alpha_list[best_parameters_without_lc['alpha']],
-#                                     learning_rate = learning_rate_list[best_parameters_without_lc['learning_rate']]
-#                                     )
+#         best_model = XGBRegressor( n_estimators=n_estimators_ls[best_parameters_without_lc['n_estimators']], 
+#                                 max_depth=max_depth_ls[best_parameters_without_lc['max_depth']],
+#                                 min_child_weight=min_child_weight_ls[best_parameters_without_lc['min_child_weight']],
+#                                 learning_rate=best_parameters_without_lc['learning_rate'],
+#                                 gamma=best_parameters_without_lc['gamma'],
+#                                 subsample=best_parameters_without_lc['subsample'],
+#                                 colsample_bytree=best_parameters_without_lc['colsample_bytree'],
+#                                 n_jobs=6, random_state=1, seed=1)
 
 #         best_model.fit(data_tra_x,data_tra_y)
 
@@ -266,113 +271,114 @@ n_estimators_ls = [100, 200, 300, 400, 500, 1000, 1500, 2000]
 #                 ] 
 
 #     final = pd.DataFrame(data_res,columns = ['', 'Training',' Validation', 'Testing'])
-#     final.to_excel(dirname+"/logP/results/top_5_mlp_50_no_rt.xlsx")
-    
+#     final.to_excel(dirname+"/p_chem/results/xgb_50_no_rt.xlsx")
+
 # run_best_model(des_df,lc_df)
 # print('50 repetition run without LC information is done!!!!')
 
 
-# The dataset with lc informations
-#load the model without lc
-path = os.getcwd()
-dirname = os.path.dirname(path)
-file_path = dirname+"/logP/hyperparameters/xgb_lc.pkl"
-best_parameters_with_lc = pickle.load(open(file_path,'rb'))
 
-# #Single random run with RT
-# def run_best_model(arg_1,arg_2):
-#     data_set_1 = arg_1
-#     data_set_2 = arg_2
-#     des_with_lc = pd.concat([data_set_1,data_set_2],axis=1)
-#     des_with_lc_feat_corr = des_with_lc.columns[des_with_lc.corrwith(des_with_lc['LogP']) >=0.90][:-1]
-#     des_with_lc = des_with_lc.drop(columns=des_with_lc_feat_corr)
-
-#     # Filling the nan with mean values in des_with_lc
-#     for col in des_with_lc:
-#         des_with_lc[col].fillna(des_with_lc[col].mean(),inplace=True)
-
-#     # Remove columns with zero vlues
-#     des_with_lc = des_with_lc.loc[:,(des_with_lc**2).sum() != 0]
-#     data = des_with_lc.drop(['LogP'],axis=1)
-
-#     # Remove features with low Variance(threshold<=0.05)
-#     data_var = data.var()
-#     del_feat = list(data_var[data_var <= 0.05].index)
-#     data.drop(columns=del_feat, inplace=True)
-
-#     # Remove features with correlation(threshold > 0.95)
-#     corr_matrix = data.corr().abs()
-#     mask = np.triu(np.ones_like(corr_matrix,dtype=bool))
-#     tri_df = corr_matrix.mask(mask)
-#     to_drop =  [ c for c in tri_df.columns if any(tri_df[c] > 0.95)]
-#     data = data.drop(to_drop,axis=1)
-
-#     # Scale the features
-#     cols = list(data)
-#     data[cols] = data[cols].apply(scale,axis=0)
-#     data = pd.concat([data,des_with_lc['LogP']],axis=1)
-
-#     # Single random run
-
-#     # data set preparation
-#     train , rest = train_test_split(data,train_size = 0.8,shuffle=True)
-#     validate , test = train_test_split(rest, train_size = 0.5, shuffle=True)
-
-#     # training set
-#     data_tra_x = train.drop(['LogP'],axis=1)
-#     data_tra_y = train['LogP']
-
-#     # validation set
-#     data_val_x = validate.drop(['LogP'],axis=1)
-#     data_val_y = validate['LogP']
-
-#     # test set
-#     data_tes_x = test.drop(['LogP'],axis=1)
-#     data_tes_y = test['LogP']
-
-#     best_model = MLPRegressor(hidden_layer_sizes = hidden_layer_sizes_list[best_parameters_with_lc['hidden_layer_sizes']],
-#                                 max_iter = max_iter_list[best_parameters_with_lc['max_iter']],
-#                                 activation = activation_list[best_parameters_with_lc['activation']],
-#                                 solver = solver_list[best_parameters_with_lc['solver']],
-#                                 alpha = alpha_list[best_parameters_with_lc['alpha']],
-#                                 learning_rate = learning_rate_list[best_parameters_with_lc['learning_rate']]
-#                                 )
-
-#     best_model.fit(data_tra_x,data_tra_y)
-
-#     # training error
-#     tra_pred = best_model.predict(data_tra_x)
-#     tra_results = ['tra',mean_squared_error(data_tra_y,tra_pred),
-#                 mean_squared_error(data_tra_y,tra_pred,squared=False),
-#                 mean_absolute_error(data_tra_y,tra_pred),
-#                 r2_score(data_tra_y,tra_pred)]
-
-#     # validation error
-#     val_pred = best_model.predict(data_val_x)
-#     val_results = ['val',mean_squared_error(data_val_y,val_pred),
-#                 mean_squared_error(data_val_y,val_pred,squared=False),
-#                 mean_absolute_error(data_val_y,val_pred),
-#                 r2_score(data_val_y,val_pred)]
-#     # testing error
-#     tes_pred = best_model.predict(data_tes_x)
-#     tes_results = ['tes',mean_squared_error(data_tes_y,tes_pred),
-#                 mean_squared_error(data_tes_y,tes_pred,squared=False),
-#                 mean_absolute_error(data_tes_y,tes_pred),
-#                 r2_score(data_tes_y,tes_pred)]
+# # The dataset with lc informations
+# #load the model with lc
+# path = os.getcwd()
+# dirname = os.path.dirname(path)
+# file_path = dirname+"/p_chem/hyperparameters/xgb_lc.pkl"
+# best_parameters_with_lc = pickle.load(open(file_path,'rb'))
 
 
-#     all_set = tra_results,val_results,tes_results
+#Single random run without RT
+def run_best_model(arg_1,arg_2):
+    data_set_1 = arg_1
+    data_set_2 = arg_2
+    des_without_lc = pd.concat([data_set_1,data_set_2['LogP']],axis=1)
+    des_without_lc_feat_corr = des_without_lc.columns[des_without_lc.corrwith(des_without_lc['LogP']) >=0.90][:-1]
+    des_without_lc = des_without_lc.drop(columns=des_without_lc_feat_corr)
+
+    # Filling the nan with mean values in des_with_lc
+    for col in des_without_lc:
+        des_without_lc[col].fillna(des_without_lc[col].mean(),inplace=True)
+
+    # Remove columns with zero vlues
+    des_without_lc = des_without_lc.loc[:,(des_without_lc**2).sum() != 0]
+    data = des_without_lc.drop(['LogP'],axis=1)
+
+    # Remove features with low Variance(threshold <= 0.05)
+    data_var = data.var()
+    del_feat = list(data_var[data_var <= 0.05].index)
+    data.drop(columns=del_feat, inplace=True)
+
+    # Remove features with correlation(threshold >0.95)
+    corr_matrix = data.corr().abs()
+    mask = np.triu(np.ones_like(corr_matrix,dtype=bool))
+    tri_df = corr_matrix.mask(mask)
+    to_drop =  [ c for c in tri_df.columns if any(tri_df[c] > 0.95)]
+    data = data.drop(to_drop,axis=1)
+
+    # Scale the features
+    cols = list(data)
+    data[cols] = data[cols].apply(scale,axis=0)
+    data = pd.concat([data,des_without_lc['LogP']],axis=1)
+
+    # single run
+    # data set preparation
+
+    train , rest = train_test_split(data,train_size = 0.8,shuffle=True)
+    validate , test = train_test_split(rest, train_size = 0.5, shuffle=True)
+
+    # training set
+    data_tra_x = train.drop(['LogP'],axis=1)
+    data_tra_y = train['LogP']
+
+    # validation set
+    data_val_x = validate.drop(['LogP'],axis=1)
+    data_val_y = validate['LogP']
+
+    # test set
+    data_tes_x = test.drop(['LogP'],axis=1)
+    data_tes_y = test['LogP']
+
+    best_model = XGBRegressor( n_estimators=n_estimators_ls[best_parameters_with_lc['n_estimators']], 
+                                max_depth=max_depth_ls[best_parameters_with_lc['max_depth']],
+                                min_child_weight=min_child_weight_ls[best_parameters_with_lc['min_child_weight']],
+                                learning_rate=best_parameters_with_lc['learning_rate'],
+                                gamma=best_parameters_with_lc['gamma'],
+                                subsample=best_parameters_with_lc['subsample'],
+                                colsample_bytree=best_parameters_with_lc['colsample_bytree'],
+                                n_jobs=6, random_state=1, seed=1)
+
+    best_model.fit(data_tra_x,data_tra_y)
+
+    # training error
+    tra_pred = best_model.predict(data_tra_x)
+    tra_results = ['tra',mean_squared_error(data_tra_y,tra_pred),mean_squared_error(data_tra_y,tra_pred,squared=False),
+                mean_absolute_error(data_tra_y,tra_pred),
+                r2_score(data_tra_y,tra_pred)]
+
+    # validation error
+    val_pred = best_model.predict(data_val_x)
+    val_results = ['val',mean_squared_error(data_val_y,val_pred),mean_squared_error(data_val_y,val_pred,squared=False),
+                mean_absolute_error(data_val_y,val_pred),
+                r2_score(data_val_y,val_pred)]
+    # testing error
+    tes_pred = best_model.predict(data_tes_x)
+    tes_results = ['tes',mean_squared_error(data_tes_y,tes_pred),mean_squared_error(data_tes_y,tes_pred,squared=False),
+                mean_absolute_error(data_tes_y,tes_pred),
+                r2_score(data_tes_y,tes_pred)]
 
 
-#     all_set_df = pd.DataFrame(all_set,columns=['set','mse','rmse','mae','r2'])
-#     all_set_df.to_excel(dirname+"/logP/results/top_5_mlp_single_rt.xlsx")
-#     print('\nSingle random run with LC information is done.')
+    all_set = tra_results,val_results,tes_results
 
-# run_best_model(des_df,lc_df)
 
-print('\n50 repetition run with LC information is started...........................')
+    all_set_df = pd.DataFrame(all_set,columns=['set','mse','rmse','mae','r2'])
+    all_set_df.to_excel(dirname+"/logP/results/xgb_single_rt.xlsx")
+    print('\nSingle random run with LC information is done.')
 
-# run 50 repetitions with RT
+
+run_best_model(des_df,lc_df)
+
+
+# print('\n50 repetition run with LC information is started...........................')
+#### run 50 repetitions with RT
 splits = 50
 def run_best_model(arg_1,arg_2):
     data_set_1 = arg_1
@@ -412,7 +418,6 @@ def run_best_model(arg_1,arg_2):
         seed = split
 
         # data set preparation
-
         train , rest = train_test_split(data,train_size = 0.8,shuffle=True,random_state = seed)
         validate , test = train_test_split(rest, train_size = 0.5, shuffle=True,random_state = seed)
 
@@ -428,15 +433,16 @@ def run_best_model(arg_1,arg_2):
         data_tes_x = test.drop(['LogP'],axis=1)
         data_tes_y = test['LogP']
 
-        best_model = XGBRegressor( n_estimators=n_estimators_ls[best_parameters_with_lc['n_estimators']], 
-                                max_depth=max_depth_ls[best_parameters_with_lc['max_depth']],
-                                min_child_weight=min_child_weight_ls[best_parameters_with_lc['min_child_weight']],
-                                learning_rate=best_parameters_with_lc['learning_rate'],
-                                gamma=best_parameters_with_lc['gamma'],
-                                subsample=best_parameters_with_lc['subsample'],
-                                colsample_bytree=best_parameters_with_lc['colsample_bytree'],
-                                n_jobs=6, random_state=1, seed=1)
-                                    
+        best_model = XGBRegressor()
+        # ( n_estimators=n_estimators_ls[best_parameters_with_lc['n_estimators']], 
+        #                         max_depth=max_depth_ls[best_parameters_with_lc['max_depth']],
+        #                         min_child_weight=min_child_weight_ls[best_parameters_with_lc['min_child_weight']],
+        #                         learning_rate=best_parameters_with_lc['learning_rate'],
+        #                         gamma=best_parameters_with_lc['gamma'],
+        #                         subsample=best_parameters_with_lc['subsample'],
+        #                         colsample_bytree=best_parameters_with_lc['colsample_bytree'],
+        #                         n_jobs=6, random_state=1, seed=1)
+
         best_model.fit(data_tra_x,data_tra_y)
 
         # training error
@@ -483,14 +489,11 @@ def run_best_model(arg_1,arg_2):
                 ] 
 
     final = pd.DataFrame(data_res,columns = ['', 'Training',' Validation', 'Testing'])
-    final.to_excel(dirname+"/logP/results/top_5_xgb_50_rt.xlsx")
-
- 
+    final.to_excel(dirname+"/logP/results/top_10_xgb_50_rt.xlsx")
+   
 run_best_model(des_df,lc_df)
 print('50 repetition run with LC information is done!!!!')
 
+
 end = time.time()  # get the end time
 print('\nThe total elapsed time is:', (end - start), 'S')
-
-
-

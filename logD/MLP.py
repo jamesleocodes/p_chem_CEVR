@@ -44,7 +44,7 @@ des_df  = des_df.drop(des_df.index[[index]])
 #load the model without lc
 path = os.getcwd()
 dirname = os.path.dirname(path)
-file_path = dirname+"/p_chem_logd/hyperparameters/mlp_no_lc.pkl"
+file_path = dirname+"/logD/hyperparameters/mlp_no_lc.pkl"
 best_parameters_without_lc = pickle.load(open(file_path,'rb'))
 
 # parameters
@@ -138,7 +138,7 @@ def run_best_model(arg_1,arg_2):
 
 
     all_set_df = pd.DataFrame(all_set,columns=['set','mse','rmse','mae','r2'])
-    all_set_df.to_excel(dirname+"/p_chem_logd/results/mlp_single_no_rt.xlsx")
+    all_set_df.to_excel(dirname+"/logD/results/mlp_single_no_rt.xlsx")
 
     print('\nSingle random run without LC information is done.')
 
@@ -256,7 +256,7 @@ def run_best_model(arg_1,arg_2):
                 ] 
 
     final = pd.DataFrame(data_res,columns = ['', 'Training',' Validation', 'Testing'])
-    final.to_excel(dirname+"/p_chem_logd/results/mlp_50_no_rt.xlsx")
+    final.to_excel(dirname+"/logD/results/mlp_50_no_rt.xlsx")
     
 run_best_model(des_df,lc_df)
 print('50 repetition run without LC information is done!!!!')
@@ -266,7 +266,7 @@ print('50 repetition run without LC information is done!!!!')
 #load the model without lc
 path = os.getcwd()
 dirname = os.path.dirname(path)
-file_path = dirname+"/p_chem_logd/hyperparameters/mlp_lc.pkl"
+file_path = dirname+"/logD/hyperparameters/mlp_lc.pkl"
 best_parameters_with_lc = pickle.load(open(file_path,'rb'))
 
 #Single random run with RT
@@ -355,7 +355,7 @@ def run_best_model(arg_1,arg_2):
 
 
     all_set_df = pd.DataFrame(all_set,columns=['set','mse','rmse','mae','r2'])
-    all_set_df.to_excel(dirname+"/p_chem_logd/results/mlp_single_rt.xlsx")
+    all_set_df.to_excel(dirname+"/logD/results/mlp_single_rt.xlsx")
     print('\nSingle random run with LC information is done.')
 
 run_best_model(des_df,lc_df)
@@ -470,7 +470,7 @@ def run_best_model(arg_1,arg_2):
                 ] 
 
     final = pd.DataFrame(data_res,columns = ['', 'Training',' Validation', 'Testing'])
-    final.to_excel(dirname+"/p_chem_logd/results/mlp_50_rt.xlsx")
+    final.to_excel(dirname+"/Logd/results/mlp_50_rt.xlsx")
 
  
 run_best_model(des_df,lc_df)

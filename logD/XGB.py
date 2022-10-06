@@ -46,7 +46,7 @@ des_df  = des_df.drop(des_df.index[[index]])
 #load the model without lc
 path = os.getcwd()
 dirname = os.path.dirname(path)
-file_path = dirname+"/p_chem_logd/hyperparameters/rf_no_lc.pkl"
+file_path = dirname+"/logD/hyperparameters/rf_no_lc.pkl"
 best_parameters_without_lc = pickle.load(open(file_path,'rb'))
 
 space = {'learning_rate': hp.uniform('learning_rate', 0.01, 0.2),
@@ -64,7 +64,7 @@ n_estimators_ls = [100, 200, 300, 400, 500, 1000, 1500, 2000]
 #load the model without lc
 path = os.getcwd()
 dirname = os.path.dirname(path)
-file_path = dirname+"/p_chem_logd/hyperparameters/xgb_no_lc.pkl"
+file_path = dirname+"/logD/hyperparameters/xgb_no_lc.pkl"
 best_parameters_without_lc = pickle.load(open(file_path,'rb'))
 
 
@@ -153,7 +153,7 @@ def run_best_model(arg_1,arg_2):
 
     all_set_df = pd.DataFrame(all_set,columns=['set','mse','rmse','mae','r2'])
 
-    all_set_df.to_excel(dirname+"/p_chem_logd/results/xgb_single_no_rt.xlsx")
+    all_set_df.to_excel(dirname+"/logD/results/xgb_single_no_rt.xlsx")
 
     print('\nSingle random run without LC information is done!!!')
 
@@ -272,7 +272,7 @@ def run_best_model(arg_1,arg_2):
                 ] 
 
     final = pd.DataFrame(data_res,columns = ['', 'Training',' Validation', 'Testing'])
-    final.to_excel(dirname+"/p_chem_logd/results/xgb_50_no_rt.xlsx")
+    final.to_excel(dirname+"/logD/results/xgb_50_no_rt.xlsx")
 
 run_best_model(des_df,lc_df)
 print('50 repetition run without LC information is done!!!!')
@@ -283,7 +283,7 @@ print('50 repetition run without LC information is done!!!!')
 #load the model with lc
 path = os.getcwd()
 dirname = os.path.dirname(path)
-file_path = dirname+"/p_chem_logd/hyperparameters/xgb_lc.pkl"
+file_path = dirname+"/logD/hyperparameters/xgb_lc.pkl"
 best_parameters_with_lc = pickle.load(open(file_path,'rb'))
 
 
@@ -371,7 +371,7 @@ def run_best_model(arg_1,arg_2):
 
 
     all_set_df = pd.DataFrame(all_set,columns=['set','mse','rmse','mae','r2'])
-    all_set_df.to_excel(dirname+"/p_chem_logd/results/xgb_single_rt.xlsx")
+    all_set_df.to_excel(dirname+"/logD/results/xgb_single_rt.xlsx")
     print('\nSingle random run with LC information is done.')
 
 
@@ -488,7 +488,7 @@ def run_best_model(arg_1,arg_2):
                 ] 
 
     final = pd.DataFrame(data_res,columns = ['', 'Training',' Validation', 'Testing'])
-    final.to_excel(dirname+"/p_chem_logd/results/xgb_50_rt.xlsx")
+    final.to_excel(dirname+"/logD/results/xgb_50_rt.xlsx")
    
 run_best_model(des_df,lc_df)
 print('50 repetition run with LC information is done!!!!')
