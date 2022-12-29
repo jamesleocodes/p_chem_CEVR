@@ -45,5 +45,5 @@ for mol in pbar(mol_obj):
     descs.append(desc_calc.CalcDescriptors(mol))
 descs = np.array(descs)
 df_descs = pd.DataFrame(descs,columns=([x for x in [x[0] for x in Descriptors.descList] if x not in not_used_desc]))
-df_descs.to_csv(path+"/data/descriptors.csv")
+df_descs.to_csv(path+"/data/descriptor_1.csv")
 print('Descriptors calculation is done and saved!!!')
