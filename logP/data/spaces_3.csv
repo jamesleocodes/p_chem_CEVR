@@ -1,0 +1,963 @@
+CompoundID,ChemOntID,ClassifiedResults
+Q10034625-1,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-1,CHEMONTID:0000002,Superclass: Organoheterocyclic compounds
+Q10034625-1,CHEMONTID:0001346,Class: Diazines
+Q10034625-1,CHEMONTID:0000075,Subclass: Pyrimidines and pyrimidine derivatives
+Q10034625-1,CHEMONTID:0000291,Intermediate_nodes: Pyrimidones
+Q10034625-1,CHEMONTID:0000292,Direct_parent: Barbituric acid derivatives
+Q10034625-1,CHEMONTID:0002023,alternative_parents: N-acyl ureas
+Q10034625-1,CHEMONTID:0002389,alternative_parents: Diazinanes
+Q10034625-1,CHEMONTID:0002279,alternative_parents: Benzene and substituted derivatives
+Q10034625-1,CHEMONTID:0003890,alternative_parents: Vinylogous amides
+Q10034625-1,CHEMONTID:0003033,alternative_parents: Dicarboximides
+Q10034625-1,CHEMONTID:0000347,alternative_parents: Amino acids and derivatives
+Q10034625-1,CHEMONTID:0000470,alternative_parents: Enamines
+Q10034625-1,CHEMONTID:0004139,alternative_parents: Azacyclic compounds
+Q10034625-1,CHEMONTID:0004218,alternative_parents: Allylamines
+Q10034625-1,CHEMONTID:0004557,alternative_parents: Organopnictogen compounds
+Q10034625-1,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-1,CHEMONTID:0000469,alternative_parents: Monoalkylamines
+Q10034625-1,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-1,CHEMONTID:0001831,alternative_parents: Carbonyl compounds
+Q10034625-1,NotAvailable,mMlecular_framework: Aromatic heteromonocyclic compounds
+Q10034625-1,NotAvailable,"Substituents: [""Barbiturate"", ""N-acyl urea"", ""Ureide"", ""Monocyclic benzene moiety"", ""1,3-diazinane"", ""Benzenoid"", ""Dicarboximide"", ""Vinylogous amide"", ""Amino acid or derivatives"", ""Carbonic acid derivative"", ""Urea"", ""Carboxylic acid derivative"", ""Allylamine"", ""Enamine"", ""Azacycle"", ""Hydrocarbon derivative"", ""Primary aliphatic amine"", ""Organic nitrogen compound"", ""Organic oxide"", ""Amine"", ""Carbonyl group"", ""Organopnictogen compound"", ""Organic oxygen compound"", ""Organonitrogen compound"", ""Organooxygen compound"", ""Primary amine"", ""Aromatic heteromonocyclic compound""]"
+Q10034625-1,NotAvailable,External_descriptors: []
+Q10034625-1,NotAvailable,"Ancestors: [""Allylamines"", ""Amines"", ""Amino acids and derivatives"", ""Amino acids, peptides, and analogues"", ""Azacyclic compounds"", ""Barbituric acid derivatives"", ""Benzene and substituted derivatives"", ""Benzenoids"", ""Carbonyl compounds"", ""Carboxylic acid derivatives"", ""Carboxylic acid imides"", ""Carboxylic acids and derivatives"", ""Chemical entities"", ""Diazinanes"", ""Diazines"", ""Dicarboximides"", ""Enamines"", ""Hydrocarbon derivatives"", ""Monoalkylamines"", ""N-acyl ureas"", ""Organic acids and derivatives"", ""Organic carbonic acids and derivatives"", ""Organic compounds"", ""Organic nitrogen compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organonitrogen compounds"", ""Organooxygen compounds"", ""Organopnictogen compounds"", ""Primary amines"", ""Pyrimidines and pyrimidine derivatives"", ""Pyrimidones"", ""Ureas"", ""Ureides"", ""Vinylogous amides""]"
+Q10034625-1,NotAvailable,"predicted_chebi_terms: [""N-acylurea (CHEBI:74266)"", ""organic heterocyclic compound (CHEBI:24532)"", ""organonitrogen heterocyclic compound (CHEBI:38101)"", ""benzenes (CHEBI:22712)"", ""enone (CHEBI:51689)"", ""enamine (CHEBI:47989)"", ""dicarboximide (CHEBI:35356)"", ""organonitrogen compound (CHEBI:35352)"", ""organooxygen compound (CHEBI:36963)"", ""amine (CHEBI:32952)"", ""pnictogen molecular entity (CHEBI:33302)"", ""organic molecular entity (CHEBI:50860)"", ""organic oxide (CHEBI:25701)"", ""alkylamine (CHEBI:13759)"", ""organic molecule (CHEBI:72695)"", ""carbonyl compound (CHEBI:36586)"", ""barbiturates (CHEBI:22693)"", ""chemical entity (CHEBI:24431)"", ""ureas (CHEBI:47857)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""amino acid (CHEBI:33709)"", ""peptide (CHEBI:16670)"", ""nitrogen molecular entity (CHEBI:51143)"", ""oxygen molecular entity (CHEBI:25806)"", ""primary amine (CHEBI:32877)"", ""diazines (CHEBI:38313)"", ""pyrimidines (CHEBI:39447)"", ""pyrimidone (CHEBI:38337)""]"
+Q10034625-1,NotAvailable,predicted_lipidmaps_terms: []
+Q10034625-1,NotAvailable,Classification_version: 2.1
+Q10034625-2,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-2,CHEMONTID:0002448,Superclass: Benzenoids
+Q10034625-2,CHEMONTID:0002279,Class: Benzene and substituted derivatives
+Q10034625-2,CHEMONTID:0000036,Subclass: Nitrobenzenes
+Q10034625-2,CHEMONTID:0000036,Direct_parent: Nitrobenzenes
+Q10034625-2,CHEMONTID:0000037,alternative_parents: Styrenes
+Q10034625-2,CHEMONTID:0004612,alternative_parents: Nitroaromatic compounds
+Q10034625-2,CHEMONTID:0000089,alternative_parents: Pyridines and derivatives
+Q10034625-2,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-2,CHEMONTID:0003633,"alternative_parents: Propargyl-type 1,3-dipolar organic compounds"
+Q10034625-2,CHEMONTID:0001508,alternative_parents: Organic oxoazanium compounds
+Q10034625-2,CHEMONTID:0004139,alternative_parents: Azacyclic compounds
+Q10034625-2,CHEMONTID:0004557,alternative_parents: Organopnictogen compounds
+Q10034625-2,CHEMONTID:0000278,alternative_parents: Organonitrogen compounds
+Q10034625-2,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-2,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-2,NotAvailable,mMlecular_framework: Aromatic heteromonocyclic compounds
+Q10034625-2,NotAvailable,"Substituents: [""Nitrobenzene"", ""Nitroaromatic compound"", ""Styrene"", ""Pyridine"", ""Heteroaromatic compound"", ""C-nitro compound"", ""Organic nitro compound"", ""Organic oxoazanium"", ""Allyl-type 1,3-dipolar organic compound"", ""Propargyl-type 1,3-dipolar organic compound"", ""Organic 1,3-dipolar compound"", ""Organoheterocyclic compound"", ""Azacycle"", ""Organic oxide"", ""Organic nitrogen compound"", ""Organic oxygen compound"", ""Organonitrogen compound"", ""Hydrocarbon derivative"", ""Organopnictogen compound"", ""Aromatic heteromonocyclic compound""]"
+Q10034625-2,NotAvailable,External_descriptors: []
+Q10034625-2,NotAvailable,"Ancestors: [""Allyl-type 1,3-dipolar organic compounds"", ""Azacyclic compounds"", ""Benzene and substituted derivatives"", ""Benzenoids"", ""C-nitro compounds"", ""Chemical entities"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Nitroaromatic compounds"", ""Nitrobenzenes"", ""Organic 1,3-dipolar compounds"", ""Organic compounds"", ""Organic nitro compounds"", ""Organic nitrogen compounds"", ""Organic oxides"", ""Organic oxoazanium compounds"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organonitrogen compounds"", ""Organopnictogen compounds"", ""Propargyl-type 1,3-dipolar organic compounds"", ""Pyridines and derivatives"", ""Styrenes""]"
+Q10034625-2,NotAvailable,"predicted_chebi_terms: [""styrenes (CHEBI:26799)"", ""aromatic compound (CHEBI:33655)"", ""pyridines (CHEBI:26421)"", ""organic aromatic compound (CHEBI:33659)"", ""dipolar compound (CHEBI:51151)"", ""nitrogen molecular entity (CHEBI:51143)"", ""organooxygen compound (CHEBI:36963)"", ""organonitrogen heterocyclic compound (CHEBI:38101)"", ""pnictogen molecular entity (CHEBI:33302)"", ""organic molecular entity (CHEBI:50860)"", ""organonitrogen compound (CHEBI:35352)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""nitrobenzenes (CHEBI:48109)"", ""chemical entity (CHEBI:24431)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""benzenes (CHEBI:22712)"", ""nitro compound (CHEBI:35715)"", ""organic heterocyclic compound (CHEBI:24532)"", ""oxygen molecular entity (CHEBI:25806)""]"
+Q10034625-2,NotAvailable,predicted_lipidmaps_terms: []
+Q10034625-2,NotAvailable,Classification_version: 2.1
+Q10034625-3,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-3,CHEMONTID:0000002,Superclass: Organoheterocyclic compounds
+Q10034625-3,CHEMONTID:0000211,Class: Indoles and derivatives
+Q10034625-3,CHEMONTID:0000210,Subclass: Carbazoles
+Q10034625-3,CHEMONTID:0000210,Direct_parent: Carbazoles
+Q10034625-3,CHEMONTID:0002829,"alternative_parents: Pyrrolo[4,3,2-de]quinolines"
+Q10034625-3,CHEMONTID:0002414,alternative_parents: Pyridinecarboxylic acids
+Q10034625-3,CHEMONTID:0002497,alternative_parents: Indoles
+Q10034625-3,CHEMONTID:0004152,alternative_parents: Methylpyridines
+Q10034625-3,CHEMONTID:0002448,alternative_parents: Benzenoids
+Q10034625-3,CHEMONTID:0000090,alternative_parents: Pyrroles
+Q10034625-3,CHEMONTID:0003416,alternative_parents: Methyl esters
+Q10034625-3,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-3,CHEMONTID:0004139,alternative_parents: Azacyclic compounds
+Q10034625-3,CHEMONTID:0000323,alternative_parents: Organooxygen compounds
+Q10034625-3,CHEMONTID:0000278,alternative_parents: Organonitrogen compounds
+Q10034625-3,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-3,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-3,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-3,NotAvailable,"Substituents: [""Carbazole"", ""Pyrroloquinoline"", ""Pyrrolo[4,3,2-de]quinoline"", ""Quinoline"", ""Indole"", ""Pyridine carboxylic acid"", ""Pyridine carboxylic acid or derivatives"", ""Methylpyridine"", ""Benzenoid"", ""Pyridine"", ""Heteroaromatic compound"", ""Methyl ester"", ""Pyrrole"", ""Carboxylic acid ester"", ""Carboxylic acid derivative"", ""Azacycle"", ""Organooxygen compound"", ""Organonitrogen compound"", ""Organic oxide"", ""Organic oxygen compound"", ""Hydrocarbon derivative"", ""Organic nitrogen compound"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-3,NotAvailable,External_descriptors: []
+Q10034625-3,NotAvailable,"Ancestors: [""Azacyclic compounds"", ""Benzenoids"", ""Carbazoles"", ""Carboxylic acid derivatives"", ""Carboxylic acid esters"", ""Carboxylic acids and derivatives"", ""Chemical entities"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Indoles"", ""Indoles and derivatives"", ""Methyl esters"", ""Methylpyridines"", ""Monocarboxylic acids and derivatives"", ""Organic acids and derivatives"", ""Organic compounds"", ""Organic nitrogen compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organonitrogen compounds"", ""Organooxygen compounds"", ""Pyridinecarboxylic acids"", ""Pyridinecarboxylic acids and derivatives"", ""Pyridines and derivatives"", ""Pyrroles"", ""Pyrrolo[4,3,2-de]quinolines"", ""Pyrroloquinolines"", ""Quinolines and derivatives""]"
+Q10034625-3,NotAvailable,"predicted_chebi_terms: [""pyrroloquinoline (CHEBI:50918)"", ""pyridines (CHEBI:26421)"", ""aromatic carboxylic acid (CHEBI:33859)"", ""indoles (CHEBI:24828)"", ""methylpyridines (CHEBI:25340)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""pyrroles (CHEBI:26455)"", ""carboxylic ester (CHEBI:33308)"", ""organic aromatic compound (CHEBI:33659)"", ""organonitrogen heterocyclic compound (CHEBI:38101)"", ""organooxygen compound (CHEBI:36963)"", ""organonitrogen compound (CHEBI:35352)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""carbazoles (CHEBI:48513)"", ""chemical entity (CHEBI:24431)"", ""organic heterocyclic compound (CHEBI:24532)"", ""quinolines (CHEBI:26513)"", ""pyridinemonocarboxylic acid (CHEBI:26420)"", ""organic acid (CHEBI:64709)"", ""carboxylic acid (CHEBI:33575)"", ""oxygen molecular entity (CHEBI:25806)"", ""organic molecular entity (CHEBI:50860)"", ""nitrogen molecular entity (CHEBI:51143)""]"
+Q10034625-3,NotAvailable,predicted_lipidmaps_terms: []
+Q10034625-3,NotAvailable,Classification_version: 2.1
+Q10034625-4,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-4,CHEMONTID:0000002,Superclass: Organoheterocyclic compounds
+Q10034625-4,CHEMONTID:0000309,Class: Benzothiazines
+Q10034625-4,CHEMONTID:0000309,Direct_parent: Benzothiazines
+Q10034625-4,CHEMONTID:0000036,alternative_parents: Nitrobenzenes
+Q10034625-4,CHEMONTID:0004612,alternative_parents: Nitroaromatic compounds
+Q10034625-4,CHEMONTID:0004631,alternative_parents: Aryl thioethers
+Q10034625-4,CHEMONTID:0002458,alternative_parents: Secondary alkylarylamines
+Q10034625-4,CHEMONTID:0001349,"alternative_parents: 1,4-thiazines"
+Q10034625-4,CHEMONTID:0003633,"alternative_parents: Propargyl-type 1,3-dipolar organic compounds"
+Q10034625-4,CHEMONTID:0001508,alternative_parents: Organic oxoazanium compounds
+Q10034625-4,CHEMONTID:0000470,alternative_parents: Enamines
+Q10034625-4,CHEMONTID:0003034,alternative_parents: C-nitroso compounds
+Q10034625-4,CHEMONTID:0004139,alternative_parents: Azacyclic compounds
+Q10034625-4,CHEMONTID:0004557,alternative_parents: Organopnictogen compounds
+Q10034625-4,CHEMONTID:0003610,alternative_parents: Organic zwitterions
+Q10034625-4,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-4,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-4,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-4,NotAvailable,"Substituents: [""Benzothiazine"", ""Nitrobenzene"", ""Aryl thioether"", ""Nitroaromatic compound"", ""Secondary aliphatic/aromatic amine"", ""Para-thiazine"", ""Monocyclic benzene moiety"", ""Benzenoid"", ""C-nitro compound"", ""Organic nitro compound"", ""Organic 1,3-dipolar compound"", ""Propargyl-type 1,3-dipolar organic compound"", ""Allyl-type 1,3-dipolar organic compound"", ""Azacycle"", ""C-nitroso compound"", ""Secondary amine"", ""Enamine"", ""Organic nitroso compound"", ""Organic oxoazanium"", ""Hydrocarbon derivative"", ""Organopnictogen compound"", ""Organonitrogen compound"", ""Organic oxide"", ""Organic zwitterion"", ""Organic oxygen compound"", ""Organic nitrogen compound"", ""Amine"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-4,NotAvailable,External_descriptors: []
+Q10034625-4,NotAvailable,"Ancestors: [""1,4-thiazines"", ""Allyl-type 1,3-dipolar organic compounds"", ""Amines"", ""Aryl thioethers"", ""Azacyclic compounds"", ""Benzene and substituted derivatives"", ""Benzenoids"", ""Benzothiazines"", ""C-nitro compounds"", ""C-nitroso compounds"", ""Chemical entities"", ""Enamines"", ""Hydrocarbon derivatives"", ""Nitroaromatic compounds"", ""Nitrobenzenes"", ""Organic 1,3-dipolar compounds"", ""Organic compounds"", ""Organic nitro compounds"", ""Organic nitrogen compounds"", ""Organic nitroso compounds"", ""Organic oxides"", ""Organic oxoazanium compounds"", ""Organic oxygen compounds"", ""Organic zwitterions"", ""Organoheterocyclic compounds"", ""Organonitrogen compounds"", ""Organopnictogen compounds"", ""Organosulfur compounds"", ""Propargyl-type 1,3-dipolar organic compounds"", ""Secondary alkylarylamines"", ""Secondary amines"", ""Thiazines"", ""Thioethers""]"
+Q10034625-4,NotAvailable,"predicted_chebi_terms: [""nitrobenzenes (CHEBI:48109)"", ""aromatic compound (CHEBI:33655)"", ""aryl sulfide (CHEBI:35683)"", ""secondary amine (CHEBI:32863)"", ""1,4-thiazine (CHEBI:46976)"", ""dipolar compound (CHEBI:51151)"", ""nitrogen molecular entity (CHEBI:51143)"", ""organooxygen compound (CHEBI:36963)"", ""enamine (CHEBI:47989)"", ""nitroso compound (CHEBI:35800)"", ""organonitrogen heterocyclic compound (CHEBI:38101)"", ""pnictogen molecular entity (CHEBI:33302)"", ""organic molecular entity (CHEBI:50860)"", ""zwitterion (CHEBI:27369)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""benzothiazine (CHEBI:46899)"", ""chemical entity (CHEBI:24431)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""benzenes (CHEBI:22712)"", ""nitro compound (CHEBI:35715)"", ""organosulfur compound (CHEBI:33261)"", ""organic sulfide (CHEBI:16385)"", ""organonitrogen compound (CHEBI:35352)"", ""amine (CHEBI:32952)"", ""organic heterocyclic compound (CHEBI:24532)"", ""thiazine (CHEBI:38326)"", ""oxygen molecular entity (CHEBI:25806)""]"
+Q10034625-4,NotAvailable,predicted_lipidmaps_terms: []
+Q10034625-4,NotAvailable,Classification_version: 2.1
+Q10034625-5,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-5,CHEMONTID:0000002,Superclass: Organoheterocyclic compounds
+Q10034625-5,CHEMONTID:0000211,Class: Indoles and derivatives
+Q10034625-5,CHEMONTID:0002497,Subclass: Indoles
+Q10034625-5,CHEMONTID:0002497,Direct_parent: Indoles
+Q10034625-5,CHEMONTID:0002257,alternative_parents: Substituted pyrroles
+Q10034625-5,CHEMONTID:0002448,alternative_parents: Benzenoids
+Q10034625-5,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-5,CHEMONTID:0004117,alternative_parents: C-nitro compounds
+Q10034625-5,CHEMONTID:0003633,"alternative_parents: Propargyl-type 1,3-dipolar organic compounds"
+Q10034625-5,CHEMONTID:0001508,alternative_parents: Organic oxoazanium compounds
+Q10034625-5,CHEMONTID:0004139,alternative_parents: Azacyclic compounds
+Q10034625-5,CHEMONTID:0004557,alternative_parents: Organopnictogen compounds
+Q10034625-5,CHEMONTID:0000278,alternative_parents: Organonitrogen compounds
+Q10034625-5,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-5,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-5,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-5,NotAvailable,"Substituents: [""Indole"", ""Substituted pyrrole"", ""Benzenoid"", ""Pyrrole"", ""Heteroaromatic compound"", ""C-nitro compound"", ""Organic nitro compound"", ""Organic oxoazanium"", ""Allyl-type 1,3-dipolar organic compound"", ""Propargyl-type 1,3-dipolar organic compound"", ""Organic 1,3-dipolar compound"", ""Azacycle"", ""Organic oxide"", ""Organopnictogen compound"", ""Hydrocarbon derivative"", ""Organic nitrogen compound"", ""Organic oxygen compound"", ""Organonitrogen compound"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-5,NotAvailable,External_descriptors: []
+Q10034625-5,NotAvailable,"Ancestors: [""Allyl-type 1,3-dipolar organic compounds"", ""Azacyclic compounds"", ""Benzenoids"", ""C-nitro compounds"", ""Chemical entities"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Indoles"", ""Indoles and derivatives"", ""Organic 1,3-dipolar compounds"", ""Organic compounds"", ""Organic nitro compounds"", ""Organic nitrogen compounds"", ""Organic oxides"", ""Organic oxoazanium compounds"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organonitrogen compounds"", ""Organopnictogen compounds"", ""Propargyl-type 1,3-dipolar organic compounds"", ""Pyrroles"", ""Substituted pyrroles""]"
+Q10034625-5,NotAvailable,"predicted_chebi_terms: [""pyrroles (CHEBI:26455)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""organic aromatic compound (CHEBI:33659)"", ""dipolar compound (CHEBI:51151)"", ""nitrogen molecular entity (CHEBI:51143)"", ""organooxygen compound (CHEBI:36963)"", ""organonitrogen heterocyclic compound (CHEBI:38101)"", ""pnictogen molecular entity (CHEBI:33302)"", ""organic molecular entity (CHEBI:50860)"", ""organonitrogen compound (CHEBI:35352)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""indoles (CHEBI:24828)"", ""chemical entity (CHEBI:24431)"", ""organic heterocyclic compound (CHEBI:24532)"", ""nitro compound (CHEBI:35715)"", ""oxygen molecular entity (CHEBI:25806)""]"
+Q10034625-5,NotAvailable,predicted_lipidmaps_terms: []
+Q10034625-5,NotAvailable,Classification_version: 2.1
+Q10034625-6,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-6,CHEMONTID:0000002,Superclass: Organoheterocyclic compounds
+Q10034625-6,CHEMONTID:0000090,Class: Pyrroles
+Q10034625-6,CHEMONTID:0002554,Subclass: Pyrrole carboxylic acids and derivatives
+Q10034625-6,CHEMONTID:0002554,Direct_parent: Pyrrole carboxylic acids and derivatives
+Q10034625-6,CHEMONTID:0000324,alternative_parents: Fatty acid esters
+Q10034625-6,CHEMONTID:0002257,alternative_parents: Substituted pyrroles
+Q10034625-6,CHEMONTID:0000346,alternative_parents: Dicarboxylic acids and derivatives
+Q10034625-6,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-6,CHEMONTID:0003626,alternative_parents: Enoate esters
+Q10034625-6,CHEMONTID:0004139,alternative_parents: Azacyclic compounds
+Q10034625-6,CHEMONTID:0004557,alternative_parents: Organopnictogen compounds
+Q10034625-6,CHEMONTID:0000278,alternative_parents: Organonitrogen compounds
+Q10034625-6,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-6,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-6,CHEMONTID:0001831,alternative_parents: Carbonyl compounds
+Q10034625-6,NotAvailable,mMlecular_framework: Aromatic heteromonocyclic compounds
+Q10034625-6,NotAvailable,"Substituents: [""Pyrrole-2-carboxylic acid or derivatives"", ""Fatty acid ester"", ""Dicarboxylic acid or derivatives"", ""Substituted pyrrole"", ""Fatty acyl"", ""Enoate ester"", ""Alpha,beta-unsaturated carboxylic ester"", ""Heteroaromatic compound"", ""Carboxylic acid ester"", ""Azacycle"", ""Carboxylic acid derivative"", ""Carbonyl group"", ""Organic oxide"", ""Organopnictogen compound"", ""Organooxygen compound"", ""Organonitrogen compound"", ""Organic oxygen compound"", ""Organic nitrogen compound"", ""Hydrocarbon derivative"", ""Aromatic heteromonocyclic compound""]"
+Q10034625-6,NotAvailable,External_descriptors: []
+Q10034625-6,NotAvailable,"Ancestors: [""Alpha,beta-unsaturated carboxylic esters"", ""Azacyclic compounds"", ""Carbonyl compounds"", ""Carboxylic acid derivatives"", ""Carboxylic acid esters"", ""Carboxylic acids and derivatives"", ""Chemical entities"", ""Dicarboxylic acids and derivatives"", ""Enoate esters"", ""Fatty Acyls"", ""Fatty acid esters"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Lipids and lipid-like molecules"", ""Organic acids and derivatives"", ""Organic compounds"", ""Organic nitrogen compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organonitrogen compounds"", ""Organooxygen compounds"", ""Organopnictogen compounds"", ""Pyrrole carboxylic acids and derivatives"", ""Pyrroles"", ""Substituted pyrroles""]"
+Q10034625-6,NotAvailable,"predicted_chebi_terms: [""fatty acid ester (CHEBI:35748)"", ""pyrroles (CHEBI:26455)"", ""dicarboxylic acid (CHEBI:35692)"", ""organic aromatic compound (CHEBI:33659)"", ""enoate ester (CHEBI:51702)"", ""organonitrogen heterocyclic compound (CHEBI:38101)"", ""pnictogen molecular entity (CHEBI:33302)"", ""organic molecular entity (CHEBI:50860)"", ""organonitrogen compound (CHEBI:35352)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""carbonyl compound (CHEBI:36586)"", ""chemical entity (CHEBI:24431)"", ""lipid (CHEBI:18059)"", ""organooxygen compound (CHEBI:36963)"", ""organic heterocyclic compound (CHEBI:24532)"", ""carboxylic ester (CHEBI:33308)"", ""alpha,beta-unsaturated carboxylic ester (CHEBI:51737)"", ""nitrogen molecular entity (CHEBI:51143)"", ""oxygen molecular entity (CHEBI:25806)""]"
+Q10034625-6,NotAvailable,"predicted_lipidmaps_terms: [""Fatty esters (FA07)"", ""Dicarboxylic acids (FA0117)"", ""Fatty Acyls (FA)""]"
+Q10034625-6,NotAvailable,Classification_version: 2.1
+Q10034625-7,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-7,CHEMONTID:0004603,Superclass: Organic oxygen compounds
+Q10034625-7,CHEMONTID:0000323,Class: Organooxygen compounds
+Q10034625-7,CHEMONTID:0001831,Subclass: Carbonyl compounds
+Q10034625-7,CHEMONTID:0000118,Intermediate_nodes: Ketones
+Q10034625-7,CHEMONTID:0003670,Intermediate_nodes: Aryl ketones
+Q10034625-7,CHEMONTID:0003671,Direct_parent: Aryl alkyl ketones
+Q10034625-7,CHEMONTID:0000481,alternative_parents: Pyranones and derivatives
+Q10034625-7,CHEMONTID:0000128,alternative_parents: Alkyl aryl ethers
+Q10034625-7,CHEMONTID:0003891,alternative_parents: Vinylogous esters
+Q10034625-7,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-7,CHEMONTID:0001661,alternative_parents: Secondary alcohols
+Q10034625-7,CHEMONTID:0000050,alternative_parents: Lactones
+Q10034625-7,CHEMONTID:0004140,alternative_parents: Oxacyclic compounds
+Q10034625-7,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-7,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-7,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-7,NotAvailable,"Substituents: [""Aryl alkyl ketone"", ""Pyranone"", ""Alkyl aryl ether"", ""Pyran"", ""Heteroaromatic compound"", ""Vinylogous ester"", ""Secondary alcohol"", ""Lactone"", ""Oxacycle"", ""Organoheterocyclic compound"", ""Ether"", ""Organic oxide"", ""Hydrocarbon derivative"", ""Alcohol"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-7,NotAvailable,External_descriptors: []
+Q10034625-7,NotAvailable,"Ancestors: [""Alcohols and polyols"", ""Alkyl aryl ethers"", ""Aryl alkyl ketones"", ""Aryl ketones"", ""Carbonyl compounds"", ""Chemical entities"", ""Ethers"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Ketones"", ""Lactones"", ""Organic acids and derivatives"", ""Organic compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organooxygen compounds"", ""Oxacyclic compounds"", ""Pyranones and derivatives"", ""Pyrans"", ""Secondary alcohols"", ""Vinylogous esters""]"
+Q10034625-7,NotAvailable,"predicted_chebi_terms: [""pyranone (CHEBI:37963)"", ""aromatic ether (CHEBI:35618)"", ""enone (CHEBI:51689)"", ""enol ether (CHEBI:47985)"", ""organic aromatic compound (CHEBI:33659)"", ""secondary alcohol (CHEBI:35681)"", ""lactone (CHEBI:25000)"", ""oxacycle (CHEBI:38104)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""aromatic ketone (CHEBI:76224)"", ""chemical entity (CHEBI:24431)"", ""organic heterocyclic compound (CHEBI:24532)"", ""pyrans (CHEBI:26407)"", ""oxygen molecular entity (CHEBI:25806)"", ""organic molecular entity (CHEBI:50860)"", ""organooxygen compound (CHEBI:36963)"", ""ether (CHEBI:25698)"", ""polyol (CHEBI:26191)"", ""organic hydroxy compound (CHEBI:33822)"", ""alcohol (CHEBI:30879)"", ""carbonyl compound (CHEBI:36586)"", ""ketone (CHEBI:17087)""]"
+Q10034625-7,NotAvailable,predicted_lipidmaps_terms: []
+Q10034625-7,NotAvailable,Classification_version: 2.1
+Q10034625-8,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-8,CHEMONTID:0000264,Superclass: Organic acids and derivatives
+Q10034625-8,CHEMONTID:0000265,Class: Carboxylic acids and derivatives
+Q10034625-8,CHEMONTID:0000013,"Subclass: Amino acids, peptides, and analogues"
+Q10034625-8,CHEMONTID:0000347,Intermediate_nodes: Amino acids and derivatives
+Q10034625-8,CHEMONTID:0001878,Direct_parent: Beta amino acids and derivatives
+Q10034625-8,CHEMONTID:0000335,alternative_parents: N-acylpiperidines
+Q10034625-8,CHEMONTID:0002564,alternative_parents: Dichlorobenzenes
+Q10034625-8,CHEMONTID:0001581,alternative_parents: Piperidinones
+Q10034625-8,CHEMONTID:0000392,alternative_parents: Morpholines
+Q10034625-8,CHEMONTID:0001030,alternative_parents: Aryl chlorides
+Q10034625-8,CHEMONTID:0001664,alternative_parents: Tertiary carboxylic acid amides
+Q10034625-8,CHEMONTID:0002239,alternative_parents: Trialkylamines
+Q10034625-8,CHEMONTID:0003487,alternative_parents: Cyclic ketones
+Q10034625-8,CHEMONTID:0004140,alternative_parents: Oxacyclic compounds
+Q10034625-8,CHEMONTID:0001167,alternative_parents: Dialkyl ethers
+Q10034625-8,CHEMONTID:0004139,alternative_parents: Azacyclic compounds
+Q10034625-8,CHEMONTID:0004557,alternative_parents: Organopnictogen compounds
+Q10034625-8,CHEMONTID:0001516,alternative_parents: Organochlorides
+Q10034625-8,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-8,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-8,NotAvailable,mMlecular_framework: Aromatic heteromonocyclic compounds
+Q10034625-8,NotAvailable,"Substituents: [""Beta amino acid or derivatives"", ""N-acyl-piperidine"", ""1,2-dichlorobenzene"", ""Piperidinone"", ""Halobenzene"", ""Chlorobenzene"", ""Aryl chloride"", ""Morpholine"", ""Oxazinane"", ""Piperidine"", ""Aryl halide"", ""Benzenoid"", ""Monocyclic benzene moiety"", ""Tertiary carboxylic acid amide"", ""Tertiary aliphatic amine"", ""Cyclic ketone"", ""Ketone"", ""Tertiary amine"", ""Carboxamide group"", ""Oxacycle"", ""Dialkyl ether"", ""Azacycle"", ""Ether"", ""Organoheterocyclic compound"", ""Organic oxygen compound"", ""Organic nitrogen compound"", ""Amine"", ""Hydrocarbon derivative"", ""Carbonyl group"", ""Organic oxide"", ""Organopnictogen compound"", ""Organooxygen compound"", ""Organonitrogen compound"", ""Organochloride"", ""Organohalogen compound"", ""Aromatic heteromonocyclic compound""]"
+Q10034625-8,NotAvailable,External_descriptors: []
+Q10034625-8,NotAvailable,"Ancestors: [""Amines"", ""Amino acids and derivatives"", ""Amino acids, peptides, and analogues"", ""Aryl chlorides"", ""Aryl halides"", ""Azacyclic compounds"", ""Benzene and substituted derivatives"", ""Benzenoids"", ""Beta amino acids and derivatives"", ""Carbonyl compounds"", ""Carboxylic acid amides"", ""Carboxylic acid derivatives"", ""Carboxylic acids and derivatives"", ""Chemical entities"", ""Chlorobenzenes"", ""Cyclic ketones"", ""Dialkyl ethers"", ""Dichlorobenzenes"", ""Ethers"", ""Halobenzenes"", ""Hydrocarbon derivatives"", ""Ketones"", ""Morpholines"", ""N-acylpiperidines"", ""Organic acids and derivatives"", ""Organic compounds"", ""Organic nitrogen compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organochlorides"", ""Organohalogen compounds"", ""Organoheterocyclic compounds"", ""Organonitrogen compounds"", ""Organooxygen compounds"", ""Organopnictogen compounds"", ""Oxacyclic compounds"", ""Oxazinanes"", ""Piperidines"", ""Piperidinones"", ""Tertiary amines"", ""Tertiary carboxylic acid amides"", ""Trialkylamines""]"
+Q10034625-8,NotAvailable,"predicted_chebi_terms: [""N-acylpiperidine (CHEBI:48591)"", ""dichlorobenzene (CHEBI:23697)"", ""piperidones (CHEBI:48589)"", ""morpholines (CHEBI:38785)"", ""organochlorine compound (CHEBI:36683)"", ""carboxamide (CHEBI:37622)"", ""tertiary amino compound (CHEBI:50996)"", ""cyclic ketone (CHEBI:3992)"", ""oxacycle (CHEBI:38104)"", ""ether (CHEBI:25698)"", ""organonitrogen heterocyclic compound (CHEBI:38101)"", ""pnictogen molecular entity (CHEBI:33302)"", ""organic molecular entity (CHEBI:50860)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""organonitrogen compound (CHEBI:35352)"", ""organooxygen compound (CHEBI:36963)"", ""chemical entity (CHEBI:24431)"", ""organic heterocyclic compound (CHEBI:24532)"", ""piperidines (CHEBI:26151)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""benzenes (CHEBI:22712)"", ""organohalogen compound (CHEBI:36684)"", ""oxazinane (CHEBI:46952)"", ""haloarene (CHEBI:50887)"", ""amide (CHEBI:32988)"", ""nitrogen molecular entity (CHEBI:51143)"", ""amine (CHEBI:32952)"", ""tertiary amine (CHEBI:32876)"", ""oxygen molecular entity (CHEBI:25806)"", ""carbonyl compound (CHEBI:36586)"", ""ketone (CHEBI:17087)"", ""amino acid (CHEBI:33709)"", ""peptide (CHEBI:16670)""]"
+Q10034625-8,NotAvailable,predicted_lipidmaps_terms: []
+Q10034625-8,NotAvailable,Classification_version: 2.1
+Q10034625-9,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-9,CHEMONTID:0000261,Superclass: Phenylpropanoids and polyketides
+Q10034625-9,CHEMONTID:0000476,Class: Cinnamic acids and derivatives
+Q10034625-9,CHEMONTID:0001391,Subclass: Hydroxycinnamic acids and derivatives
+Q10034625-9,CHEMONTID:0000059,Intermediate_nodes: Coumaric acids and derivatives
+Q10034625-9,CHEMONTID:0002505,Direct_parent: Coumaric acids
+Q10034625-9,CHEMONTID:0002504,alternative_parents: Cinnamic acids
+Q10034625-9,CHEMONTID:0004742,alternative_parents: Phenoxy compounds
+Q10034625-9,CHEMONTID:0004113,alternative_parents: Methoxybenzenes
+Q10034625-9,CHEMONTID:0000138,alternative_parents: Anisoles
+Q10034625-9,CHEMONTID:0000128,alternative_parents: Alkyl aryl ethers
+Q10034625-9,CHEMONTID:0000362,alternative_parents: Nitriles
+Q10034625-9,CHEMONTID:0001137,alternative_parents: Monocarboxylic acids and derivatives
+Q10034625-9,CHEMONTID:0001205,alternative_parents: Carboxylic acids
+Q10034625-9,CHEMONTID:0004557,alternative_parents: Organopnictogen compounds
+Q10034625-9,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-9,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-9,CHEMONTID:0001831,alternative_parents: Carbonyl compounds
+Q10034625-9,NotAvailable,mMlecular_framework: Aromatic homomonocyclic compounds
+Q10034625-9,NotAvailable,"Substituents: [""Cinnamic acid"", ""Coumaric acid"", ""Phenoxy compound"", ""Anisole"", ""Methoxybenzene"", ""Phenol ether"", ""Alkyl aryl ether"", ""Monocyclic benzene moiety"", ""Benzenoid"", ""Carboxylic acid derivative"", ""Carboxylic acid"", ""Ether"", ""Monocarboxylic acid or derivatives"", ""Carbonitrile"", ""Nitrile"", ""Hydrocarbon derivative"", ""Organic oxide"", ""Organic oxygen compound"", ""Organopnictogen compound"", ""Carbonyl group"", ""Organic nitrogen compound"", ""Organonitrogen compound"", ""Organooxygen compound"", ""Aromatic homomonocyclic compound""]"
+Q10034625-9,NotAvailable,External_descriptors: []
+Q10034625-9,NotAvailable,"Ancestors: [""Alkyl aryl ethers"", ""Anisoles"", ""Benzene and substituted derivatives"", ""Benzenoids"", ""Carbonyl compounds"", ""Carboxylic acids"", ""Carboxylic acids and derivatives"", ""Chemical entities"", ""Cinnamic acids"", ""Cinnamic acids and derivatives"", ""Coumaric acids"", ""Coumaric acids and derivatives"", ""Ethers"", ""Hydrocarbon derivatives"", ""Hydroxycinnamic acids and derivatives"", ""Methoxybenzenes"", ""Monocarboxylic acids and derivatives"", ""Nitriles"", ""Organic acids and derivatives"", ""Organic compounds"", ""Organic cyanides"", ""Organic nitrogen compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organonitrogen compounds"", ""Organooxygen compounds"", ""Organopnictogen compounds"", ""Phenol ethers"", ""Phenoxy compounds"", ""Phenylpropanoids and polyketides""]"
+Q10034625-9,NotAvailable,"predicted_chebi_terms: [""cinnamic acids (CHEBI:23252)"", ""benzenes (CHEBI:22712)"", ""methoxybenzene (CHEBI:51683)"", ""aromatic ether (CHEBI:35618)"", ""nitrile (CHEBI:18379)"", ""carbonyl compound (CHEBI:36586)"", ""carboxylic acid (CHEBI:33575)"", ""carboxylic acid anion (CHEBI:29067)"", ""pnictogen molecular entity (CHEBI:33302)"", ""organic molecular entity (CHEBI:50860)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""hydroxycinnamic acid (CHEBI:24689)"", ""chemical entity (CHEBI:24431)"", ""organooxygen compound (CHEBI:36963)"", ""olefinic compound (CHEBI:78840)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""oxygen molecular entity (CHEBI:25806)"", ""ether (CHEBI:25698)"", ""nitrogen molecular entity (CHEBI:51143)"", ""organonitrogen compound (CHEBI:35352)"", ""cyanides (CHEBI:23424)""]"
+Q10034625-9,NotAvailable,predicted_lipidmaps_terms: []
+Q10034625-9,NotAvailable,Classification_version: 2.1
+Q10034625-10,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-10,CHEMONTID:0000261,Superclass: Phenylpropanoids and polyketides
+Q10034625-10,CHEMONTID:0003467,"Class: Linear 1,3-diarylpropanoids"
+Q10034625-10,CHEMONTID:0001630,Subclass: Chalcones and dihydrochalcones
+Q10034625-10,CHEMONTID:0003474,Direct_parent: Retrochalcones
+Q10034625-10,CHEMONTID:0003901,alternative_parents: Dialkylarylamines
+Q10034625-10,CHEMONTID:0000321,alternative_parents: Benzoyl derivatives
+Q10034625-10,CHEMONTID:0003670,alternative_parents: Aryl ketones
+Q10034625-10,CHEMONTID:0000284,alternative_parents: Aniline and substituted anilines
+Q10034625-10,CHEMONTID:0003674,"alternative_parents: Alpha-branched alpha,beta-unsaturated ketones"
+Q10034625-10,CHEMONTID:0001363,alternative_parents: Enones
+Q10034625-10,CHEMONTID:0000275,alternative_parents: Acryloyl compounds
+Q10034625-10,CHEMONTID:0000362,alternative_parents: Nitriles
+Q10034625-10,CHEMONTID:0004557,alternative_parents: Organopnictogen compounds
+Q10034625-10,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-10,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-10,NotAvailable,mMlecular_framework: Aromatic homomonocyclic compounds
+Q10034625-10,NotAvailable,"Substituents: [""Retrochalcone"", ""Benzoyl"", ""Tertiary aliphatic/aromatic amine"", ""Aniline or substituted anilines"", ""Dialkylarylamine"", ""Aryl ketone"", ""Monocyclic benzene moiety"", ""Alpha-branched alpha,beta-unsaturated-ketone"", ""Benzenoid"", ""Acryloyl-group"", ""Enone"", ""Alpha,beta-unsaturated ketone"", ""Ketone"", ""Tertiary amine"", ""Nitrile"", ""Carbonitrile"", ""Organooxygen compound"", ""Organonitrogen compound"", ""Organic nitrogen compound"", ""Organic oxide"", ""Organopnictogen compound"", ""Organic oxygen compound"", ""Hydrocarbon derivative"", ""Amine"", ""Aromatic homomonocyclic compound""]"
+Q10034625-10,NotAvailable,External_descriptors: []
+Q10034625-10,NotAvailable,"Ancestors: [""Acryloyl compounds"", ""Alpha,beta-unsaturated carbonyl compounds"", ""Alpha,beta-unsaturated ketones"", ""Alpha-branched alpha,beta-unsaturated ketones"", ""Amines"", ""Aniline and substituted anilines"", ""Aryl ketones"", ""Benzene and substituted derivatives"", ""Benzenoids"", ""Benzoyl derivatives"", ""Carbonyl compounds"", ""Chalcones and dihydrochalcones"", ""Chemical entities"", ""Dialkylarylamines"", ""Enones"", ""Hydrocarbon derivatives"", ""Ketones"", ""Linear 1,3-diarylpropanoids"", ""Nitriles"", ""Organic compounds"", ""Organic cyanides"", ""Organic nitrogen compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organonitrogen compounds"", ""Organooxygen compounds"", ""Organopnictogen compounds"", ""Phenylpropanoids and polyketides"", ""Retrochalcones"", ""Tertiary alkylarylamines"", ""Tertiary amines""]"
+Q10034625-10,NotAvailable,"predicted_chebi_terms: [""dialkylarylamine (CHEBI:23665)"", ""tertiary amino compound (CHEBI:50996)"", ""carbonyl compound (CHEBI:36586)"", ""aromatic ketone (CHEBI:76224)"", ""anilines (CHEBI:22562)"", ""enone (CHEBI:51689)"", ""olefinic compound (CHEBI:78840)"", ""nitrile (CHEBI:18379)"", ""pnictogen molecular entity (CHEBI:33302)"", ""organic molecular entity (CHEBI:50860)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""chalcones (CHEBI:23086)"", ""chemical entity (CHEBI:24431)"", ""nitrogen molecular entity (CHEBI:51143)"", ""organonitrogen compound (CHEBI:35352)"", ""amine (CHEBI:32952)"", ""tertiary amine (CHEBI:32876)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""benzenes (CHEBI:22712)"", ""oxygen molecular entity (CHEBI:25806)"", ""organooxygen compound (CHEBI:36963)"", ""ketone (CHEBI:17087)"", ""alpha,beta-unsaturated ketone (CHEBI:51721)"", ""cyanides (CHEBI:23424)"", ""aromatic compound (CHEBI:33655)"", ""flavonoids (CHEBI:72544)""]"
+Q10034625-10,NotAvailable,"predicted_lipidmaps_terms: [""Chalcones and dihydrochalcones (PK1212)""]"
+Q10034625-10,NotAvailable,Classification_version: 2.1
+Q10034625-11,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-11,CHEMONTID:0000279,Superclass: Alkaloids and derivatives
+Q10034625-11,CHEMONTID:0001140,Class: Harmala alkaloids
+Q10034625-11,CHEMONTID:0001140,Direct_parent: Harmala alkaloids
+Q10034625-11,CHEMONTID:0001914,alternative_parents: Beta carbolines
+Q10034625-11,CHEMONTID:0002497,alternative_parents: Indoles
+Q10034625-11,CHEMONTID:0000089,alternative_parents: Pyridines and derivatives
+Q10034625-11,CHEMONTID:0002448,alternative_parents: Benzenoids
+Q10034625-11,CHEMONTID:0000090,alternative_parents: Pyrroles
+Q10034625-11,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-11,CHEMONTID:0004139,alternative_parents: Azacyclic compounds
+Q10034625-11,CHEMONTID:0000286,alternative_parents: Primary alcohols
+Q10034625-11,CHEMONTID:0000278,alternative_parents: Organonitrogen compounds
+Q10034625-11,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-11,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-11,NotAvailable,"Substituents: [""Harman"", ""Beta-carboline"", ""Pyridoindole"", ""Indole"", ""Indole or derivatives"", ""Pyridine"", ""Benzenoid"", ""Pyrrole"", ""Heteroaromatic compound"", ""Azacycle"", ""Organoheterocyclic compound"", ""Alcohol"", ""Primary alcohol"", ""Organooxygen compound"", ""Organonitrogen compound"", ""Hydrocarbon derivative"", ""Organic oxygen compound"", ""Organic nitrogen compound"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-11,NotAvailable,External_descriptors: []
+Q10034625-11,NotAvailable,"Ancestors: [""Alcohols and polyols"", ""Alkaloids and derivatives"", ""Azacyclic compounds"", ""Benzenoids"", ""Beta carbolines"", ""Chemical entities"", ""Harmala alkaloids"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Indoles"", ""Indoles and derivatives"", ""Organic compounds"", ""Organic nitrogen compounds"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organonitrogen compounds"", ""Organooxygen compounds"", ""Primary alcohols"", ""Pyridines and derivatives"", ""Pyridoindoles"", ""Pyrroles""]"
+Q10034625-11,NotAvailable,"predicted_chebi_terms: [""beta-carbolines (CHEBI:60834)"", ""indoles (CHEBI:24828)"", ""pyridines (CHEBI:26421)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""pyrroles (CHEBI:26455)"", ""organic aromatic compound (CHEBI:33659)"", ""organonitrogen heterocyclic compound (CHEBI:38101)"", ""primary alcohol (CHEBI:15734)"", ""organonitrogen compound (CHEBI:35352)"", ""organic molecule (CHEBI:72695)"", ""harmala alkaloid (CHEBI:61379)"", ""chemical entity (CHEBI:24431)"", ""organic heterocyclic compound (CHEBI:24532)"", ""pyridoindole (CHEBI:48888)"", ""oxygen molecular entity (CHEBI:25806)"", ""organic molecular entity (CHEBI:50860)"", ""organooxygen compound (CHEBI:36963)"", ""polyol (CHEBI:26191)"", ""organic hydroxy compound (CHEBI:33822)"", ""alcohol (CHEBI:30879)"", ""nitrogen molecular entity (CHEBI:51143)"", ""alkaloid (CHEBI:22315)""]"
+Q10034625-11,NotAvailable,predicted_lipidmaps_terms: []
+Q10034625-11,NotAvailable,Classification_version: 2.1
+Q10034625-12,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-12,CHEMONTID:0000002,Superclass: Organoheterocyclic compounds
+Q10034625-12,CHEMONTID:0000089,Class: Pyridines and derivatives
+Q10034625-12,CHEMONTID:0000089,Direct_parent: Pyridines and derivatives
+Q10034625-12,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-12,CHEMONTID:0001363,alternative_parents: Enones
+Q10034625-12,CHEMONTID:0000275,alternative_parents: Acryloyl compounds
+Q10034625-12,CHEMONTID:0000118,alternative_parents: Ketones
+Q10034625-12,CHEMONTID:0004139,alternative_parents: Azacyclic compounds
+Q10034625-12,CHEMONTID:0004557,alternative_parents: Organopnictogen compounds
+Q10034625-12,CHEMONTID:0000278,alternative_parents: Organonitrogen compounds
+Q10034625-12,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-12,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-12,NotAvailable,mMlecular_framework: Aromatic heteromonocyclic compounds
+Q10034625-12,NotAvailable,"Substituents: [""Pyridine"", ""Acryloyl-group"", ""Enone"", ""Alpha,beta-unsaturated ketone"", ""Heteroaromatic compound"", ""Ketone"", ""Azacycle"", ""Organic oxide"", ""Organopnictogen compound"", ""Organooxygen compound"", ""Organonitrogen compound"", ""Organic nitrogen compound"", ""Organic oxygen compound"", ""Carbonyl group"", ""Hydrocarbon derivative"", ""Aromatic heteromonocyclic compound""]"
+Q10034625-12,NotAvailable,External_descriptors: []
+Q10034625-12,NotAvailable,"Ancestors: [""Acryloyl compounds"", ""Alpha,beta-unsaturated carbonyl compounds"", ""Alpha,beta-unsaturated ketones"", ""Azacyclic compounds"", ""Carbonyl compounds"", ""Chemical entities"", ""Enones"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Ketones"", ""Organic compounds"", ""Organic nitrogen compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organonitrogen compounds"", ""Organooxygen compounds"", ""Organopnictogen compounds"", ""Pyridines and derivatives""]"
+Q10034625-12,NotAvailable,"predicted_chebi_terms: [""organic aromatic compound (CHEBI:33659)"", ""enone (CHEBI:51689)"", ""olefinic compound (CHEBI:78840)"", ""ketone (CHEBI:17087)"", ""organonitrogen heterocyclic compound (CHEBI:38101)"", ""pnictogen molecular entity (CHEBI:33302)"", ""organic molecular entity (CHEBI:50860)"", ""organonitrogen compound (CHEBI:35352)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""pyridines (CHEBI:26421)"", ""chemical entity (CHEBI:24431)"", ""organic heterocyclic compound (CHEBI:24532)"", ""oxygen molecular entity (CHEBI:25806)"", ""organooxygen compound (CHEBI:36963)"", ""carbonyl compound (CHEBI:36586)"", ""alpha,beta-unsaturated ketone (CHEBI:51721)"", ""nitrogen molecular entity (CHEBI:51143)""]"
+Q10034625-12,NotAvailable,predicted_lipidmaps_terms: []
+Q10034625-12,NotAvailable,Classification_version: 2.1
+Q10034625-13,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-13,CHEMONTID:0000002,Superclass: Organoheterocyclic compounds
+Q10034625-13,CHEMONTID:0001346,Class: Diazines
+Q10034625-13,CHEMONTID:0000075,Subclass: Pyrimidines and pyrimidine derivatives
+Q10034625-13,CHEMONTID:0000291,Intermediate_nodes: Pyrimidones
+Q10034625-13,CHEMONTID:0000292,Direct_parent: Barbituric acid derivatives
+Q10034625-13,CHEMONTID:0001091,alternative_parents: Toluenes
+Q10034625-13,CHEMONTID:0002023,alternative_parents: N-acyl ureas
+Q10034625-13,CHEMONTID:0002389,alternative_parents: Diazinanes
+Q10034625-13,CHEMONTID:0003890,alternative_parents: Vinylogous amides
+Q10034625-13,CHEMONTID:0003033,alternative_parents: Dicarboximides
+Q10034625-13,CHEMONTID:0000347,alternative_parents: Amino acids and derivatives
+Q10034625-13,CHEMONTID:0000470,alternative_parents: Enamines
+Q10034625-13,CHEMONTID:0004139,alternative_parents: Azacyclic compounds
+Q10034625-13,CHEMONTID:0004218,alternative_parents: Allylamines
+Q10034625-13,CHEMONTID:0004557,alternative_parents: Organopnictogen compounds
+Q10034625-13,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-13,CHEMONTID:0000469,alternative_parents: Monoalkylamines
+Q10034625-13,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-13,CHEMONTID:0001831,alternative_parents: Carbonyl compounds
+Q10034625-13,NotAvailable,mMlecular_framework: Aromatic heteromonocyclic compounds
+Q10034625-13,NotAvailable,"Substituents: [""Barbiturate"", ""N-acyl urea"", ""Ureide"", ""Toluene"", ""Monocyclic benzene moiety"", ""1,3-diazinane"", ""Benzenoid"", ""Dicarboximide"", ""Vinylogous amide"", ""Amino acid or derivatives"", ""Carbonic acid derivative"", ""Urea"", ""Carboxylic acid derivative"", ""Allylamine"", ""Enamine"", ""Azacycle"", ""Hydrocarbon derivative"", ""Primary aliphatic amine"", ""Organic nitrogen compound"", ""Organic oxide"", ""Amine"", ""Carbonyl group"", ""Organopnictogen compound"", ""Organic oxygen compound"", ""Organonitrogen compound"", ""Organooxygen compound"", ""Primary amine"", ""Aromatic heteromonocyclic compound""]"
+Q10034625-13,NotAvailable,External_descriptors: []
+Q10034625-13,NotAvailable,"Ancestors: [""Allylamines"", ""Amines"", ""Amino acids and derivatives"", ""Amino acids, peptides, and analogues"", ""Azacyclic compounds"", ""Barbituric acid derivatives"", ""Benzene and substituted derivatives"", ""Benzenoids"", ""Carbonyl compounds"", ""Carboxylic acid derivatives"", ""Carboxylic acid imides"", ""Carboxylic acids and derivatives"", ""Chemical entities"", ""Diazinanes"", ""Diazines"", ""Dicarboximides"", ""Enamines"", ""Hydrocarbon derivatives"", ""Monoalkylamines"", ""N-acyl ureas"", ""Organic acids and derivatives"", ""Organic carbonic acids and derivatives"", ""Organic compounds"", ""Organic nitrogen compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organonitrogen compounds"", ""Organooxygen compounds"", ""Organopnictogen compounds"", ""Primary amines"", ""Pyrimidines and pyrimidine derivatives"", ""Pyrimidones"", ""Toluenes"", ""Ureas"", ""Ureides"", ""Vinylogous amides""]"
+Q10034625-13,NotAvailable,"predicted_chebi_terms: [""toluenes (CHEBI:27024)"", ""N-acylurea (CHEBI:74266)"", ""organic heterocyclic compound (CHEBI:24532)"", ""organonitrogen heterocyclic compound (CHEBI:38101)"", ""enone (CHEBI:51689)"", ""enamine (CHEBI:47989)"", ""dicarboximide (CHEBI:35356)"", ""organonitrogen compound (CHEBI:35352)"", ""organooxygen compound (CHEBI:36963)"", ""amine (CHEBI:32952)"", ""pnictogen molecular entity (CHEBI:33302)"", ""organic molecular entity (CHEBI:50860)"", ""organic oxide (CHEBI:25701)"", ""alkylamine (CHEBI:13759)"", ""organic molecule (CHEBI:72695)"", ""carbonyl compound (CHEBI:36586)"", ""barbiturates (CHEBI:22693)"", ""chemical entity (CHEBI:24431)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""benzenes (CHEBI:22712)"", ""ureas (CHEBI:47857)"", ""amino acid (CHEBI:33709)"", ""peptide (CHEBI:16670)"", ""nitrogen molecular entity (CHEBI:51143)"", ""oxygen molecular entity (CHEBI:25806)"", ""primary amine (CHEBI:32877)"", ""diazines (CHEBI:38313)"", ""pyrimidines (CHEBI:39447)"", ""pyrimidone (CHEBI:38337)""]"
+Q10034625-13,NotAvailable,predicted_lipidmaps_terms: []
+Q10034625-13,NotAvailable,Classification_version: 2.1
+Q10034625-14,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-14,CHEMONTID:0000261,Superclass: Phenylpropanoids and polyketides
+Q10034625-14,CHEMONTID:0000145,Class: Coumarins and derivatives
+Q10034625-14,CHEMONTID:0000145,Direct_parent: Coumarins and derivatives
+Q10034625-14,CHEMONTID:0001890,alternative_parents: Isocoumarins and derivatives
+Q10034625-14,CHEMONTID:0003411,alternative_parents: 2-benzopyrans
+Q10034625-14,CHEMONTID:0003410,alternative_parents: 1-benzopyrans
+Q10034625-14,CHEMONTID:0000481,alternative_parents: Pyranones and derivatives
+Q10034625-14,CHEMONTID:0004647,alternative_parents: 1-hydroxy-4-unsubstituted benzenoids
+Q10034625-14,CHEMONTID:0004646,alternative_parents: 1-hydroxy-2-unsubstituted benzenoids
+Q10034625-14,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-14,CHEMONTID:0000050,alternative_parents: Lactones
+Q10034625-14,CHEMONTID:0004140,alternative_parents: Oxacyclic compounds
+Q10034625-14,CHEMONTID:0000323,alternative_parents: Organooxygen compounds
+Q10034625-14,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-14,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-14,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-14,NotAvailable,"Substituents: [""Coumarin"", ""Isocoumarin"", ""Benzopyran"", ""1-benzopyran"", ""2-benzopyran"", ""1-hydroxy-4-unsubstituted benzenoid"", ""1-hydroxy-2-unsubstituted benzenoid"", ""Pyranone"", ""Pyran"", ""Benzenoid"", ""Heteroaromatic compound"", ""Lactone"", ""Oxacycle"", ""Organoheterocyclic compound"", ""Organooxygen compound"", ""Hydrocarbon derivative"", ""Organic oxide"", ""Organic oxygen compound"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-14,NotAvailable,External_descriptors: []
+Q10034625-14,NotAvailable,"Ancestors: [""1-benzopyrans"", ""1-hydroxy-2-unsubstituted benzenoids"", ""1-hydroxy-4-unsubstituted benzenoids"", ""2-benzopyrans"", ""Benzenoids"", ""Benzopyrans"", ""Chemical entities"", ""Coumarins and derivatives"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Isocoumarins and derivatives"", ""Lactones"", ""Organic compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organooxygen compounds"", ""Oxacyclic compounds"", ""Phenols"", ""Phenylpropanoids and polyketides"", ""Pyranones and derivatives"", ""Pyrans""]"
+Q10034625-14,NotAvailable,"predicted_chebi_terms: [""isocoumarins (CHEBI:38758)"", ""2-benzopyran (CHEBI:38444)"", ""1-benzopyran (CHEBI:38443)"", ""pyranone (CHEBI:37963)"", ""phenols (CHEBI:33853)"", ""organic aromatic compound (CHEBI:33659)"", ""lactone (CHEBI:25000)"", ""oxacycle (CHEBI:38104)"", ""organooxygen compound (CHEBI:36963)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""coumarins (CHEBI:23403)"", ""chemical entity (CHEBI:24431)"", ""organic heterocyclic compound (CHEBI:24532)"", ""benzopyran (CHEBI:22727)"", ""pyrans (CHEBI:26407)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""oxygen molecular entity (CHEBI:25806)"", ""organic molecular entity (CHEBI:50860)""]"
+Q10034625-14,NotAvailable,"predicted_lipidmaps_terms: [""Benzopyranoids (PK1311)""]"
+Q10034625-14,NotAvailable,Classification_version: 2.1
+Q10034625-15,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-15,CHEMONTID:0000261,Superclass: Phenylpropanoids and polyketides
+Q10034625-15,CHEMONTID:0001614,Class: Neoflavonoids
+Q10034625-15,CHEMONTID:0001389,Subclass: Neoflavones
+Q10034625-15,CHEMONTID:0001389,Direct_parent: Neoflavones
+Q10034625-15,CHEMONTID:0002909,alternative_parents: 7-hydroxycoumarins
+Q10034625-15,CHEMONTID:0003410,alternative_parents: 1-benzopyrans
+Q10034625-15,CHEMONTID:0000481,alternative_parents: Pyranones and derivatives
+Q10034625-15,CHEMONTID:0004647,alternative_parents: 1-hydroxy-4-unsubstituted benzenoids
+Q10034625-15,CHEMONTID:0004646,alternative_parents: 1-hydroxy-2-unsubstituted benzenoids
+Q10034625-15,CHEMONTID:0002279,alternative_parents: Benzene and substituted derivatives
+Q10034625-15,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-15,CHEMONTID:0000050,alternative_parents: Lactones
+Q10034625-15,CHEMONTID:0004140,alternative_parents: Oxacyclic compounds
+Q10034625-15,CHEMONTID:0000323,alternative_parents: Organooxygen compounds
+Q10034625-15,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-15,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-15,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-15,NotAvailable,"Substituents: [""4-phenylcoumarin"", ""7-hydroxycoumarin"", ""Hydroxycoumarin"", ""Coumarin"", ""Benzopyran"", ""1-benzopyran"", ""1-hydroxy-4-unsubstituted benzenoid"", ""1-hydroxy-2-unsubstituted benzenoid"", ""Phenol"", ""Pyranone"", ""Monocyclic benzene moiety"", ""Benzenoid"", ""Pyran"", ""Heteroaromatic compound"", ""Lactone"", ""Oxacycle"", ""Organoheterocyclic compound"", ""Organooxygen compound"", ""Hydrocarbon derivative"", ""Organic oxide"", ""Organic oxygen compound"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-15,NotAvailable,"External_descriptors: [[""source: LIPID MAPS"", ""source_id: LMPK12100031"", ""annotation: [\""Neoflavonoids\""]""]]"
+Q10034625-15,NotAvailable,"Ancestors: [""1-benzopyrans"", ""1-hydroxy-2-unsubstituted benzenoids"", ""1-hydroxy-4-unsubstituted benzenoids"", ""7-hydroxycoumarins"", ""Benzene and substituted derivatives"", ""Benzenoids"", ""Benzopyrans"", ""Chemical entities"", ""Coumarins and derivatives"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Hydroxycoumarins"", ""Lactones"", ""Neoflavones"", ""Neoflavonoids"", ""Organic compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organooxygen compounds"", ""Oxacyclic compounds"", ""Phenols"", ""Phenylpropanoids and polyketides"", ""Pyranones and derivatives"", ""Pyrans""]"
+Q10034625-15,NotAvailable,"predicted_chebi_terms: [""hydroxycoumarin (CHEBI:37912)"", ""1-benzopyran (CHEBI:38443)"", ""pyranone (CHEBI:37963)"", ""phenols (CHEBI:33853)"", ""benzenes (CHEBI:22712)"", ""organic aromatic compound (CHEBI:33659)"", ""lactone (CHEBI:25000)"", ""oxacycle (CHEBI:38104)"", ""organooxygen compound (CHEBI:36963)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""neoflavonoid (CHEBI:71971)"", ""chemical entity (CHEBI:24431)"", ""coumarins (CHEBI:23403)"", ""organic heterocyclic compound (CHEBI:24532)"", ""benzopyran (CHEBI:22727)"", ""pyrans (CHEBI:26407)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""oxygen molecular entity (CHEBI:25806)"", ""organic molecular entity (CHEBI:50860)""]"
+Q10034625-15,NotAvailable,"predicted_lipidmaps_terms: [""Benzopyranoids (PK1311)"", ""Neoflavonoids (PK1210)""]"
+Q10034625-15,NotAvailable,Classification_version: 2.1
+Q10034625-16,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-16,CHEMONTID:0000261,Superclass: Phenylpropanoids and polyketides
+Q10034625-16,CHEMONTID:0000334,Class: Flavonoids
+Q10034625-16,CHEMONTID:0001615,Subclass: Flavones
+Q10034625-16,CHEMONTID:0001615,Direct_parent: Flavones
+Q10034625-16,CHEMONTID:0002992,alternative_parents: 5-hydroxyflavonoids
+Q10034625-16,CHEMONTID:0000144,alternative_parents: Chromones
+Q10034625-16,CHEMONTID:0000481,alternative_parents: Pyranones and derivatives
+Q10034625-16,CHEMONTID:0000128,alternative_parents: Alkyl aryl ethers
+Q10034625-16,CHEMONTID:0004647,alternative_parents: 1-hydroxy-4-unsubstituted benzenoids
+Q10034625-16,CHEMONTID:0004646,alternative_parents: 1-hydroxy-2-unsubstituted benzenoids
+Q10034625-16,CHEMONTID:0002279,alternative_parents: Benzene and substituted derivatives
+Q10034625-16,CHEMONTID:0003889,alternative_parents: Vinylogous acids
+Q10034625-16,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-16,CHEMONTID:0004140,alternative_parents: Oxacyclic compounds
+Q10034625-16,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-16,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-16,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-16,NotAvailable,"Substituents: [""5-hydroxyflavonoid"", ""Flavone"", ""Hydroxyflavonoid"", ""Chromone"", ""Benzopyran"", ""1-benzopyran"", ""1-hydroxy-4-unsubstituted benzenoid"", ""1-hydroxy-2-unsubstituted benzenoid"", ""Alkyl aryl ether"", ""Pyranone"", ""Monocyclic benzene moiety"", ""Pyran"", ""Benzenoid"", ""Heteroaromatic compound"", ""Vinylogous acid"", ""Organoheterocyclic compound"", ""Oxacycle"", ""Ether"", ""Organooxygen compound"", ""Hydrocarbon derivative"", ""Organic oxygen compound"", ""Organic oxide"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-16,NotAvailable,External_descriptors: []
+Q10034625-16,NotAvailable,"Ancestors: [""1-benzopyrans"", ""1-hydroxy-2-unsubstituted benzenoids"", ""1-hydroxy-4-unsubstituted benzenoids"", ""5-hydroxyflavonoids"", ""Alkyl aryl ethers"", ""Benzene and substituted derivatives"", ""Benzenoids"", ""Benzopyrans"", ""Chemical entities"", ""Chromones"", ""Ethers"", ""Flavones"", ""Flavonoids"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Hydroxyflavonoids"", ""Organic acids and derivatives"", ""Organic compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organooxygen compounds"", ""Oxacyclic compounds"", ""Phenols"", ""Phenylpropanoids and polyketides"", ""Pyranones and derivatives"", ""Pyrans"", ""Vinylogous acids""]"
+Q10034625-16,NotAvailable,"predicted_chebi_terms: [""hydroxyflavonoid (CHEBI:71968)"", ""chromones (CHEBI:23238)"", ""pyranone (CHEBI:37963)"", ""aromatic ether (CHEBI:35618)"", ""phenols (CHEBI:33853)"", ""benzenes (CHEBI:22712)"", ""enone (CHEBI:51689)"", ""enol (CHEBI:33823)"", ""organic aromatic compound (CHEBI:33659)"", ""oxacycle (CHEBI:38104)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""flavones (CHEBI:24043)"", ""chemical entity (CHEBI:24431)"", ""organooxygen compound (CHEBI:36963)"", ""flavonoids (CHEBI:72544)"", ""organic heterocyclic compound (CHEBI:24532)"", ""benzopyran (CHEBI:22727)"", ""1-benzopyran (CHEBI:38443)"", ""pyrans (CHEBI:26407)"", ""oxygen molecular entity (CHEBI:25806)"", ""organic molecular entity (CHEBI:50860)"", ""ether (CHEBI:25698)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""organic acid (CHEBI:64709)""]"
+Q10034625-16,NotAvailable,"predicted_lipidmaps_terms: [""Flavones and Flavonols (PK1211)"", ""Benzopyranoids (PK1311)""]"
+Q10034625-16,NotAvailable,Classification_version: 2.1
+Q10034625-17,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-17,CHEMONTID:0000261,Superclass: Phenylpropanoids and polyketides
+Q10034625-17,CHEMONTID:0000145,Class: Coumarins and derivatives
+Q10034625-17,CHEMONTID:0000145,Direct_parent: Coumarins and derivatives
+Q10034625-17,CHEMONTID:0003410,alternative_parents: 1-benzopyrans
+Q10034625-17,CHEMONTID:0000481,alternative_parents: Pyranones and derivatives
+Q10034625-17,CHEMONTID:0004647,alternative_parents: 1-hydroxy-4-unsubstituted benzenoids
+Q10034625-17,CHEMONTID:0004646,alternative_parents: 1-hydroxy-2-unsubstituted benzenoids
+Q10034625-17,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-17,CHEMONTID:0000050,alternative_parents: Lactones
+Q10034625-17,CHEMONTID:0004140,alternative_parents: Oxacyclic compounds
+Q10034625-17,CHEMONTID:0000323,alternative_parents: Organooxygen compounds
+Q10034625-17,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-17,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-17,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-17,NotAvailable,"Substituents: [""Coumarin"", ""Benzopyran"", ""1-benzopyran"", ""1-hydroxy-4-unsubstituted benzenoid"", ""1-hydroxy-2-unsubstituted benzenoid"", ""Pyranone"", ""Benzenoid"", ""Pyran"", ""Heteroaromatic compound"", ""Lactone"", ""Oxacycle"", ""Organoheterocyclic compound"", ""Organic oxygen compound"", ""Organooxygen compound"", ""Hydrocarbon derivative"", ""Organic oxide"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-17,NotAvailable,External_descriptors: []
+Q10034625-17,NotAvailable,"Ancestors: [""1-benzopyrans"", ""1-hydroxy-2-unsubstituted benzenoids"", ""1-hydroxy-4-unsubstituted benzenoids"", ""Benzenoids"", ""Benzopyrans"", ""Chemical entities"", ""Coumarins and derivatives"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Lactones"", ""Organic compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organooxygen compounds"", ""Oxacyclic compounds"", ""Phenols"", ""Phenylpropanoids and polyketides"", ""Pyranones and derivatives"", ""Pyrans""]"
+Q10034625-17,NotAvailable,"predicted_chebi_terms: [""1-benzopyran (CHEBI:38443)"", ""pyranone (CHEBI:37963)"", ""phenols (CHEBI:33853)"", ""organic aromatic compound (CHEBI:33659)"", ""lactone (CHEBI:25000)"", ""oxacycle (CHEBI:38104)"", ""organooxygen compound (CHEBI:36963)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""coumarins (CHEBI:23403)"", ""chemical entity (CHEBI:24431)"", ""organic heterocyclic compound (CHEBI:24532)"", ""benzopyran (CHEBI:22727)"", ""pyrans (CHEBI:26407)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""oxygen molecular entity (CHEBI:25806)"", ""organic molecular entity (CHEBI:50860)""]"
+Q10034625-17,NotAvailable,"predicted_lipidmaps_terms: [""Benzopyranoids (PK1311)""]"
+Q10034625-17,NotAvailable,Classification_version: 2.1
+Q10034625-18,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-18,CHEMONTID:0000002,Superclass: Organoheterocyclic compounds
+Q10034625-18,CHEMONTID:0000123,Class: Benzopyrans
+Q10034625-18,CHEMONTID:0003410,Subclass: 1-benzopyrans
+Q10034625-18,CHEMONTID:0000144,Direct_parent: Chromones
+Q10034625-18,CHEMONTID:0004805,alternative_parents: Furoic acid esters
+Q10034625-18,CHEMONTID:0000481,alternative_parents: Pyranones and derivatives
+Q10034625-18,CHEMONTID:0004646,alternative_parents: 1-hydroxy-2-unsubstituted benzenoids
+Q10034625-18,CHEMONTID:0000346,alternative_parents: Dicarboxylic acids and derivatives
+Q10034625-18,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-18,CHEMONTID:0001238,alternative_parents: Carboxylic acid esters
+Q10034625-18,CHEMONTID:0004140,alternative_parents: Oxacyclic compounds
+Q10034625-18,CHEMONTID:0000323,alternative_parents: Organooxygen compounds
+Q10034625-18,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-18,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-18,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-18,NotAvailable,"Substituents: [""Chromone"", ""Furoic acid ester"", ""Furoic acid or derivatives"", ""1-hydroxy-2-unsubstituted benzenoid"", ""Pyranone"", ""Dicarboxylic acid or derivatives"", ""Pyran"", ""Benzenoid"", ""Furan"", ""Heteroaromatic compound"", ""Carboxylic acid ester"", ""Carboxylic acid derivative"", ""Oxacycle"", ""Organic oxide"", ""Organooxygen compound"", ""Organic oxygen compound"", ""Hydrocarbon derivative"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-18,NotAvailable,External_descriptors: []
+Q10034625-18,NotAvailable,"Ancestors: [""1-benzopyrans"", ""1-hydroxy-2-unsubstituted benzenoids"", ""Benzenoids"", ""Benzopyrans"", ""Carboxylic acid derivatives"", ""Carboxylic acid esters"", ""Carboxylic acids and derivatives"", ""Chemical entities"", ""Chromones"", ""Dicarboxylic acids and derivatives"", ""Furans"", ""Furoic acid and derivatives"", ""Furoic acid esters"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Organic acids and derivatives"", ""Organic compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organooxygen compounds"", ""Oxacyclic compounds"", ""Phenols"", ""Pyranones and derivatives"", ""Pyrans""]"
+Q10034625-18,NotAvailable,"predicted_chebi_terms: [""furans (CHEBI:24129)"", ""carboxylic ester (CHEBI:33308)"", ""pyranone (CHEBI:37963)"", ""phenols (CHEBI:33853)"", ""dicarboxylic acid (CHEBI:35692)"", ""organic aromatic compound (CHEBI:33659)"", ""oxacycle (CHEBI:38104)"", ""organooxygen compound (CHEBI:36963)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""chromones (CHEBI:23238)"", ""chemical entity (CHEBI:24431)"", ""organic heterocyclic compound (CHEBI:24532)"", ""pyrans (CHEBI:26407)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""organic acid (CHEBI:64709)"", ""carboxylic acid (CHEBI:33575)"", ""oxygen molecular entity (CHEBI:25806)"", ""organic molecular entity (CHEBI:50860)"", ""benzopyran (CHEBI:22727)"", ""1-benzopyran (CHEBI:38443)""]"
+Q10034625-18,NotAvailable,"predicted_lipidmaps_terms: [""Dicarboxylic acids (FA0117)"", ""Benzopyranoids (PK1311)""]"
+Q10034625-18,NotAvailable,Classification_version: 2.1
+Q10034625-19,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-19,CHEMONTID:0000261,Superclass: Phenylpropanoids and polyketides
+Q10034625-19,CHEMONTID:0000334,Class: Flavonoids
+Q10034625-19,CHEMONTID:0001615,Subclass: Flavones
+Q10034625-19,CHEMONTID:0001615,Direct_parent: Flavones
+Q10034625-19,CHEMONTID:0002992,alternative_parents: 5-hydroxyflavonoids
+Q10034625-19,CHEMONTID:0000417,alternative_parents: Phenoxyacetic acid derivatives
+Q10034625-19,CHEMONTID:0000144,alternative_parents: Chromones
+Q10034625-19,CHEMONTID:0001097,alternative_parents: Benzyloxycarbonyls
+Q10034625-19,CHEMONTID:0004646,alternative_parents: 1-hydroxy-2-unsubstituted benzenoids
+Q10034625-19,CHEMONTID:0000481,alternative_parents: Pyranones and derivatives
+Q10034625-19,CHEMONTID:0004647,alternative_parents: 1-hydroxy-4-unsubstituted benzenoids
+Q10034625-19,CHEMONTID:0000128,alternative_parents: Alkyl aryl ethers
+Q10034625-19,CHEMONTID:0003889,alternative_parents: Vinylogous acids
+Q10034625-19,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-19,CHEMONTID:0001238,alternative_parents: Carboxylic acid esters
+Q10034625-19,CHEMONTID:0001137,alternative_parents: Monocarboxylic acids and derivatives
+Q10034625-19,CHEMONTID:0004140,alternative_parents: Oxacyclic compounds
+Q10034625-19,CHEMONTID:0001831,alternative_parents: Carbonyl compounds
+Q10034625-19,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-19,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-19,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-19,NotAvailable,"Substituents: [""5-hydroxyflavonoid"", ""Flavone"", ""Hydroxyflavonoid"", ""Chromone"", ""Phenoxyacetate"", ""Benzopyran"", ""Benzyloxycarbonyl"", ""1-benzopyran"", ""1-hydroxy-4-unsubstituted benzenoid"", ""1-hydroxy-2-unsubstituted benzenoid"", ""Alkyl aryl ether"", ""Pyranone"", ""Monocyclic benzene moiety"", ""Benzenoid"", ""Pyran"", ""Heteroaromatic compound"", ""Vinylogous acid"", ""Carboxylic acid ester"", ""Oxacycle"", ""Organoheterocyclic compound"", ""Carboxylic acid derivative"", ""Monocarboxylic acid or derivatives"", ""Ether"", ""Organic oxide"", ""Carbonyl group"", ""Organooxygen compound"", ""Hydrocarbon derivative"", ""Organic oxygen compound"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-19,NotAvailable,External_descriptors: []
+Q10034625-19,NotAvailable,"Ancestors: [""1-benzopyrans"", ""1-hydroxy-2-unsubstituted benzenoids"", ""1-hydroxy-4-unsubstituted benzenoids"", ""5-hydroxyflavonoids"", ""Alkyl aryl ethers"", ""Benzene and substituted derivatives"", ""Benzenoids"", ""Benzopyrans"", ""Benzyloxycarbonyls"", ""Carbonyl compounds"", ""Carboxylic acid derivatives"", ""Carboxylic acid esters"", ""Carboxylic acids and derivatives"", ""Chemical entities"", ""Chromones"", ""Ethers"", ""Flavones"", ""Flavonoids"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Hydroxyflavonoids"", ""Monocarboxylic acids and derivatives"", ""Organic acids and derivatives"", ""Organic compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organooxygen compounds"", ""Oxacyclic compounds"", ""Phenols"", ""Phenoxyacetic acid derivatives"", ""Phenylpropanoids and polyketides"", ""Pyranones and derivatives"", ""Pyrans"", ""Vinylogous acids""]"
+Q10034625-19,NotAvailable,"predicted_chebi_terms: [""hydroxyflavonoid (CHEBI:71968)"", ""benzenes (CHEBI:22712)"", ""carboxylic acid (CHEBI:33575)"", ""chromones (CHEBI:23238)"", ""carboxylic ester (CHEBI:33308)"", ""phenols (CHEBI:33853)"", ""pyranone (CHEBI:37963)"", ""aromatic ether (CHEBI:35618)"", ""enone (CHEBI:51689)"", ""enol (CHEBI:33823)"", ""organic aromatic compound (CHEBI:33659)"", ""monocarboxylic acid (CHEBI:25384)"", ""oxacycle (CHEBI:38104)"", ""carbonyl compound (CHEBI:36586)"", ""organic molecule (CHEBI:72695)"", ""organic oxide (CHEBI:25701)"", ""flavones (CHEBI:24043)"", ""chemical entity (CHEBI:24431)"", ""organooxygen compound (CHEBI:36963)"", ""flavonoids (CHEBI:72544)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""organic heterocyclic compound (CHEBI:24532)"", ""benzopyran (CHEBI:22727)"", ""1-benzopyran (CHEBI:38443)"", ""pyrans (CHEBI:26407)"", ""oxygen molecular entity (CHEBI:25806)"", ""organic molecular entity (CHEBI:50860)"", ""ether (CHEBI:25698)"", ""organic acid (CHEBI:64709)""]"
+Q10034625-19,NotAvailable,"predicted_lipidmaps_terms: [""Flavones and Flavonols (PK1211)"", ""Benzopyranoids (PK1311)""]"
+Q10034625-19,NotAvailable,Classification_version: 2.1
+Q10034625-20,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-20,CHEMONTID:0000261,Superclass: Phenylpropanoids and polyketides
+Q10034625-20,CHEMONTID:0000145,Class: Coumarins and derivatives
+Q10034625-20,CHEMONTID:0000145,Direct_parent: Coumarins and derivatives
+Q10034625-20,CHEMONTID:0001890,alternative_parents: Isocoumarins and derivatives
+Q10034625-20,CHEMONTID:0003411,alternative_parents: 2-benzopyrans
+Q10034625-20,CHEMONTID:0003410,alternative_parents: 1-benzopyrans
+Q10034625-20,CHEMONTID:0000481,alternative_parents: Pyranones and derivatives
+Q10034625-20,CHEMONTID:0004646,alternative_parents: 1-hydroxy-2-unsubstituted benzenoids
+Q10034625-20,CHEMONTID:0001030,alternative_parents: Aryl chlorides
+Q10034625-20,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-20,CHEMONTID:0000050,alternative_parents: Lactones
+Q10034625-20,CHEMONTID:0004140,alternative_parents: Oxacyclic compounds
+Q10034625-20,CHEMONTID:0000323,alternative_parents: Organooxygen compounds
+Q10034625-20,CHEMONTID:0001516,alternative_parents: Organochlorides
+Q10034625-20,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-20,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-20,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-20,NotAvailable,"Substituents: [""Coumarin"", ""Isocoumarin"", ""Benzopyran"", ""1-benzopyran"", ""2-benzopyran"", ""1-hydroxy-2-unsubstituted benzenoid"", ""Pyranone"", ""Aryl chloride"", ""Aryl halide"", ""Pyran"", ""Benzenoid"", ""Heteroaromatic compound"", ""Lactone"", ""Oxacycle"", ""Organoheterocyclic compound"", ""Organooxygen compound"", ""Organochloride"", ""Organohalogen compound"", ""Hydrocarbon derivative"", ""Organic oxide"", ""Organic oxygen compound"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-20,NotAvailable,External_descriptors: []
+Q10034625-20,NotAvailable,"Ancestors: [""1-benzopyrans"", ""1-hydroxy-2-unsubstituted benzenoids"", ""2-benzopyrans"", ""Aryl chlorides"", ""Aryl halides"", ""Benzenoids"", ""Benzopyrans"", ""Chemical entities"", ""Coumarins and derivatives"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Isocoumarins and derivatives"", ""Lactones"", ""Organic compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organochlorides"", ""Organohalogen compounds"", ""Organoheterocyclic compounds"", ""Organooxygen compounds"", ""Oxacyclic compounds"", ""Phenols"", ""Phenylpropanoids and polyketides"", ""Pyranones and derivatives"", ""Pyrans""]"
+Q10034625-20,NotAvailable,"predicted_chebi_terms: [""isocoumarins (CHEBI:38758)"", ""2-benzopyran (CHEBI:38444)"", ""1-benzopyran (CHEBI:38443)"", ""pyranone (CHEBI:37963)"", ""phenols (CHEBI:33853)"", ""organochlorine compound (CHEBI:36683)"", ""organic aromatic compound (CHEBI:33659)"", ""lactone (CHEBI:25000)"", ""oxacycle (CHEBI:38104)"", ""organooxygen compound (CHEBI:36963)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""coumarins (CHEBI:23403)"", ""chemical entity (CHEBI:24431)"", ""organic heterocyclic compound (CHEBI:24532)"", ""benzopyran (CHEBI:22727)"", ""pyrans (CHEBI:26407)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""organohalogen compound (CHEBI:36684)"", ""haloarene (CHEBI:50887)"", ""oxygen molecular entity (CHEBI:25806)"", ""organic molecular entity (CHEBI:50860)""]"
+Q10034625-20,NotAvailable,"predicted_lipidmaps_terms: [""Benzopyranoids (PK1311)""]"
+Q10034625-20,NotAvailable,Classification_version: 2.1
+Q10034625-21,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-21,CHEMONTID:0000261,Superclass: Phenylpropanoids and polyketides
+Q10034625-21,CHEMONTID:0000334,Class: Flavonoids
+Q10034625-21,CHEMONTID:0001615,Subclass: Flavones
+Q10034625-21,CHEMONTID:0001615,Direct_parent: Flavones
+Q10034625-21,CHEMONTID:0002992,alternative_parents: 5-hydroxyflavonoids
+Q10034625-21,CHEMONTID:0000417,alternative_parents: Phenoxyacetic acid derivatives
+Q10034625-21,CHEMONTID:0000144,alternative_parents: Chromones
+Q10034625-21,CHEMONTID:0000481,alternative_parents: Pyranones and derivatives
+Q10034625-21,CHEMONTID:0000128,alternative_parents: Alkyl aryl ethers
+Q10034625-21,CHEMONTID:0004647,alternative_parents: 1-hydroxy-4-unsubstituted benzenoids
+Q10034625-21,CHEMONTID:0004646,alternative_parents: 1-hydroxy-2-unsubstituted benzenoids
+Q10034625-21,CHEMONTID:0003889,alternative_parents: Vinylogous acids
+Q10034625-21,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-21,CHEMONTID:0001238,alternative_parents: Carboxylic acid esters
+Q10034625-21,CHEMONTID:0004140,alternative_parents: Oxacyclic compounds
+Q10034625-21,CHEMONTID:0001137,alternative_parents: Monocarboxylic acids and derivatives
+Q10034625-21,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-21,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-21,CHEMONTID:0001831,alternative_parents: Carbonyl compounds
+Q10034625-21,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-21,NotAvailable,"Substituents: [""5-hydroxyflavonoid"", ""Flavone"", ""Hydroxyflavonoid"", ""Chromone"", ""Phenoxyacetate"", ""Benzopyran"", ""1-benzopyran"", ""1-hydroxy-4-unsubstituted benzenoid"", ""1-hydroxy-2-unsubstituted benzenoid"", ""Alkyl aryl ether"", ""Pyranone"", ""Monocyclic benzene moiety"", ""Benzenoid"", ""Pyran"", ""Heteroaromatic compound"", ""Vinylogous acid"", ""Carboxylic acid ester"", ""Ether"", ""Organoheterocyclic compound"", ""Carboxylic acid derivative"", ""Oxacycle"", ""Monocarboxylic acid or derivatives"", ""Organooxygen compound"", ""Organic oxygen compound"", ""Carbonyl group"", ""Hydrocarbon derivative"", ""Organic oxide"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-21,NotAvailable,External_descriptors: []
+Q10034625-21,NotAvailable,"Ancestors: [""1-benzopyrans"", ""1-hydroxy-2-unsubstituted benzenoids"", ""1-hydroxy-4-unsubstituted benzenoids"", ""5-hydroxyflavonoids"", ""Alkyl aryl ethers"", ""Benzene and substituted derivatives"", ""Benzenoids"", ""Benzopyrans"", ""Carbonyl compounds"", ""Carboxylic acid derivatives"", ""Carboxylic acid esters"", ""Carboxylic acids and derivatives"", ""Chemical entities"", ""Chromones"", ""Ethers"", ""Flavones"", ""Flavonoids"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Hydroxyflavonoids"", ""Monocarboxylic acids and derivatives"", ""Organic acids and derivatives"", ""Organic compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organooxygen compounds"", ""Oxacyclic compounds"", ""Phenols"", ""Phenoxyacetic acid derivatives"", ""Phenylpropanoids and polyketides"", ""Pyranones and derivatives"", ""Pyrans"", ""Vinylogous acids""]"
+Q10034625-21,NotAvailable,"predicted_chebi_terms: [""hydroxyflavonoid (CHEBI:71968)"", ""benzenes (CHEBI:22712)"", ""carboxylic acid (CHEBI:33575)"", ""chromones (CHEBI:23238)"", ""pyranone (CHEBI:37963)"", ""aromatic ether (CHEBI:35618)"", ""phenols (CHEBI:33853)"", ""enone (CHEBI:51689)"", ""enol (CHEBI:33823)"", ""organic aromatic compound (CHEBI:33659)"", ""carboxylic ester (CHEBI:33308)"", ""oxacycle (CHEBI:38104)"", ""monocarboxylic acid (CHEBI:25384)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""carbonyl compound (CHEBI:36586)"", ""flavones (CHEBI:24043)"", ""chemical entity (CHEBI:24431)"", ""organooxygen compound (CHEBI:36963)"", ""flavonoids (CHEBI:72544)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""organic heterocyclic compound (CHEBI:24532)"", ""benzopyran (CHEBI:22727)"", ""1-benzopyran (CHEBI:38443)"", ""pyrans (CHEBI:26407)"", ""oxygen molecular entity (CHEBI:25806)"", ""organic molecular entity (CHEBI:50860)"", ""ether (CHEBI:25698)"", ""organic acid (CHEBI:64709)""]"
+Q10034625-21,NotAvailable,"predicted_lipidmaps_terms: [""Flavones and Flavonols (PK1211)"", ""Benzopyranoids (PK1311)""]"
+Q10034625-21,NotAvailable,Classification_version: 2.1
+Q10034625-22,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-22,CHEMONTID:0000261,Superclass: Phenylpropanoids and polyketides
+Q10034625-22,CHEMONTID:0000334,Class: Flavonoids
+Q10034625-22,CHEMONTID:0001615,Subclass: Flavones
+Q10034625-22,CHEMONTID:0001615,Direct_parent: Flavones
+Q10034625-22,CHEMONTID:0002992,alternative_parents: 5-hydroxyflavonoids
+Q10034625-22,CHEMONTID:0000417,alternative_parents: Phenoxyacetic acid derivatives
+Q10034625-22,CHEMONTID:0000144,alternative_parents: Chromones
+Q10034625-22,CHEMONTID:0000481,alternative_parents: Pyranones and derivatives
+Q10034625-22,CHEMONTID:0000128,alternative_parents: Alkyl aryl ethers
+Q10034625-22,CHEMONTID:0004647,alternative_parents: 1-hydroxy-4-unsubstituted benzenoids
+Q10034625-22,CHEMONTID:0004646,alternative_parents: 1-hydroxy-2-unsubstituted benzenoids
+Q10034625-22,CHEMONTID:0003889,alternative_parents: Vinylogous acids
+Q10034625-22,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-22,CHEMONTID:0001238,alternative_parents: Carboxylic acid esters
+Q10034625-22,CHEMONTID:0004140,alternative_parents: Oxacyclic compounds
+Q10034625-22,CHEMONTID:0001137,alternative_parents: Monocarboxylic acids and derivatives
+Q10034625-22,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-22,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-22,CHEMONTID:0001831,alternative_parents: Carbonyl compounds
+Q10034625-22,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-22,NotAvailable,"Substituents: [""5-hydroxyflavonoid"", ""Flavone"", ""Hydroxyflavonoid"", ""Chromone"", ""Phenoxyacetate"", ""Benzopyran"", ""1-benzopyran"", ""1-hydroxy-4-unsubstituted benzenoid"", ""1-hydroxy-2-unsubstituted benzenoid"", ""Alkyl aryl ether"", ""Pyranone"", ""Monocyclic benzene moiety"", ""Benzenoid"", ""Pyran"", ""Heteroaromatic compound"", ""Vinylogous acid"", ""Carboxylic acid ester"", ""Ether"", ""Organoheterocyclic compound"", ""Carboxylic acid derivative"", ""Oxacycle"", ""Monocarboxylic acid or derivatives"", ""Organooxygen compound"", ""Organic oxygen compound"", ""Carbonyl group"", ""Hydrocarbon derivative"", ""Organic oxide"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-22,NotAvailable,External_descriptors: []
+Q10034625-22,NotAvailable,"Ancestors: [""1-benzopyrans"", ""1-hydroxy-2-unsubstituted benzenoids"", ""1-hydroxy-4-unsubstituted benzenoids"", ""5-hydroxyflavonoids"", ""Alkyl aryl ethers"", ""Benzene and substituted derivatives"", ""Benzenoids"", ""Benzopyrans"", ""Carbonyl compounds"", ""Carboxylic acid derivatives"", ""Carboxylic acid esters"", ""Carboxylic acids and derivatives"", ""Chemical entities"", ""Chromones"", ""Ethers"", ""Flavones"", ""Flavonoids"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Hydroxyflavonoids"", ""Monocarboxylic acids and derivatives"", ""Organic acids and derivatives"", ""Organic compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organooxygen compounds"", ""Oxacyclic compounds"", ""Phenols"", ""Phenoxyacetic acid derivatives"", ""Phenylpropanoids and polyketides"", ""Pyranones and derivatives"", ""Pyrans"", ""Vinylogous acids""]"
+Q10034625-22,NotAvailable,"predicted_chebi_terms: [""hydroxyflavonoid (CHEBI:71968)"", ""benzenes (CHEBI:22712)"", ""carboxylic acid (CHEBI:33575)"", ""chromones (CHEBI:23238)"", ""pyranone (CHEBI:37963)"", ""aromatic ether (CHEBI:35618)"", ""phenols (CHEBI:33853)"", ""enone (CHEBI:51689)"", ""enol (CHEBI:33823)"", ""organic aromatic compound (CHEBI:33659)"", ""carboxylic ester (CHEBI:33308)"", ""oxacycle (CHEBI:38104)"", ""monocarboxylic acid (CHEBI:25384)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""carbonyl compound (CHEBI:36586)"", ""flavones (CHEBI:24043)"", ""chemical entity (CHEBI:24431)"", ""organooxygen compound (CHEBI:36963)"", ""flavonoids (CHEBI:72544)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""organic heterocyclic compound (CHEBI:24532)"", ""benzopyran (CHEBI:22727)"", ""1-benzopyran (CHEBI:38443)"", ""pyrans (CHEBI:26407)"", ""oxygen molecular entity (CHEBI:25806)"", ""organic molecular entity (CHEBI:50860)"", ""ether (CHEBI:25698)"", ""organic acid (CHEBI:64709)""]"
+Q10034625-22,NotAvailable,"predicted_lipidmaps_terms: [""Flavones and Flavonols (PK1211)"", ""Benzopyranoids (PK1311)""]"
+Q10034625-22,NotAvailable,Classification_version: 2.1
+Q10034625-23,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-23,CHEMONTID:0000261,Superclass: Phenylpropanoids and polyketides
+Q10034625-23,CHEMONTID:0000334,Class: Flavonoids
+Q10034625-23,CHEMONTID:0001111,Subclass: Flavonoid glycosides
+Q10034625-23,CHEMONTID:0001583,Intermediate_nodes: Flavonoid O-glycosides
+Q10034625-23,CHEMONTID:0003533,Direct_parent: Flavonoid-7-O-glycosides
+Q10034625-23,CHEMONTID:0002989,alternative_parents: 4'-hydroxyflavonoids
+Q10034625-23,CHEMONTID:0002992,alternative_parents: 5-hydroxyflavonoids
+Q10034625-23,CHEMONTID:0001615,alternative_parents: Flavones
+Q10034625-23,CHEMONTID:0004165,alternative_parents: Phenolic glycosides
+Q10034625-23,CHEMONTID:0001498,alternative_parents: Hexoses
+Q10034625-23,CHEMONTID:0000144,alternative_parents: Chromones
+Q10034625-23,CHEMONTID:0002207,alternative_parents: O-glycosyl compounds
+Q10034625-23,CHEMONTID:0004646,alternative_parents: 1-hydroxy-2-unsubstituted benzenoids
+Q10034625-23,CHEMONTID:0004647,alternative_parents: 1-hydroxy-4-unsubstituted benzenoids
+Q10034625-23,CHEMONTID:0000481,alternative_parents: Pyranones and derivatives
+Q10034625-23,CHEMONTID:0002279,alternative_parents: Benzene and substituted derivatives
+Q10034625-23,CHEMONTID:0002012,alternative_parents: Oxanes
+Q10034625-23,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-23,CHEMONTID:0003889,alternative_parents: Vinylogous acids
+Q10034625-23,CHEMONTID:0001661,alternative_parents: Secondary alcohols
+Q10034625-23,CHEMONTID:0004140,alternative_parents: Oxacyclic compounds
+Q10034625-23,CHEMONTID:0001656,alternative_parents: Acetals
+Q10034625-23,CHEMONTID:0002286,alternative_parents: Polyols
+Q10034625-23,CHEMONTID:0000286,alternative_parents: Primary alcohols
+Q10034625-23,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-23,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-23,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-23,NotAvailable,"Substituents: [""Flavonoid-7-o-glycoside"", ""4'-hydroxyflavonoid"", ""5-hydroxyflavonoid"", ""Flavone"", ""Hydroxyflavonoid"", ""Phenolic glycoside"", ""Hexose monosaccharide"", ""O-glycosyl compound"", ""Chromone"", ""Glycosyl compound"", ""Benzopyran"", ""1-benzopyran"", ""1-hydroxy-4-unsubstituted benzenoid"", ""1-hydroxy-2-unsubstituted benzenoid"", ""Phenol"", ""Pyranone"", ""Pyran"", ""Monosaccharide"", ""Benzenoid"", ""Oxane"", ""Monocyclic benzene moiety"", ""Heteroaromatic compound"", ""Vinylogous acid"", ""Secondary alcohol"", ""Organoheterocyclic compound"", ""Oxacycle"", ""Acetal"", ""Polyol"", ""Primary alcohol"", ""Organic oxide"", ""Organic oxygen compound"", ""Hydrocarbon derivative"", ""Alcohol"", ""Organooxygen compound"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-23,NotAvailable,External_descriptors: []
+Q10034625-23,NotAvailable,"Ancestors: [""1-benzopyrans"", ""1-hydroxy-2-unsubstituted benzenoids"", ""1-hydroxy-4-unsubstituted benzenoids"", ""4'-hydroxyflavonoids"", ""5-hydroxyflavonoids"", ""Acetals"", ""Alcohols and polyols"", ""Benzene and substituted derivatives"", ""Benzenoids"", ""Benzopyrans"", ""Carbohydrates and carbohydrate conjugates"", ""Chemical entities"", ""Chromones"", ""Ethers"", ""Flavones"", ""Flavonoid O-glycosides"", ""Flavonoid glycosides"", ""Flavonoid-7-O-glycosides"", ""Flavonoids"", ""Glycosyl compounds"", ""Heteroaromatic compounds"", ""Hexoses"", ""Hydrocarbon derivatives"", ""Hydroxyflavonoids"", ""Monosaccharides"", ""O-glycosyl compounds"", ""Organic acids and derivatives"", ""Organic compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organooxygen compounds"", ""Oxacyclic compounds"", ""Oxanes"", ""Phenolic glycosides"", ""Phenols"", ""Phenylpropanoids and polyketides"", ""Polyols"", ""Primary alcohols"", ""Pyranones and derivatives"", ""Pyrans"", ""Secondary alcohols"", ""Vinylogous acids""]"
+Q10034625-23,NotAvailable,"predicted_chebi_terms: [""hydroxyflavonoid (CHEBI:71968)"", ""flavones (CHEBI:24043)"", ""glycoside (CHEBI:24400)"", ""hexose (CHEBI:18133)"", ""chromones (CHEBI:23238)"", ""phenols (CHEBI:33853)"", ""pyranone (CHEBI:37963)"", ""benzenes (CHEBI:22712)"", ""oxanes (CHEBI:46942)"", ""organic aromatic compound (CHEBI:33659)"", ""enone (CHEBI:51689)"", ""enol (CHEBI:33823)"", ""secondary alcohol (CHEBI:35681)"", ""oxacycle (CHEBI:38104)"", ""acetal (CHEBI:59769)"", ""polyol (CHEBI:26191)"", ""primary alcohol (CHEBI:15734)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""flavonoids (CHEBI:72544)"", ""chemical entity (CHEBI:24431)"", ""organooxygen compound (CHEBI:36963)"", ""oxygen molecular entity (CHEBI:25806)"", ""organic molecular entity (CHEBI:50860)"", ""carbohydrates and carbohydrate derivatives (CHEBI:78616)"", ""monosaccharide (CHEBI:35381)"", ""organic heterocyclic compound (CHEBI:24532)"", ""benzopyran (CHEBI:22727)"", ""1-benzopyran (CHEBI:38443)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""pyrans (CHEBI:26407)"", ""organic acid (CHEBI:64709)"", ""organic hydroxy compound (CHEBI:33822)"", ""alcohol (CHEBI:30879)"", ""ether (CHEBI:25698)"", ""glycosyloxyflavone (CHEBI:50018)""]"
+Q10034625-23,NotAvailable,"predicted_lipidmaps_terms: [""Flavones and Flavonols (PK1211)"", ""Benzopyranoids (PK1311)""]"
+Q10034625-23,NotAvailable,Classification_version: 2.1
+Q10034625-24,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-24,CHEMONTID:0000012,Superclass: Lipids and lipid-like molecules
+Q10034625-24,CHEMONTID:0000258,Class: Steroids and steroid derivatives
+Q10034625-24,CHEMONTID:0001445,"Subclass: Bile acids, alcohols and derivatives"
+Q10034625-24,CHEMONTID:0002194,"Direct_parent: Hydroxy bile acids, alcohols and derivatives"
+Q10034625-24,CHEMONTID:0001469,alternative_parents: Cholesterols and derivatives
+Q10034625-24,CHEMONTID:0004813,alternative_parents: Ecdysteroids
+Q10034625-24,CHEMONTID:0003249,alternative_parents: 6-oxosteroids
+Q10034625-24,CHEMONTID:0002985,alternative_parents: 3-hydroxy delta-7-steroids
+Q10034625-24,CHEMONTID:0003233,alternative_parents: 3-beta-hydroxysteroids
+Q10034625-24,CHEMONTID:0004495,alternative_parents: 14-hydroxysteroids
+Q10034625-24,CHEMONTID:0002984,alternative_parents: Delta-7-steroids
+Q10034625-24,CHEMONTID:0004325,alternative_parents: Cyclohexenones
+Q10034625-24,CHEMONTID:0001670,alternative_parents: Tertiary alcohols
+Q10034625-24,CHEMONTID:0001661,alternative_parents: Secondary alcohols
+Q10034625-24,CHEMONTID:0001292,alternative_parents: Cyclic alcohols and derivatives
+Q10034625-24,CHEMONTID:0002286,alternative_parents: Polyols
+Q10034625-24,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-24,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-24,NotAvailable,mMlecular_framework: Aliphatic homopolycyclic compounds
+Q10034625-24,NotAvailable,"Substituents: [""Hexahydroxy bile acid, alcohol, or derivatives"", ""Cholesterol"", ""Cholesterol-skeleton"", ""Cholestane-skeleton"", ""Ecdysteroid"", ""25-hydroxysteroid"", ""Hydroxy bile acid, alcohol, or derivatives"", ""22-hydroxysteroid"", ""20-hydroxysteroid"", ""3-hydroxy-delta-7-steroid"", ""2-hydroxysteroid"", ""3-beta-hydroxysteroid"", ""Oxosteroid"", ""6-oxosteroid"", ""Hydroxysteroid"", ""3-hydroxysteroid"", ""14-hydroxysteroid"", ""Delta-7-steroid"", ""Cyclohexenone"", ""Tertiary alcohol"", ""Cyclic alcohol"", ""Secondary alcohol"", ""Ketone"", ""Polyol"", ""Organic oxide"", ""Organic oxygen compound"", ""Hydrocarbon derivative"", ""Carbonyl group"", ""Alcohol"", ""Organooxygen compound"", ""Aliphatic homopolycyclic compound""]"
+Q10034625-24,NotAvailable,"External_descriptors: [[""source: CHEBI"", ""source_id: CHEBI:16587"", ""annotation: [\""3beta-sterol\"", \""20-hydroxy steroid\"", \""22-hydroxy steroid\"", \""25-hydroxy steroid\"", \""2beta-hydroxy steroid\"", \""14alpha-hydroxy steroid\"", \""ecdysteroid\"", \""phytoecdysteroid\""]""], [""source: LIPID MAPS"", ""source_id: LMST01010209"", ""annotation: [\""Cholesterol and derivatives\""]""]]"
+Q10034625-24,NotAvailable,"Ancestors: [""14-hydroxysteroids"", ""3-beta-hydroxysteroids"", ""3-hydroxy delta-7-steroids"", ""3-hydroxysteroids"", ""6-oxosteroids"", ""Alcohols and polyols"", ""Bile acids, alcohols and derivatives"", ""Carbonyl compounds"", ""Chemical entities"", ""Cholestane steroids"", ""Cholesterols and derivatives"", ""Cyclic alcohols and derivatives"", ""Cyclic ketones"", ""Cyclohexenones"", ""Delta-7-steroids"", ""Ecdysteroids"", ""Hydrocarbon derivatives"", ""Hydroxy bile acids, alcohols and derivatives"", ""Hydroxysteroids"", ""Ketones"", ""Lipids and lipid-like molecules"", ""Organic compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organooxygen compounds"", ""Oxosteroids"", ""Polyols"", ""Secondary alcohols"", ""Steroids and steroid derivatives"", ""Tertiary alcohols""]"
+Q10034625-24,NotAvailable,"predicted_chebi_terms: [""cholestanoid (CHEBI:50401)"", ""ecdysteroid (CHEBI:23897)"", ""6-oxo steroid (CHEBI:36883)"", ""steroid (CHEBI:35341)"", ""3beta-hydroxy steroid (CHEBI:36836)"", ""14-hydroxy steroid (CHEBI:36860)"", ""cyclohexenones (CHEBI:48953)"", ""tertiary alcohol (CHEBI:26878)"", ""secondary alcohol (CHEBI:35681)"", ""organic hydroxy compound (CHEBI:33822)"", ""polyol (CHEBI:26191)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""chemical entity (CHEBI:24431)"", ""lipid (CHEBI:18059)"", ""oxo steroid (CHEBI:35789)"", ""hydroxy steroid (CHEBI:35350)"", ""3-hydroxy steroid (CHEBI:36834)"", ""oxygen molecular entity (CHEBI:25806)"", ""organic molecular entity (CHEBI:50860)"", ""organooxygen compound (CHEBI:36963)"", ""carbonyl compound (CHEBI:36586)"", ""ketone (CHEBI:17087)"", ""cyclic ketone (CHEBI:3992)"", ""alcohol (CHEBI:30879)"", ""bile acid (CHEBI:3098)""]"
+Q10034625-24,NotAvailable,"predicted_lipidmaps_terms: [""Cholesterol and derivatives (ST0101)"", ""Sterol Lipids (ST)"", ""Bile acids and derivatives (ST04)""]"
+Q10034625-24,NotAvailable,Classification_version: 2.1
+Q10034625-25,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-25,CHEMONTID:0002448,Superclass: Benzenoids
+Q10034625-25,CHEMONTID:0000048,Class: Tetralins
+Q10034625-25,CHEMONTID:0000048,Direct_parent: Tetralins
+Q10034625-25,CHEMONTID:0003671,alternative_parents: Aryl alkyl ketones
+Q10034625-25,CHEMONTID:0000128,alternative_parents: Alkyl aryl ethers
+Q10034625-25,CHEMONTID:0001661,alternative_parents: Secondary alcohols
+Q10034625-25,CHEMONTID:0001897,"alternative_parents: 1,2-aminoalcohols"
+Q10034625-25,CHEMONTID:0002228,alternative_parents: Dialkylamines
+Q10034625-25,CHEMONTID:0004557,alternative_parents: Organopnictogen compounds
+Q10034625-25,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-25,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-25,NotAvailable,mMlecular_framework: Aromatic homopolycyclic compounds
+Q10034625-25,NotAvailable,"Substituents: [""Tetralin"", ""Aryl alkyl ketone"", ""Aryl ketone"", ""Alkyl aryl ether"", ""1,2-aminoalcohol"", ""Ketone"", ""Secondary alcohol"", ""Secondary aliphatic amine"", ""Ether"", ""Secondary amine"", ""Organooxygen compound"", ""Organonitrogen compound"", ""Organopnictogen compound"", ""Alcohol"", ""Organic nitrogen compound"", ""Amine"", ""Organic oxide"", ""Organic oxygen compound"", ""Hydrocarbon derivative"", ""Aromatic homopolycyclic compound""]"
+Q10034625-25,NotAvailable,External_descriptors: []
+Q10034625-25,NotAvailable,"Ancestors: [""1,2-aminoalcohols"", ""Alcohols and polyols"", ""Alkanolamines"", ""Alkyl aryl ethers"", ""Amines"", ""Aryl alkyl ketones"", ""Aryl ketones"", ""Benzenoids"", ""Carbonyl compounds"", ""Chemical entities"", ""Dialkylamines"", ""Ethers"", ""Hydrocarbon derivatives"", ""Ketones"", ""Organic compounds"", ""Organic nitrogen compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organonitrogen compounds"", ""Organooxygen compounds"", ""Organopnictogen compounds"", ""Secondary alcohols"", ""Secondary amines"", ""Tetralins""]"
+Q10034625-25,NotAvailable,"predicted_chebi_terms: [""aromatic ketone (CHEBI:76224)"", ""aromatic ether (CHEBI:35618)"", ""secondary alcohol (CHEBI:35681)"", ""amino alcohol (CHEBI:22478)"", ""secondary amino compound (CHEBI:50995)"", ""pnictogen molecular entity (CHEBI:33302)"", ""organic molecular entity (CHEBI:50860)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""tetralins (CHEBI:36786)"", ""chemical entity (CHEBI:24431)"", ""oxygen molecular entity (CHEBI:25806)"", ""organooxygen compound (CHEBI:36963)"", ""carbonyl compound (CHEBI:36586)"", ""ketone (CHEBI:17087)"", ""ether (CHEBI:25698)"", ""polyol (CHEBI:26191)"", ""organic hydroxy compound (CHEBI:33822)"", ""alcohol (CHEBI:30879)"", ""nitrogen molecular entity (CHEBI:51143)"", ""organonitrogen compound (CHEBI:35352)"", ""amine (CHEBI:32952)"", ""secondary amine (CHEBI:32863)"", ""benzenoid aromatic compound (CHEBI:33836)""]"
+Q10034625-25,NotAvailable,predicted_lipidmaps_terms: []
+Q10034625-25,NotAvailable,Classification_version: 2.1
+Q10034625-26,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-26,CHEMONTID:0000279,Superclass: Alkaloids and derivatives
+Q10034625-26,CHEMONTID:0002748,Class: Ibogan-type alkaloids
+Q10034625-26,CHEMONTID:0002748,Direct_parent: Ibogan-type alkaloids
+Q10034625-26,CHEMONTID:0004196,alternative_parents: 3-alkylindoles
+Q10034625-26,CHEMONTID:0001990,alternative_parents: Pyrroloazepines
+Q10034625-26,CHEMONTID:0002411,alternative_parents: Piperidinecarboxylic acids
+Q10034625-26,CHEMONTID:0003899,alternative_parents: Aralkylamines
+Q10034625-26,CHEMONTID:0000069,alternative_parents: Azepines
+Q10034625-26,CHEMONTID:0002448,alternative_parents: Benzenoids
+Q10034625-26,CHEMONTID:0003416,alternative_parents: Methyl esters
+Q10034625-26,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-26,CHEMONTID:0000090,alternative_parents: Pyrroles
+Q10034625-26,CHEMONTID:0000347,alternative_parents: Amino acids and derivatives
+Q10034625-26,CHEMONTID:0002239,alternative_parents: Trialkylamines
+Q10034625-26,CHEMONTID:0001137,alternative_parents: Monocarboxylic acids and derivatives
+Q10034625-26,CHEMONTID:0004139,alternative_parents: Azacyclic compounds
+Q10034625-26,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-26,CHEMONTID:0001831,alternative_parents: Carbonyl compounds
+Q10034625-26,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-26,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-26,NotAvailable,"Substituents: [""Ibogan skeleton"", ""Catharanthine skeleton"", ""Pyrroloazepine"", ""3-alkylindole"", ""Indole"", ""Indole or derivatives"", ""Piperidinecarboxylic acid"", ""Azepine"", ""Aralkylamine"", ""Piperidine"", ""Benzenoid"", ""Pyrrole"", ""Methyl ester"", ""Heteroaromatic compound"", ""Tertiary aliphatic amine"", ""Tertiary amine"", ""Amino acid or derivatives"", ""Carboxylic acid ester"", ""Organoheterocyclic compound"", ""Carboxylic acid derivative"", ""Azacycle"", ""Monocarboxylic acid or derivatives"", ""Organic oxide"", ""Organic oxygen compound"", ""Amine"", ""Carbonyl group"", ""Hydrocarbon derivative"", ""Organooxygen compound"", ""Organic nitrogen compound"", ""Organonitrogen compound"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-26,NotAvailable,External_descriptors: []
+Q10034625-26,NotAvailable,"Ancestors: [""3-alkylindoles"", ""Alkaloids and derivatives"", ""Amines"", ""Amino acids and derivatives"", ""Amino acids, peptides, and analogues"", ""Aralkylamines"", ""Azacyclic compounds"", ""Azepines"", ""Benzenoids"", ""Carbonyl compounds"", ""Carboxylic acid derivatives"", ""Carboxylic acid esters"", ""Carboxylic acids and derivatives"", ""Chemical entities"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Ibogan-type alkaloids"", ""Indoles"", ""Indoles and derivatives"", ""Methyl esters"", ""Monocarboxylic acids and derivatives"", ""Organic acids and derivatives"", ""Organic compounds"", ""Organic nitrogen compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organonitrogen compounds"", ""Organooxygen compounds"", ""Organopnictogen compounds"", ""Piperidinecarboxylic acids"", ""Piperidinecarboxylic acids and derivatives"", ""Piperidines"", ""Pyrroles"", ""Pyrroloazepines"", ""Tertiary amines"", ""Trialkylamines""]"
+Q10034625-26,NotAvailable,"predicted_chebi_terms: [""indoles (CHEBI:24828)"", ""organic heterobicyclic compound (CHEBI:27171)"", ""organonitrogen heterocyclic compound (CHEBI:38101)"", ""carboxylic acid (CHEBI:33575)"", ""piperidines (CHEBI:26151)"", ""aralkylamine (CHEBI:18000)"", ""azepine (CHEBI:48105)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""carboxylic ester (CHEBI:33308)"", ""organic aromatic compound (CHEBI:33659)"", ""pyrroles (CHEBI:26455)"", ""organonitrogen compound (CHEBI:35352)"", ""organooxygen compound (CHEBI:36963)"", ""tertiary amino compound (CHEBI:50996)"", ""monocarboxylic acid (CHEBI:25384)"", ""organic molecule (CHEBI:72695)"", ""carbonyl compound (CHEBI:36586)"", ""organic oxide (CHEBI:25701)"", ""alkaloid (CHEBI:22315)"", ""chemical entity (CHEBI:24431)"", ""organic heterocyclic compound (CHEBI:24532)"", ""nitrogen molecular entity (CHEBI:51143)"", ""organic molecular entity (CHEBI:50860)"", ""amine (CHEBI:32952)"", ""organic acid (CHEBI:64709)"", ""tertiary amine (CHEBI:32876)"", ""oxygen molecular entity (CHEBI:25806)"", ""amino acid (CHEBI:33709)"", ""peptide (CHEBI:16670)""]"
+Q10034625-26,NotAvailable,predicted_lipidmaps_terms: []
+Q10034625-26,NotAvailable,Classification_version: 2.1
+Q10034625-27,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-27,CHEMONTID:0000261,Superclass: Phenylpropanoids and polyketides
+Q10034625-27,CHEMONTID:0000334,Class: Flavonoids
+Q10034625-27,CHEMONTID:0001615,Subclass: Flavones
+Q10034625-27,CHEMONTID:0001136,Direct_parent: Flavonols
+Q10034625-27,CHEMONTID:0002595,alternative_parents: 3'-O-methylated flavonoids
+Q10034625-27,CHEMONTID:0002914,alternative_parents: 3-hydroxyflavonoids
+Q10034625-27,CHEMONTID:0002989,alternative_parents: 4'-hydroxyflavonoids
+Q10034625-27,CHEMONTID:0002993,alternative_parents: 7-hydroxyflavonoids
+Q10034625-27,CHEMONTID:0000144,alternative_parents: Chromones
+Q10034625-27,CHEMONTID:0000190,alternative_parents: Methoxyphenols
+Q10034625-27,CHEMONTID:0004742,alternative_parents: Phenoxy compounds
+Q10034625-27,CHEMONTID:0004113,alternative_parents: Methoxybenzenes
+Q10034625-27,CHEMONTID:0000138,alternative_parents: Anisoles
+Q10034625-27,CHEMONTID:0000481,alternative_parents: Pyranones and derivatives
+Q10034625-27,CHEMONTID:0004646,alternative_parents: 1-hydroxy-2-unsubstituted benzenoids
+Q10034625-27,CHEMONTID:0000128,alternative_parents: Alkyl aryl ethers
+Q10034625-27,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-27,CHEMONTID:0004140,alternative_parents: Oxacyclic compounds
+Q10034625-27,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-27,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-27,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-27,NotAvailable,"Substituents: [""3p-methoxyflavonoid-skeleton"", ""3-hydroxyflavone"", ""3-hydroxyflavonoid"", ""4'-hydroxyflavonoid"", ""7-hydroxyflavonoid"", ""Hydroxyflavonoid"", ""Chromone"", ""Benzopyran"", ""Methoxyphenol"", ""1-benzopyran"", ""Phenoxy compound"", ""Anisole"", ""Methoxybenzene"", ""Phenol ether"", ""1-hydroxy-2-unsubstituted benzenoid"", ""Alkyl aryl ether"", ""Phenol"", ""Pyranone"", ""Monocyclic benzene moiety"", ""Pyran"", ""Benzenoid"", ""Heteroaromatic compound"", ""Organoheterocyclic compound"", ""Oxacycle"", ""Ether"", ""Organic oxide"", ""Organooxygen compound"", ""Organic oxygen compound"", ""Hydrocarbon derivative"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-27,NotAvailable,"External_descriptors: [[""source: LIPID MAPS"", ""source_id: LMPK12111568"", ""annotation: [\""Flavones and Flavonols\""]""]]"
+Q10034625-27,NotAvailable,"Ancestors: [""1-benzopyrans"", ""1-hydroxy-2-unsubstituted benzenoids"", ""3'-O-methylated flavonoids"", ""3-hydroxyflavonoids"", ""4'-hydroxyflavonoids"", ""7-hydroxyflavonoids"", ""Alkyl aryl ethers"", ""Anisoles"", ""Benzene and substituted derivatives"", ""Benzenoids"", ""Benzopyrans"", ""Chemical entities"", ""Chromones"", ""Ethers"", ""Flavones"", ""Flavonoids"", ""Flavonols"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Hydroxyflavonoids"", ""Methoxybenzenes"", ""Methoxyphenols"", ""O-methylated flavonoids"", ""Organic compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organooxygen compounds"", ""Oxacyclic compounds"", ""Phenol ethers"", ""Phenols"", ""Phenoxy compounds"", ""Phenylpropanoids and polyketides"", ""Pyranones and derivatives"", ""Pyrans""]"
+Q10034625-27,NotAvailable,"predicted_chebi_terms: [""flavonoids (CHEBI:72544)"", ""ether (CHEBI:25698)"", ""hydroxyflavonoid (CHEBI:71968)"", ""chromones (CHEBI:23238)"", ""methoxybenzene (CHEBI:51683)"", ""phenols (CHEBI:33853)"", ""benzenes (CHEBI:22712)"", ""pyranone (CHEBI:37963)"", ""aromatic ether (CHEBI:35618)"", ""organic aromatic compound (CHEBI:33659)"", ""oxacycle (CHEBI:38104)"", ""organic molecule (CHEBI:72695)"", ""organic oxide (CHEBI:25701)"", ""hydroxyflavan (CHEBI:72010)"", ""chemical entity (CHEBI:24431)"", ""organooxygen compound (CHEBI:36963)"", ""organic heterocyclic compound (CHEBI:24532)"", ""benzopyran (CHEBI:22727)"", ""1-benzopyran (CHEBI:38443)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""pyrans (CHEBI:26407)"", ""oxygen molecular entity (CHEBI:25806)"", ""organic molecular entity (CHEBI:50860)"", ""flavones (CHEBI:24043)""]"
+Q10034625-27,NotAvailable,"predicted_lipidmaps_terms: [""Flavones and Flavonols (PK1211)"", ""Benzopyranoids (PK1311)""]"
+Q10034625-27,NotAvailable,Classification_version: 2.1
+Q10034625-28,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-28,CHEMONTID:0002448,Superclass: Benzenoids
+Q10034625-28,CHEMONTID:0000018,Class: Anthracenes
+Q10034625-28,CHEMONTID:0000018,Direct_parent: Anthracenes
+Q10034625-28,CHEMONTID:0000079,alternative_parents: Imidazolines
+Q10034625-28,CHEMONTID:0000375,alternative_parents: Guanidines
+Q10034625-28,CHEMONTID:0003633,"alternative_parents: Propargyl-type 1,3-dipolar organic compounds"
+Q10034625-28,CHEMONTID:0003152,alternative_parents: Carboximidamides
+Q10034625-28,CHEMONTID:0004139,alternative_parents: Azacyclic compounds
+Q10034625-28,CHEMONTID:0004557,alternative_parents: Organopnictogen compounds
+Q10034625-28,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-28,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-28,NotAvailable,"Substituents: [""Anthracene"", ""2-imidazoline"", ""Guanidine"", ""Azacycle"", ""Organoheterocyclic compound"", ""Organic 1,3-dipolar compound"", ""Propargyl-type 1,3-dipolar organic compound"", ""Carboximidamide"", ""Organic nitrogen compound"", ""Organopnictogen compound"", ""Hydrocarbon derivative"", ""Organonitrogen compound"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-28,NotAvailable,External_descriptors: []
+Q10034625-28,NotAvailable,"Ancestors: [""Anthracenes"", ""Azacyclic compounds"", ""Azolines"", ""Benzenoids"", ""Carboximidamides"", ""Chemical entities"", ""Guanidines"", ""Hydrocarbon derivatives"", ""Imidazolines"", ""Organic 1,3-dipolar compounds"", ""Organic compounds"", ""Organic nitrogen compounds"", ""Organoheterocyclic compounds"", ""Organonitrogen compounds"", ""Organopnictogen compounds"", ""Propargyl-type 1,3-dipolar organic compounds""]"
+Q10034625-28,NotAvailable,"predicted_chebi_terms: [""imidazolines (CHEBI:53095)"", ""guanidines (CHEBI:24436)"", ""dipolar compound (CHEBI:51151)"", ""organonitrogen compound (CHEBI:35352)"", ""organonitrogen heterocyclic compound (CHEBI:38101)"", ""pnictogen molecular entity (CHEBI:33302)"", ""organic molecular entity (CHEBI:50860)"", ""organic molecule (CHEBI:72695)"", ""anthracenes (CHEBI:46955)"", ""chemical entity (CHEBI:24431)"", ""organic heterocyclic compound (CHEBI:24532)"", ""nitrogen molecular entity (CHEBI:51143)"", ""benzenoid aromatic compound (CHEBI:33836)""]"
+Q10034625-28,NotAvailable,predicted_lipidmaps_terms: []
+Q10034625-28,NotAvailable,Classification_version: 2.1
+Q10034625-29,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-29,CHEMONTID:0000002,Superclass: Organoheterocyclic compounds
+Q10034625-29,CHEMONTID:0000089,Class: Pyridines and derivatives
+Q10034625-29,CHEMONTID:0002317,Subclass: Phenylpyridines
+Q10034625-29,CHEMONTID:0002317,Direct_parent: Phenylpyridines
+Q10034625-29,CHEMONTID:0001878,alternative_parents: Beta amino acids and derivatives
+Q10034625-29,CHEMONTID:0000178,alternative_parents: Benzamides
+Q10034625-29,CHEMONTID:0000321,alternative_parents: Benzoyl derivatives
+Q10034625-29,CHEMONTID:0000324,alternative_parents: Fatty acid esters
+Q10034625-29,CHEMONTID:0001764,alternative_parents: Pyridinium derivatives
+Q10034625-29,CHEMONTID:0003416,alternative_parents: Methyl esters
+Q10034625-29,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-29,CHEMONTID:0001663,alternative_parents: Secondary carboxylic acid amides
+Q10034625-29,CHEMONTID:0004139,alternative_parents: Azacyclic compounds
+Q10034625-29,CHEMONTID:0001137,alternative_parents: Monocarboxylic acids and derivatives
+Q10034625-29,CHEMONTID:0003152,alternative_parents: Carboximidamides
+Q10034625-29,CHEMONTID:0001045,alternative_parents: Carboxamidines
+Q10034625-29,CHEMONTID:0001831,alternative_parents: Carbonyl compounds
+Q10034625-29,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-29,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-29,CHEMONTID:0004557,alternative_parents: Organopnictogen compounds
+Q10034625-29,NotAvailable,mMlecular_framework: Aromatic heteromonocyclic compounds
+Q10034625-29,NotAvailable,"Substituents: [""4-phenylpyridine"", ""Beta amino acid or derivatives"", ""Benzamide"", ""Benzoic acid or derivatives"", ""Benzoyl"", ""Fatty acid ester"", ""Monocyclic benzene moiety"", ""Fatty acyl"", ""Benzenoid"", ""Pyridinium"", ""Heteroaromatic compound"", ""Methyl ester"", ""Carboxamide group"", ""Carboxylic acid ester"", ""Secondary carboxylic acid amide"", ""Carboxylic acid amidine"", ""Monocarboxylic acid or derivatives"", ""Carboximidamide"", ""Azacycle"", ""Carboxylic acid derivative"", ""Amidine"", ""Organic nitrogen compound"", ""Organonitrogen compound"", ""Carbonyl group"", ""Organooxygen compound"", ""Hydrocarbon derivative"", ""Organic oxide"", ""Organopnictogen compound"", ""Organic oxygen compound"", ""Aromatic heteromonocyclic compound""]"
+Q10034625-29,NotAvailable,External_descriptors: []
+Q10034625-29,NotAvailable,"Ancestors: [""Amidines"", ""Amino acids and derivatives"", ""Amino acids, peptides, and analogues"", ""Azacyclic compounds"", ""Benzamides"", ""Benzene and substituted derivatives"", ""Benzenoids"", ""Benzoic acids and derivatives"", ""Benzoyl derivatives"", ""Beta amino acids and derivatives"", ""Carbonyl compounds"", ""Carboxamidines"", ""Carboximidamides"", ""Carboxylic acid amides"", ""Carboxylic acid derivatives"", ""Carboxylic acid esters"", ""Carboxylic acids and derivatives"", ""Chemical entities"", ""Fatty Acyls"", ""Fatty acid esters"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Lipids and lipid-like molecules"", ""Methyl esters"", ""Monocarboxylic acids and derivatives"", ""Organic acids and derivatives"", ""Organic compounds"", ""Organic nitrogen compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organonitrogen compounds"", ""Organooxygen compounds"", ""Organopnictogen compounds"", ""Phenylpyridines"", ""Pyridines and derivatives"", ""Pyridinium derivatives"", ""Secondary carboxylic acid amides""]"
+Q10034625-29,NotAvailable,"predicted_chebi_terms: [""organonitrogen compound (CHEBI:35352)"", ""organooxygen compound (CHEBI:36963)"", ""benzamides (CHEBI:22702)"", ""carbonyl compound (CHEBI:36586)"", ""fatty acid ester (CHEBI:35748)"", ""pyridinium ion (CHEBI:50334)"", ""carboxylic ester (CHEBI:33308)"", ""organic aromatic compound (CHEBI:33659)"", ""carboxamide (CHEBI:37622)"", ""organonitrogen heterocyclic compound (CHEBI:38101)"", ""carboxamidine (CHEBI:35359)"", ""organic molecule (CHEBI:72695)"", ""organic oxide (CHEBI:25701)"", ""pnictogen molecular entity (CHEBI:33302)"", ""organic molecular entity (CHEBI:50860)"", ""phenylpyridine (CHEBI:38193)"", ""chemical entity (CHEBI:24431)"", ""amino acid (CHEBI:33709)"", ""peptide (CHEBI:16670)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""benzenes (CHEBI:22712)"", ""lipid (CHEBI:18059)"", ""organic heterocyclic compound (CHEBI:24532)"", ""pyridines (CHEBI:26421)"", ""amide (CHEBI:32988)"", ""nitrogen molecular entity (CHEBI:51143)"", ""amidine (CHEBI:2634)"", ""oxygen molecular entity (CHEBI:25806)""]"
+Q10034625-29,NotAvailable,"predicted_lipidmaps_terms: [""Fatty esters (FA07)"", ""Fatty Acyls (FA)""]"
+Q10034625-29,NotAvailable,Classification_version: 2.1
+Q10034625-30,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-30,CHEMONTID:0000279,Superclass: Alkaloids and derivatives
+Q10034625-30,CHEMONTID:0000058,Class: Morphinans
+Q10034625-30,CHEMONTID:0000058,Direct_parent: Morphinans
+Q10034625-30,CHEMONTID:0000025,alternative_parents: Phenanthrenes and derivatives
+Q10034625-30,CHEMONTID:0001634,alternative_parents: Naphthofurans
+Q10034625-30,CHEMONTID:0000048,alternative_parents: Tetralins
+Q10034625-30,CHEMONTID:0004189,alternative_parents: Coumarans
+Q10034625-30,CHEMONTID:0000301,alternative_parents: Benzofurans
+Q10034625-30,CHEMONTID:0004646,alternative_parents: 1-hydroxy-2-unsubstituted benzenoids
+Q10034625-30,CHEMONTID:0000128,alternative_parents: Alkyl aryl ethers
+Q10034625-30,CHEMONTID:0003899,alternative_parents: Aralkylamines
+Q10034625-30,CHEMONTID:0000195,alternative_parents: Piperidines
+Q10034625-30,CHEMONTID:0001670,alternative_parents: Tertiary alcohols
+Q10034625-30,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-30,CHEMONTID:0000076,alternative_parents: Furans
+Q10034625-30,CHEMONTID:0002239,alternative_parents: Trialkylamines
+Q10034625-30,CHEMONTID:0001897,"alternative_parents: 1,2-aminoalcohols"
+Q10034625-30,CHEMONTID:0004140,alternative_parents: Oxacyclic compounds
+Q10034625-30,CHEMONTID:0004139,alternative_parents: Azacyclic compounds
+Q10034625-30,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-30,CHEMONTID:0004557,alternative_parents: Organopnictogen compounds
+Q10034625-30,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-30,NotAvailable,"Substituents: [""Morphinan"", ""Phenanthrene"", ""Naphthofuran"", ""Tetralin"", ""Benzofuran"", ""Coumaran"", ""Alkyl aryl ether"", ""1-hydroxy-2-unsubstituted benzenoid"", ""Aralkylamine"", ""Piperidine"", ""Benzenoid"", ""Furan"", ""Heteroaromatic compound"", ""Tertiary alcohol"", ""1,2-aminoalcohol"", ""Tertiary aliphatic amine"", ""Tertiary amine"", ""Azacycle"", ""Oxacycle"", ""Ether"", ""Organoheterocyclic compound"", ""Organooxygen compound"", ""Organonitrogen compound"", ""Hydrocarbon derivative"", ""Organopnictogen compound"", ""Organic oxygen compound"", ""Amine"", ""Alcohol"", ""Organic nitrogen compound"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-30,NotAvailable,External_descriptors: []
+Q10034625-30,NotAvailable,"Ancestors: [""1,2-aminoalcohols"", ""1-hydroxy-2-unsubstituted benzenoids"", ""Alcohols and polyols"", ""Alkaloids and derivatives"", ""Alkanolamines"", ""Alkyl aryl ethers"", ""Amines"", ""Aralkylamines"", ""Azacyclic compounds"", ""Benzenoids"", ""Benzofurans"", ""Chemical entities"", ""Coumarans"", ""Ethers"", ""Furans"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Morphinans"", ""Naphthofurans"", ""Organic compounds"", ""Organic nitrogen compounds"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organonitrogen compounds"", ""Organooxygen compounds"", ""Organopnictogen compounds"", ""Oxacyclic compounds"", ""Phenanthrenes and derivatives"", ""Phenols"", ""Piperidines"", ""Tertiary alcohols"", ""Tertiary amines"", ""Tetralins"", ""Trialkylamines""]"
+Q10034625-30,NotAvailable,"predicted_chebi_terms: [""phenanthrenes (CHEBI:25961)"", ""naphthofuran (CHEBI:39270)"", ""tetralins (CHEBI:36786)"", ""1-benzofurans (CHEBI:38830)"", ""benzofurans (CHEBI:35259)"", ""phenols (CHEBI:33853)"", ""aromatic ether (CHEBI:35618)"", ""aralkylamine (CHEBI:18000)"", ""piperidines (CHEBI:26151)"", ""tertiary alcohol (CHEBI:26878)"", ""organic aromatic compound (CHEBI:33659)"", ""furans (CHEBI:24129)"", ""tertiary amino compound (CHEBI:50996)"", ""amino alcohol (CHEBI:22478)"", ""oxacycle (CHEBI:38104)"", ""organonitrogen heterocyclic compound (CHEBI:38101)"", ""organic molecule (CHEBI:72695)"", ""pnictogen molecular entity (CHEBI:33302)"", ""organic molecular entity (CHEBI:50860)"", ""morphinane alkaloid (CHEBI:25418)"", ""chemical entity (CHEBI:24431)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""organic heterocyclic compound (CHEBI:24532)"", ""oxygen molecular entity (CHEBI:25806)"", ""organooxygen compound (CHEBI:36963)"", ""ether (CHEBI:25698)"", ""nitrogen molecular entity (CHEBI:51143)"", ""organonitrogen compound (CHEBI:35352)"", ""amine (CHEBI:32952)"", ""polyol (CHEBI:26191)"", ""organic hydroxy compound (CHEBI:33822)"", ""alcohol (CHEBI:30879)"", ""tertiary amine (CHEBI:32876)"", ""alkaloid (CHEBI:22315)""]"
+Q10034625-30,NotAvailable,"predicted_lipidmaps_terms: [""Benzofuranoids (PK1310)""]"
+Q10034625-30,NotAvailable,Classification_version: 2.1
+Q10034625-31,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-31,CHEMONTID:0000261,Superclass: Phenylpropanoids and polyketides
+Q10034625-31,CHEMONTID:0002506,Class: Isoflavonoids
+Q10034625-31,CHEMONTID:0004154,Subclass: Hydroxyisoflavonoids
+Q10034625-31,CHEMONTID:0004154,Direct_parent: Hydroxyisoflavonoids
+Q10034625-31,CHEMONTID:0002820,alternative_parents: Isoflav-3-enones
+Q10034625-31,CHEMONTID:0002909,alternative_parents: 7-hydroxycoumarins
+Q10034625-31,CHEMONTID:0003410,alternative_parents: 1-benzopyrans
+Q10034625-31,CHEMONTID:0000481,alternative_parents: Pyranones and derivatives
+Q10034625-31,CHEMONTID:0001100,alternative_parents: Fluorobenzenes
+Q10034625-31,CHEMONTID:0004646,alternative_parents: 1-hydroxy-2-unsubstituted benzenoids
+Q10034625-31,CHEMONTID:0001031,alternative_parents: Aryl fluorides
+Q10034625-31,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-31,CHEMONTID:0000050,alternative_parents: Lactones
+Q10034625-31,CHEMONTID:0004140,alternative_parents: Oxacyclic compounds
+Q10034625-31,CHEMONTID:0000323,alternative_parents: Organooxygen compounds
+Q10034625-31,CHEMONTID:0001517,alternative_parents: Organofluorides
+Q10034625-31,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-31,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-31,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-31,NotAvailable,"Substituents: [""Hydroxyisoflavonoid"", ""Isoflav-3-enone skeleton"", ""7-hydroxycoumarin"", ""Hydroxycoumarin"", ""Coumarin"", ""Benzopyran"", ""1-benzopyran"", ""1-hydroxy-2-unsubstituted benzenoid"", ""Halobenzene"", ""Fluorobenzene"", ""Pyranone"", ""Aryl fluoride"", ""Aryl halide"", ""Pyran"", ""Benzenoid"", ""Monocyclic benzene moiety"", ""Heteroaromatic compound"", ""Lactone"", ""Oxacycle"", ""Organoheterocyclic compound"", ""Organooxygen compound"", ""Organic oxygen compound"", ""Hydrocarbon derivative"", ""Organic oxide"", ""Organofluoride"", ""Organohalogen compound"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-31,NotAvailable,External_descriptors: []
+Q10034625-31,NotAvailable,"Ancestors: [""1-benzopyrans"", ""1-hydroxy-2-unsubstituted benzenoids"", ""7-hydroxycoumarins"", ""Aryl fluorides"", ""Aryl halides"", ""Benzene and substituted derivatives"", ""Benzenoids"", ""Benzopyrans"", ""Chemical entities"", ""Coumarins and derivatives"", ""Fluorobenzenes"", ""Halobenzenes"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Hydroxycoumarins"", ""Hydroxyisoflavonoids"", ""Isoflav-3-enes"", ""Isoflav-3-enones"", ""Isoflavonoids"", ""Lactones"", ""Organic compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organofluorides"", ""Organohalogen compounds"", ""Organoheterocyclic compounds"", ""Organooxygen compounds"", ""Oxacyclic compounds"", ""Phenols"", ""Phenylpropanoids and polyketides"", ""Pyranones and derivatives"", ""Pyrans""]"
+Q10034625-31,NotAvailable,"predicted_chebi_terms: [""isoflavonoid (CHEBI:50753)"", ""hydroxycoumarin (CHEBI:37912)"", ""1-benzopyran (CHEBI:38443)"", ""pyranone (CHEBI:37963)"", ""organofluorine compound (CHEBI:37143)"", ""phenols (CHEBI:33853)"", ""organic aromatic compound (CHEBI:33659)"", ""lactone (CHEBI:25000)"", ""oxacycle (CHEBI:38104)"", ""organooxygen compound (CHEBI:36963)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""organic hydroxy compound (CHEBI:33822)"", ""chemical entity (CHEBI:24431)"", ""coumarins (CHEBI:23403)"", ""organic heterocyclic compound (CHEBI:24532)"", ""benzopyran (CHEBI:22727)"", ""pyrans (CHEBI:26407)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""benzenes (CHEBI:22712)"", ""organohalogen compound (CHEBI:36684)"", ""haloarene (CHEBI:50887)"", ""oxygen molecular entity (CHEBI:25806)"", ""organic molecular entity (CHEBI:50860)""]"
+Q10034625-31,NotAvailable,"predicted_lipidmaps_terms: [""Isoflavonoids (PK1205)"", ""Benzopyranoids (PK1311)""]"
+Q10034625-31,NotAvailable,Classification_version: 2.1
+Q10034625-32,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-32,CHEMONTID:0000279,Superclass: Alkaloids and derivatives
+Q10034625-32,CHEMONTID:0002749,Class: Strychnos alkaloids
+Q10034625-32,CHEMONTID:0002749,Direct_parent: Strychnos alkaloids
+Q10034625-32,CHEMONTID:0000210,alternative_parents: Carbazoles
+Q10034625-32,CHEMONTID:0001146,alternative_parents: Indolines
+Q10034625-32,CHEMONTID:0000251,alternative_parents: Indolizidines
+Q10034625-32,CHEMONTID:0003899,alternative_parents: Aralkylamines
+Q10034625-32,CHEMONTID:0002458,alternative_parents: Secondary alkylarylamines
+Q10034625-32,CHEMONTID:0000195,alternative_parents: Piperidines
+Q10034625-32,CHEMONTID:0003449,alternative_parents: N-alkylpyrrolidines
+Q10034625-32,CHEMONTID:0002448,alternative_parents: Benzenoids
+Q10034625-32,CHEMONTID:0003890,alternative_parents: Vinylogous amides
+Q10034625-32,CHEMONTID:0002239,alternative_parents: Trialkylamines
+Q10034625-32,CHEMONTID:0000470,alternative_parents: Enamines
+Q10034625-32,CHEMONTID:0004139,alternative_parents: Azacyclic compounds
+Q10034625-32,CHEMONTID:0004557,alternative_parents: Organopnictogen compounds
+Q10034625-32,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-32,CHEMONTID:0000124,alternative_parents: Aldehydes
+Q10034625-32,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-32,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-32,NotAvailable,"Substituents: [""Strychnan skeleton"", ""Akuammicine-skeleton"", ""Stemmadenine-skeleton"", ""Carbazole"", ""Indole or derivatives"", ""Dihydroindole"", ""Indolizidine"", ""Aralkylamine"", ""Secondary aliphatic/aromatic amine"", ""Benzenoid"", ""N-alkylpyrrolidine"", ""Piperidine"", ""Vinylogous amide"", ""Pyrrolidine"", ""Tertiary aliphatic amine"", ""Tertiary amine"", ""Secondary amine"", ""Azacycle"", ""Enamine"", ""Organoheterocyclic compound"", ""Organic oxide"", ""Hydrocarbon derivative"", ""Organooxygen compound"", ""Organonitrogen compound"", ""Amine"", ""Aldehyde"", ""Carbonyl group"", ""Organic nitrogen compound"", ""Organic oxygen compound"", ""Organopnictogen compound"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-32,NotAvailable,External_descriptors: []
+Q10034625-32,NotAvailable,"Ancestors: [""Aldehydes"", ""Alkaloids and derivatives"", ""Amines"", ""Aralkylamines"", ""Azacyclic compounds"", ""Benzenoids"", ""Carbazoles"", ""Carbonyl compounds"", ""Chemical entities"", ""Enamines"", ""Hydrocarbon derivatives"", ""Indoles and derivatives"", ""Indolines"", ""Indolizidines"", ""N-alkylpyrrolidines"", ""Organic acids and derivatives"", ""Organic compounds"", ""Organic nitrogen compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organonitrogen compounds"", ""Organooxygen compounds"", ""Organopnictogen compounds"", ""Piperidines"", ""Pyrrolidines"", ""Secondary alkylarylamines"", ""Secondary amines"", ""Strychnos alkaloids"", ""Tertiary amines"", ""Trialkylamines"", ""Vinylogous amides""]"
+Q10034625-32,NotAvailable,"predicted_chebi_terms: [""carbazoles (CHEBI:48513)"", ""indoles (CHEBI:24828)"", ""indolizines (CHEBI:38485)"", ""aralkylamine (CHEBI:18000)"", ""secondary amine (CHEBI:32863)"", ""piperidines (CHEBI:26151)"", ""N-alkylpyrrolidine (CHEBI:46775)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""enone (CHEBI:51689)"", ""enamine (CHEBI:47989)"", ""tertiary amino compound (CHEBI:50996)"", ""organonitrogen heterocyclic compound (CHEBI:38101)"", ""pnictogen molecular entity (CHEBI:33302)"", ""organic molecular entity (CHEBI:50860)"", ""organic oxide (CHEBI:25701)"", ""aldehyde (CHEBI:17478)"", ""organic molecule (CHEBI:72695)"", ""alkaloid (CHEBI:22315)"", ""chemical entity (CHEBI:24431)"", ""organic heterocyclic compound (CHEBI:24532)"", ""nitrogen molecular entity (CHEBI:51143)"", ""organonitrogen compound (CHEBI:35352)"", ""amine (CHEBI:32952)"", ""pyrrolidines (CHEBI:38260)"", ""organooxygen compound (CHEBI:36963)"", ""tertiary amine (CHEBI:32876)"", ""oxygen molecular entity (CHEBI:25806)"", ""carbonyl compound (CHEBI:36586)""]"
+Q10034625-32,NotAvailable,predicted_lipidmaps_terms: []
+Q10034625-32,NotAvailable,Classification_version: 2.1
+Q10034625-33,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-33,CHEMONTID:0000002,Superclass: Organoheterocyclic compounds
+Q10034625-33,CHEMONTID:0001253,Class: Quinolines and derivatives
+Q10034625-33,CHEMONTID:0003912,Subclass: 4-aroylquinolines
+Q10034625-33,CHEMONTID:0003912,Direct_parent: 4-aroylquinolines
+Q10034625-33,CHEMONTID:0003910,alternative_parents: 2-aroylquinolines
+Q10034625-33,CHEMONTID:0004297,alternative_parents: Aryl-phenylketones
+Q10034625-33,CHEMONTID:0001976,alternative_parents: Pyridinylpiperazines
+Q10034625-33,CHEMONTID:0003359,alternative_parents: N-arylpiperazines
+Q10034625-33,CHEMONTID:0004537,alternative_parents: 4-aminoquinolines
+Q10034625-33,CHEMONTID:0001322,alternative_parents: Pyridinecarboxylic acids and derivatives
+Q10034625-33,CHEMONTID:0000138,alternative_parents: Anisoles
+Q10034625-33,CHEMONTID:0003901,alternative_parents: Dialkylarylamines
+Q10034625-33,CHEMONTID:0000321,alternative_parents: Benzoyl derivatives
+Q10034625-33,CHEMONTID:0000128,alternative_parents: Alkyl aryl ethers
+Q10034625-33,CHEMONTID:0003357,alternative_parents: N-alkylpiperazines
+Q10034625-33,CHEMONTID:0000283,alternative_parents: Aminopyridines and derivatives
+Q10034625-33,CHEMONTID:0003890,alternative_parents: Vinylogous amides
+Q10034625-33,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-33,CHEMONTID:0002239,alternative_parents: Trialkylamines
+Q10034625-33,CHEMONTID:0004139,alternative_parents: Azacyclic compounds
+Q10034625-33,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-33,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-33,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-33,NotAvailable,"Substituents: [""2-aroylquinoline"", ""4-aroylquinoline"", ""Aryl-phenylketone"", ""Pyridinylpiperazine"", ""N-arylpiperazine"", ""Aminoquinoline"", ""4-aminoquinoline"", ""Pyridine carboxylic acid or derivatives"", ""Anisole"", ""Benzoyl"", ""Phenol ether"", ""Tertiary aliphatic/aromatic amine"", ""Aryl ketone"", ""Dialkylarylamine"", ""Alkyl aryl ether"", ""N-alkylpiperazine"", ""Aminopyridine"", ""Benzenoid"", ""Monocyclic benzene moiety"", ""1,4-diazinane"", ""Piperazine"", ""Pyridine"", ""Vinylogous amide"", ""Heteroaromatic compound"", ""Tertiary aliphatic amine"", ""Ketone"", ""Tertiary amine"", ""Ether"", ""Azacycle"", ""Organooxygen compound"", ""Organonitrogen compound"", ""Amine"", ""Organic oxygen compound"", ""Hydrocarbon derivative"", ""Organic oxide"", ""Organic nitrogen compound"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-33,NotAvailable,External_descriptors: []
+Q10034625-33,NotAvailable,"Ancestors: [""2-aroylquinolines"", ""4-aminoquinolines"", ""4-aroylquinolines"", ""Alkyl aryl ethers"", ""Amines"", ""Aminopyridines and derivatives"", ""Aminoquinolines and derivatives"", ""Anisoles"", ""Aryl ketones"", ""Aryl-phenylketones"", ""Azacyclic compounds"", ""Benzene and substituted derivatives"", ""Benzenoids"", ""Benzoyl derivatives"", ""Carbonyl compounds"", ""Chemical entities"", ""Dialkylarylamines"", ""Diazinanes"", ""Ethers"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Ketones"", ""N-alkylpiperazines"", ""N-arylpiperazines"", ""Organic acids and derivatives"", ""Organic compounds"", ""Organic nitrogen compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organonitrogen compounds"", ""Organooxygen compounds"", ""Organopnictogen compounds"", ""Phenol ethers"", ""Phenylketones"", ""Piperazines"", ""Pyridinecarboxylic acids and derivatives"", ""Pyridines and derivatives"", ""Pyridinylpiperazines"", ""Quinolines and derivatives"", ""Tertiary alkylarylamines"", ""Tertiary amines"", ""Trialkylamines"", ""Vinylogous amides""]"
+Q10034625-33,NotAvailable,"predicted_chebi_terms: [""quinolines (CHEBI:26513)"", ""aromatic ketone (CHEBI:76224)"", ""pyridines (CHEBI:26421)"", ""piperazines (CHEBI:26144)"", ""N-arylpiperazine (CHEBI:46848)"", ""aminoquinoline (CHEBI:36709)"", ""aromatic carboxylic acid (CHEBI:33859)"", ""pyridinemonocarboxylic acid (CHEBI:26420)"", ""methoxybenzene (CHEBI:51683)"", ""dialkylarylamine (CHEBI:23665)"", ""tertiary amino compound (CHEBI:50996)"", ""carbonyl compound (CHEBI:36586)"", ""aromatic ether (CHEBI:35618)"", ""N-alkylpiperazine (CHEBI:46845)"", ""aminopyridine (CHEBI:38207)"", ""enone (CHEBI:51689)"", ""enamine (CHEBI:47989)"", ""organic aromatic compound (CHEBI:33659)"", ""organonitrogen heterocyclic compound (CHEBI:38101)"", ""organic molecule (CHEBI:72695)"", ""organic oxide (CHEBI:25701)"", ""chemical entity (CHEBI:24431)"", ""organic heterocyclic compound (CHEBI:24532)"", ""oxygen molecular entity (CHEBI:25806)"", ""organic molecular entity (CHEBI:50860)"", ""organooxygen compound (CHEBI:36963)"", ""ketone (CHEBI:17087)"", ""organic heteromonocyclic compound (CHEBI:25693)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""nitrogen molecular entity (CHEBI:51143)"", ""organonitrogen compound (CHEBI:35352)"", ""amine (CHEBI:32952)"", ""tertiary amine (CHEBI:32876)"", ""benzenes (CHEBI:22712)"", ""ether (CHEBI:25698)"", ""organic acid (CHEBI:64709)""]"
+Q10034625-33,NotAvailable,predicted_lipidmaps_terms: []
+Q10034625-33,NotAvailable,Classification_version: 2.1
+Q10034625-34,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-34,CHEMONTID:0002448,Superclass: Benzenoids
+Q10034625-34,CHEMONTID:0000048,Class: Tetralins
+Q10034625-34,CHEMONTID:0000048,Direct_parent: Tetralins
+Q10034625-34,CHEMONTID:0004742,alternative_parents: Phenoxy compounds
+Q10034625-34,CHEMONTID:0002341,alternative_parents: Phenol ethers
+Q10034625-34,CHEMONTID:0002122,alternative_parents: O-quinomethanes
+Q10034625-34,CHEMONTID:0003670,alternative_parents: Aryl ketones
+Q10034625-34,CHEMONTID:0000128,alternative_parents: Alkyl aryl ethers
+Q10034625-34,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-34,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-34,NotAvailable,mMlecular_framework: Aromatic homopolycyclic compounds
+Q10034625-34,NotAvailable,"Substituents: [""Tetralin"", ""Phenoxy compound"", ""Aryl ketone"", ""Quinomethane"", ""Phenol ether"", ""O-quinomethane"", ""Alkyl aryl ether"", ""Monocyclic benzene moiety"", ""Ketone"", ""Ether"", ""Organic oxygen compound"", ""Organic oxide"", ""Hydrocarbon derivative"", ""Organooxygen compound"", ""Aromatic homopolycyclic compound""]"
+Q10034625-34,NotAvailable,External_descriptors: []
+Q10034625-34,NotAvailable,"Ancestors: [""Alkyl aryl ethers"", ""Aryl ketones"", ""Benzene and substituted derivatives"", ""Benzenoids"", ""Carbonyl compounds"", ""Chemical entities"", ""Cyclic ketones"", ""Ethers"", ""Hydrocarbon derivatives"", ""Ketones"", ""O-quinomethanes"", ""Organic compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organooxygen compounds"", ""Phenol ethers"", ""Phenoxy compounds"", ""Quinomethanes"", ""Tetralins""]"
+Q10034625-34,NotAvailable,"predicted_chebi_terms: [""benzenes (CHEBI:22712)"", ""aromatic ether (CHEBI:35618)"", ""quinomethanes (CHEBI:52404)"", ""aromatic ketone (CHEBI:76224)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""tetralins (CHEBI:36786)"", ""chemical entity (CHEBI:24431)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""oxygen molecular entity (CHEBI:25806)"", ""organic molecular entity (CHEBI:50860)"", ""organooxygen compound (CHEBI:36963)"", ""carbonyl compound (CHEBI:36586)"", ""ketone (CHEBI:17087)"", ""cyclic ketone (CHEBI:3992)"", ""ether (CHEBI:25698)""]"
+Q10034625-34,NotAvailable,predicted_lipidmaps_terms: []
+Q10034625-34,NotAvailable,Classification_version: 2.1
+Q10034625-35,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-35,CHEMONTID:0000002,Superclass: Organoheterocyclic compounds
+Q10034625-35,CHEMONTID:0000301,Class: Benzofurans
+Q10034625-35,CHEMONTID:0000301,Direct_parent: Benzofurans
+Q10034625-35,CHEMONTID:0004189,alternative_parents: Coumarans
+Q10034625-35,CHEMONTID:0003671,alternative_parents: Aryl alkyl ketones
+Q10034625-35,CHEMONTID:0000138,alternative_parents: Anisoles
+Q10034625-35,CHEMONTID:0004325,alternative_parents: Cyclohexenones
+Q10034625-35,CHEMONTID:0000128,alternative_parents: Alkyl aryl ethers
+Q10034625-35,CHEMONTID:0001030,alternative_parents: Aryl chlorides
+Q10034625-35,CHEMONTID:0003891,alternative_parents: Vinylogous esters
+Q10034625-35,CHEMONTID:0004140,alternative_parents: Oxacyclic compounds
+Q10034625-35,CHEMONTID:0001516,alternative_parents: Organochlorides
+Q10034625-35,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-35,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-35,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-35,NotAvailable,"Substituents: [""Coumaran"", ""Benzofuran"", ""Anisole"", ""Aryl alkyl ketone"", ""Aryl ketone"", ""Alkyl aryl ether"", ""Cyclohexenone"", ""Aryl chloride"", ""Aryl halide"", ""Benzenoid"", ""Vinylogous ester"", ""Ketone"", ""Cyclic ketone"", ""Ether"", ""Oxacycle"", ""Organooxygen compound"", ""Organochloride"", ""Organohalogen compound"", ""Carbonyl group"", ""Organic oxygen compound"", ""Hydrocarbon derivative"", ""Organic oxide"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-35,NotAvailable,External_descriptors: []
+Q10034625-35,NotAvailable,"Ancestors: [""Alkyl aryl ethers"", ""Anisoles"", ""Aryl alkyl ketones"", ""Aryl chlorides"", ""Aryl halides"", ""Aryl ketones"", ""Benzenoids"", ""Benzofurans"", ""Carbonyl compounds"", ""Chemical entities"", ""Coumarans"", ""Cyclic ketones"", ""Cyclohexenones"", ""Ethers"", ""Hydrocarbon derivatives"", ""Ketones"", ""Organic acids and derivatives"", ""Organic compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organochlorides"", ""Organohalogen compounds"", ""Organoheterocyclic compounds"", ""Organooxygen compounds"", ""Oxacyclic compounds"", ""Phenol ethers"", ""Vinylogous esters""]"
+Q10034625-35,NotAvailable,"predicted_chebi_terms: [""1-benzofurans (CHEBI:38830)"", ""aromatic ketone (CHEBI:76224)"", ""methoxybenzene (CHEBI:51683)"", ""cyclohexenones (CHEBI:48953)"", ""aromatic ether (CHEBI:35618)"", ""organochlorine compound (CHEBI:36683)"", ""enone (CHEBI:51689)"", ""enol ether (CHEBI:47985)"", ""oxacycle (CHEBI:38104)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""benzofurans (CHEBI:35259)"", ""chemical entity (CHEBI:24431)"", ""organic heterocyclic compound (CHEBI:24532)"", ""oxygen molecular entity (CHEBI:25806)"", ""organic molecular entity (CHEBI:50860)"", ""organooxygen compound (CHEBI:36963)"", ""carbonyl compound (CHEBI:36586)"", ""ketone (CHEBI:17087)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""cyclic ketone (CHEBI:3992)"", ""ether (CHEBI:25698)"", ""organohalogen compound (CHEBI:36684)"", ""haloarene (CHEBI:50887)""]"
+Q10034625-35,NotAvailable,"predicted_lipidmaps_terms: [""Benzofuranoids (PK1310)""]"
+Q10034625-35,NotAvailable,Classification_version: 2.1
+Q10034625-36,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-36,CHEMONTID:0000002,Superclass: Organoheterocyclic compounds
+Q10034625-36,CHEMONTID:0001253,Class: Quinolines and derivatives
+Q10034625-36,CHEMONTID:0001253,Direct_parent: Quinolines and derivatives
+Q10034625-36,CHEMONTID:0000037,alternative_parents: Styrenes
+Q10034625-36,CHEMONTID:0003901,alternative_parents: Dialkylarylamines
+Q10034625-36,CHEMONTID:0000284,alternative_parents: Aniline and substituted anilines
+Q10034625-36,CHEMONTID:0000089,alternative_parents: Pyridines and derivatives
+Q10034625-36,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-36,CHEMONTID:0004139,alternative_parents: Azacyclic compounds
+Q10034625-36,CHEMONTID:0004557,alternative_parents: Organopnictogen compounds
+Q10034625-36,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-36,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-36,NotAvailable,"Substituents: [""Quinoline"", ""Styrene"", ""Aniline or substituted anilines"", ""Dialkylarylamine"", ""Tertiary aliphatic/aromatic amine"", ""Monocyclic benzene moiety"", ""Pyridine"", ""Benzenoid"", ""Heteroaromatic compound"", ""Tertiary amine"", ""Azacycle"", ""Hydrocarbon derivative"", ""Organopnictogen compound"", ""Organonitrogen compound"", ""Organic nitrogen compound"", ""Amine"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-36,NotAvailable,External_descriptors: []
+Q10034625-36,NotAvailable,"Ancestors: [""Amines"", ""Aniline and substituted anilines"", ""Azacyclic compounds"", ""Benzene and substituted derivatives"", ""Benzenoids"", ""Chemical entities"", ""Dialkylarylamines"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Organic compounds"", ""Organic nitrogen compounds"", ""Organoheterocyclic compounds"", ""Organonitrogen compounds"", ""Organopnictogen compounds"", ""Pyridines and derivatives"", ""Quinolines and derivatives"", ""Styrenes"", ""Tertiary alkylarylamines"", ""Tertiary amines""]"
+Q10034625-36,NotAvailable,"predicted_chebi_terms: [""styrenes (CHEBI:26799)"", ""dialkylarylamine (CHEBI:23665)"", ""tertiary amino compound (CHEBI:50996)"", ""anilines (CHEBI:22562)"", ""pyridines (CHEBI:26421)"", ""organic aromatic compound (CHEBI:33659)"", ""organonitrogen heterocyclic compound (CHEBI:38101)"", ""pnictogen molecular entity (CHEBI:33302)"", ""organic molecular entity (CHEBI:50860)"", ""organic molecule (CHEBI:72695)"", ""quinolines (CHEBI:26513)"", ""chemical entity (CHEBI:24431)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""benzenes (CHEBI:22712)"", ""nitrogen molecular entity (CHEBI:51143)"", ""organonitrogen compound (CHEBI:35352)"", ""amine (CHEBI:32952)"", ""tertiary amine (CHEBI:32876)"", ""organic heterocyclic compound (CHEBI:24532)""]"
+Q10034625-36,NotAvailable,predicted_lipidmaps_terms: []
+Q10034625-36,NotAvailable,Classification_version: 2.1
+Q10034625-37,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-37,CHEMONTID:0000279,Superclass: Alkaloids and derivatives
+Q10034625-37,CHEMONTID:0001786,Class: Yohimbine alkaloids
+Q10034625-37,CHEMONTID:0001786,Direct_parent: Yohimbine alkaloids
+Q10034625-37,CHEMONTID:0002750,alternative_parents: Corynanthean-type alkaloids
+Q10034625-37,CHEMONTID:0001914,alternative_parents: Beta carbolines
+Q10034625-37,CHEMONTID:0001251,alternative_parents: Gallic acid and derivatives
+Q10034625-37,CHEMONTID:0002347,alternative_parents: M-methoxybenzoic acids and derivatives
+Q10034625-37,CHEMONTID:0002346,alternative_parents: P-methoxybenzoic acids and derivatives
+Q10034625-37,CHEMONTID:0004196,alternative_parents: 3-alkylindoles
+Q10034625-37,CHEMONTID:0001350,alternative_parents: Benzoic acid esters
+Q10034625-37,CHEMONTID:0000138,alternative_parents: Anisoles
+Q10034625-37,CHEMONTID:0004113,alternative_parents: Methoxybenzenes
+Q10034625-37,CHEMONTID:0004742,alternative_parents: Phenoxy compounds
+Q10034625-37,CHEMONTID:0000321,alternative_parents: Benzoyl derivatives
+Q10034625-37,CHEMONTID:0003899,alternative_parents: Aralkylamines
+Q10034625-37,CHEMONTID:0000128,alternative_parents: Alkyl aryl ethers
+Q10034625-37,CHEMONTID:0000195,alternative_parents: Piperidines
+Q10034625-37,CHEMONTID:0000346,alternative_parents: Dicarboxylic acids and derivatives
+Q10034625-37,CHEMONTID:0000090,alternative_parents: Pyrroles
+Q10034625-37,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-37,CHEMONTID:0003416,alternative_parents: Methyl esters
+Q10034625-37,CHEMONTID:0002239,alternative_parents: Trialkylamines
+Q10034625-37,CHEMONTID:0000347,alternative_parents: Amino acids and derivatives
+Q10034625-37,CHEMONTID:0004139,alternative_parents: Azacyclic compounds
+Q10034625-37,CHEMONTID:0001167,alternative_parents: Dialkyl ethers
+Q10034625-37,CHEMONTID:0001831,alternative_parents: Carbonyl compounds
+Q10034625-37,CHEMONTID:0004557,alternative_parents: Organopnictogen compounds
+Q10034625-37,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-37,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-37,NotAvailable,mMlecular_framework: Aromatic heteropolycyclic compounds
+Q10034625-37,NotAvailable,"Substituents: [""Yohimbine"", ""Corynanthean skeleton"", ""Yohimbine alkaloid"", ""Pyridoindole"", ""Beta-carboline"", ""Gallic acid or derivatives"", ""P-methoxybenzoic acid or derivatives"", ""M-methoxybenzoic acid or derivatives"", ""Benzoate ester"", ""3-alkylindole"", ""Indole"", ""Indole or derivatives"", ""Benzoic acid or derivatives"", ""Benzoyl"", ""Phenol ether"", ""Anisole"", ""Phenoxy compound"", ""Methoxybenzene"", ""Alkyl aryl ether"", ""Aralkylamine"", ""Monocyclic benzene moiety"", ""Dicarboxylic acid or derivatives"", ""Benzenoid"", ""Piperidine"", ""Pyrrole"", ""Methyl ester"", ""Heteroaromatic compound"", ""Tertiary aliphatic amine"", ""Amino acid or derivatives"", ""Tertiary amine"", ""Carboxylic acid ester"", ""Organoheterocyclic compound"", ""Ether"", ""Carboxylic acid derivative"", ""Azacycle"", ""Dialkyl ether"", ""Organonitrogen compound"", ""Hydrocarbon derivative"", ""Organic oxide"", ""Organopnictogen compound"", ""Organic nitrogen compound"", ""Carbonyl group"", ""Organic oxygen compound"", ""Amine"", ""Organooxygen compound"", ""Aromatic heteropolycyclic compound""]"
+Q10034625-37,NotAvailable,External_descriptors: []
+Q10034625-37,NotAvailable,"Ancestors: [""3-alkylindoles"", ""Alkaloids and derivatives"", ""Alkyl aryl ethers"", ""Amines"", ""Amino acids and derivatives"", ""Amino acids, peptides, and analogues"", ""Anisoles"", ""Aralkylamines"", ""Azacyclic compounds"", ""Benzene and substituted derivatives"", ""Benzenoids"", ""Benzoic acid esters"", ""Benzoic acids and derivatives"", ""Benzoyl derivatives"", ""Beta carbolines"", ""Carbonyl compounds"", ""Carboxylic acid derivatives"", ""Carboxylic acid esters"", ""Carboxylic acids and derivatives"", ""Chemical entities"", ""Corynanthean-type alkaloids"", ""Dialkyl ethers"", ""Dicarboxylic acids and derivatives"", ""Ethers"", ""Gallic acid and derivatives"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Hydroxybenzoic acid derivatives"", ""Indoles"", ""Indoles and derivatives"", ""M-methoxybenzoic acids and derivatives"", ""Methoxybenzenes"", ""Methoxybenzoic acids and derivatives"", ""Methyl esters"", ""Organic acids and derivatives"", ""Organic compounds"", ""Organic nitrogen compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organonitrogen compounds"", ""Organooxygen compounds"", ""Organopnictogen compounds"", ""P-methoxybenzoic acids and derivatives"", ""Phenol ethers"", ""Phenoxy compounds"", ""Piperidines"", ""Pyridoindoles"", ""Pyrroles"", ""Tertiary amines"", ""Trialkylamines"", ""Yohimbine alkaloids""]"
+Q10034625-37,NotAvailable,"predicted_chebi_terms: [""alkaloid (CHEBI:22315)"", ""beta-carbolines (CHEBI:60834)"", ""trihydroxybenzoic acid (CHEBI:27115)"", ""methoxybenzoic acid (CHEBI:25238)"", ""indoles (CHEBI:24828)"", ""benzoate ester (CHEBI:36054)"", ""methoxybenzene (CHEBI:51683)"", ""benzenes (CHEBI:22712)"", ""carbonyl compound (CHEBI:36586)"", ""aralkylamine (CHEBI:18000)"", ""aromatic ether (CHEBI:35618)"", ""piperidines (CHEBI:26151)"", ""dicarboxylic acid (CHEBI:35692)"", ""pyrroles (CHEBI:26455)"", ""organic aromatic compound (CHEBI:33659)"", ""carboxylic ester (CHEBI:33308)"", ""tertiary amino compound (CHEBI:50996)"", ""organonitrogen compound (CHEBI:35352)"", ""organooxygen compound (CHEBI:36963)"", ""organonitrogen heterocyclic compound (CHEBI:38101)"", ""ether (CHEBI:25698)"", ""pnictogen molecular entity (CHEBI:33302)"", ""organic molecular entity (CHEBI:50860)"", ""organic molecule (CHEBI:72695)"", ""organic oxide (CHEBI:25701)"", ""yohimban alkaloid (CHEBI:27358)"", ""chemical entity (CHEBI:24431)"", ""organic heterocyclic compound (CHEBI:24532)"", ""pyridoindole (CHEBI:48888)"", ""benzenoid aromatic compound (CHEBI:33836)"", ""hydroxybenzoic acid (CHEBI:24676)"", ""nitrogen molecular entity (CHEBI:51143)"", ""amine (CHEBI:32952)"", ""oxygen molecular entity (CHEBI:25806)"", ""tertiary amine (CHEBI:32876)"", ""amino acid (CHEBI:33709)"", ""peptide (CHEBI:16670)""]"
+Q10034625-37,NotAvailable,"predicted_lipidmaps_terms: [""Dicarboxylic acids (FA0117)""]"
+Q10034625-37,NotAvailable,Classification_version: 2.1
+Q10034625-38,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-38,CHEMONTID:0000004,Superclass: Organosulfur compounds
+Q10034625-38,CHEMONTID:0001202,Class: Thioethers
+Q10034625-38,CHEMONTID:0004631,Subclass: Aryl thioethers
+Q10034625-38,CHEMONTID:0004631,Direct_parent: Aryl thioethers
+Q10034625-38,CHEMONTID:0003863,alternative_parents: Alkylarylthioethers
+Q10034625-38,CHEMONTID:0000089,alternative_parents: Pyridines and derivatives
+Q10034625-38,CHEMONTID:0004144,alternative_parents: Heteroaromatic compounds
+Q10034625-38,CHEMONTID:0003260,alternative_parents: Sulfenyl compounds
+Q10034625-38,CHEMONTID:0004139,alternative_parents: Azacyclic compounds
+Q10034625-38,CHEMONTID:0000278,alternative_parents: Organonitrogen compounds
+Q10034625-38,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-38,NotAvailable,mMlecular_framework: Aromatic heteromonocyclic compounds
+Q10034625-38,NotAvailable,"Substituents: [""Aryl thioether"", ""Alkylarylthioether"", ""Pyridine"", ""Heteroaromatic compound"", ""Azacycle"", ""Organoheterocyclic compound"", ""Sulfenyl compound"", ""Organic nitrogen compound"", ""Hydrocarbon derivative"", ""Organonitrogen compound"", ""Aromatic heteromonocyclic compound""]"
+Q10034625-38,NotAvailable,External_descriptors: []
+Q10034625-38,NotAvailable,"Ancestors: [""2-halopyridines"", ""Aldimines"", ""Alkylarylthioethers"", ""Aryl thioethers"", ""Azacyclic compounds"", ""Chemical entities"", ""Halopyridines"", ""Heteroaromatic compounds"", ""Hydrocarbon derivatives"", ""Imines"", ""Organic 1,3-dipolar compounds"", ""Organic compounds"", ""Organic nitrogen compounds"", ""Organoheterocyclic compounds"", ""Organonitrogen compounds"", ""Organopnictogen compounds"", ""Organosulfur compounds"", ""Propargyl-type 1,3-dipolar organic compounds"", ""Pyridines and derivatives"", ""Sulfenyl compounds"", ""Thioethers""]"
+Q10034625-38,NotAvailable,"predicted_chebi_terms: [""aryl sulfide (CHEBI:35683)"", ""pyridines (CHEBI:26421)"", ""organic aromatic compound (CHEBI:33659)"", ""organosulfur compound (CHEBI:33261)"", ""organonitrogen heterocyclic compound (CHEBI:38101)"", ""organonitrogen compound (CHEBI:35352)"", ""organic molecule (CHEBI:72695)"", ""chemical entity (CHEBI:24431)"", ""organic sulfide (CHEBI:16385)"", ""organic heterocyclic compound (CHEBI:24532)"", ""nitrogen molecular entity (CHEBI:51143)"", ""organic molecular entity (CHEBI:50860)""]"
+Q10034625-38,NotAvailable,predicted_lipidmaps_terms: []
+Q10034625-38,NotAvailable,Classification_version: 2.1
+Q10034625-39,CHEMONTID:0000000,Kingdom: Organic compounds
+Q10034625-39,CHEMONTID:0000002,Superclass: Organoheterocyclic compounds
+Q10034625-39,CHEMONTID:0002389,Class: Diazinanes
+Q10034625-39,CHEMONTID:0000189,Subclass: Piperazines
+Q10034625-39,CHEMONTID:0003357,Intermediate_nodes: N-alkylpiperazines
+Q10034625-39,CHEMONTID:0003358,Direct_parent: N-methylpiperazines
+Q10034625-39,CHEMONTID:0001664,alternative_parents: Tertiary carboxylic acid amides
+Q10034625-39,CHEMONTID:0003922,alternative_parents: Acetamides
+Q10034625-39,CHEMONTID:0002239,alternative_parents: Trialkylamines
+Q10034625-39,CHEMONTID:0000347,alternative_parents: Amino acids and derivatives
+Q10034625-39,CHEMONTID:0004139,alternative_parents: Azacyclic compounds
+Q10034625-39,CHEMONTID:0004557,alternative_parents: Organopnictogen compounds
+Q10034625-39,CHEMONTID:0003940,alternative_parents: Organic oxides
+Q10034625-39,CHEMONTID:0004150,alternative_parents: Hydrocarbon derivatives
+Q10034625-39,CHEMONTID:0001831,alternative_parents: Carbonyl compounds
+Q10034625-39,NotAvailable,mMlecular_framework: Aliphatic heteromonocyclic compounds
+Q10034625-39,NotAvailable,"Substituents: [""N-methylpiperazine"", ""Tertiary carboxylic acid amide"", ""Acetamide"", ""Amino acid or derivatives"", ""Carboxamide group"", ""Tertiary amine"", ""Tertiary aliphatic amine"", ""Carboxylic acid derivative"", ""Azacycle"", ""Organic oxygen compound"", ""Carbonyl group"", ""Organic nitrogen compound"", ""Organooxygen compound"", ""Organonitrogen compound"", ""Amine"", ""Organopnictogen compound"", ""Hydrocarbon derivative"", ""Organic oxide"", ""Aliphatic heteromonocyclic compound""]"
+Q10034625-39,NotAvailable,External_descriptors: []
+Q10034625-39,NotAvailable,"Ancestors: [""Acetamides"", ""Amines"", ""Amino acids and derivatives"", ""Amino acids, peptides, and analogues"", ""Azacyclic compounds"", ""Carbonyl compounds"", ""Carboxylic acid amides"", ""Carboxylic acid derivatives"", ""Carboxylic acids and derivatives"", ""Chemical entities"", ""Diazinanes"", ""Hydrocarbon derivatives"", ""N-alkylpiperazines"", ""N-methylpiperazines"", ""Organic acids and derivatives"", ""Organic compounds"", ""Organic nitrogen compounds"", ""Organic oxides"", ""Organic oxygen compounds"", ""Organoheterocyclic compounds"", ""Organonitrogen compounds"", ""Organooxygen compounds"", ""Organopnictogen compounds"", ""Piperazines"", ""Tertiary amines"", ""Tertiary carboxylic acid amides"", ""Trialkylamines""]"
+Q10034625-39,NotAvailable,"predicted_chebi_terms: [""carboxamide (CHEBI:37622)"", ""acetamides (CHEBI:22160)"", ""tertiary amino compound (CHEBI:50996)"", ""organonitrogen compound (CHEBI:35352)"", ""organooxygen compound (CHEBI:36963)"", ""organonitrogen heterocyclic compound (CHEBI:38101)"", ""pnictogen molecular entity (CHEBI:33302)"", ""organic molecular entity (CHEBI:50860)"", ""organic oxide (CHEBI:25701)"", ""organic molecule (CHEBI:72695)"", ""carbonyl compound (CHEBI:36586)"", ""N-methylpiperazine (CHEBI:46920)"", ""chemical entity (CHEBI:24431)"", ""amide (CHEBI:32988)"", ""nitrogen molecular entity (CHEBI:51143)"", ""amine (CHEBI:32952)"", ""tertiary amine (CHEBI:32876)"", ""amino acid (CHEBI:33709)"", ""peptide (CHEBI:16670)"", ""organic heterocyclic compound (CHEBI:24532)"", ""oxygen molecular entity (CHEBI:25806)"", ""piperazines (CHEBI:26144)"", ""N-alkylpiperazine (CHEBI:46845)""]"
+Q10034625-39,NotAvailable,predicted_lipidmaps_terms: []
+Q10034625-39,NotAvailable,Classification_version: 2.1
