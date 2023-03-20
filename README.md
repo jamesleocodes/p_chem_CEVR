@@ -1,4 +1,4 @@
-# Log P and Log D
+# Using Machine Learning To Predict Partition Coefficient (Log P) and Distribution Coefficient (Log D) with Molecular Descriptors and Liquid Chromatography Retention Time
 #### Scripts for MLP, XGB, SVM and RF based regression for predicting LogP/LogD using SMRT data set.
 
 #### Our published paper can be found [here](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01373).
