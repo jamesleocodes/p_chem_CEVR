@@ -5,7 +5,7 @@
 
 ## Summary
 
-This repository contains data & code for the JCIM paper [Using Machine Learning To Predict Partition Coefficient (Log P) and Distribution Coefficient (Log D) with Molecular Descriptors and Liquid Chromatography Retention Time](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01373). We predict lipophilicity(LogP & LogD) by using molecular descriptors and liquid chromatography retention time.
+This repository contains data & code for the JCIM paper [Using Machine Learning To Predict Partition Coefficient (Log P) and Distribution Coefficient (Log D) with Molecular Descriptors and Liquid Chromatography Retention Time](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01373). First, we curated the METLIN small molecule retention time (SMRT) dataset. Then, we used machine learning algorithms(MLP, XGB, SVM and RF) to predict lipophilicity(LogP & LogD) by using molecular descriptors and liquid chromatography retention time.
 
 
  We also added scripts for MLP, XGB, SVM and RF based regression for predicting LogP/LogD using SMRT data set.
