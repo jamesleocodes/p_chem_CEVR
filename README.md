@@ -1,5 +1,11 @@
 ## Using Machine Learning To Predict Partition Coefficient (Log P) and Distribution Coefficient (Log D) with Molecular Descriptors and Liquid Chromatography Retention Time
 
+[![Python package](https://github.com/jamesleocodes)]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![DOI:10.1021/acs.jcim.1c00889](https://zenodo.org/badge/DOI/10.1021/acs.jcim.1c00889.svg)](https://doi.org/10.1021/acs.jcim.1c00889)
+[![DOI:10.1021/acs.jcim.2c00840](https://zenodo.org/badge/DOI/10.1021/acs.jcim.2c00840.svg)](https://doi.org/10.1021/acs.jcim.2c00840)
+
 ## Summary
 
 This repository contains data $ and code for the JCIM paper[Using Machine Learning To Predict Partition Coefficient (Log P) and Distribution Coefficient (Log D) with Molecular Descriptors and Liquid Chromatography Retention Time](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01373). We predict lipophilicity(LogP & LogD) by using molecular descriptors and liquid chromatography retention time.
